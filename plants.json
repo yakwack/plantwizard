@@ -1,0 +1,2076 @@
+[
+  {
+    "id": "monstera",
+    "scientificName": "Monstera deliciosa",
+    "etymology": "From Latin 'monstrum' (monster) referring to its unusually perforated leaves, and 'deliciosa' meaning delicious, describing its edible fruit.",
+    "history": "Native to tropical forests of southern Mexico, Monstera deliciosa has been cultivated as a houseplant worldwide since the 19th century due to its striking foliage and ease of care.",
+    "commonNames": [
+      "Swiss Cheese Plant",
+      "Mexican Breadfruit",
+      "Split-leaf Philodendron",
+      "Ceriman"
+    ],
+    "image": "images/monstera/monstera1.jpg",
+    "gallery": [
+      "images/monstera/monstera1.jpg",
+      "images/monstera/monstera2.jpg"
+    ],
+    "care": {
+      "description": "Thrives in humid environments with indirect light.",
+      "tips": [
+        "Wipe leaves to remove dust",
+        "Rotate pot monthly for even growth"
+      ],
+      "issues": [
+        "<strong>Yellowing leaves</strong>: Often due to overwatering. Reduce frequency and check soil moisture.",
+        "<strong>Brown edges:</strong> Usually a sign of low humidity. Increase humidity around the plant by misting or using a humidifier.",
+        " <strong>Drooping leaves:</strong> A sign of thirst. Water thoroughly, allowing excess to drain.",
+        "<strong>Leggy growth:</strong> Indicates insufficient light. Move to a brighter location with indirect sunlight.",
+        " <strong>Pests:</strong> Watch for spider mites, mealybugs, and scale. Treat infestations promptly with insecticidal soap or neem oil."
+      ],
+      "detail": "The Monstera deliciosa is a relatively low-maintenance houseplant that thrives with consistent, attentive care. It flourishes in a spot with bright, indirect light, which is crucial for the development of its signature split leaves. Water your Monstera thoroughly when the top two inches of soil feel dry to the touch, and be careful to avoid overwatering, as it can quickly lead to root rot. A well-draining soil mix that mimics its natural, chunky environment is ideal, and it will appreciate higher humidity levels, which you can provide by misting or using a humidifier. During the growing season, a regular feeding schedule with a balanced liquid fertilizer will support its vigorous growth. Pruning is beneficial to manage its size and encourage bushier growth; simply cut just below a node. Propagation is straightforward through stem cuttings, which can be rooted in water or soil. Keep an eye out for common issues such as yellowing leaves from overwatering or brown edges due to low humidity, and adjust care accordingly to keep your Monstera thriving.",
+      "howToImages": [
+        "images/monstera/browning.jpg",
+        "images/monstera/yellowing.jpg"
+      ]
+    },
+    "watering": {
+      "description": "Water when top 2 inches of soil are dry.",
+      "tips": [
+        "Use room temperature water",
+        "Ensure your pot has adequate drainage holes"
+      ],
+      "issues": [
+        "Overwatering can lead to root rot; ensure soil dries out between waterings."
+      ],
+      "detail": "Water your Monstera deliciosa thoroughly when the top two inches of soil feel dry to the touch. Use room temperature water and ensure that the pot has adequate drainage holes to prevent water from sitting at the bottom, which can lead to root rot. During the growing season (spring and summer), you may need to water more frequently, while in the dormant season (fall and winter), reduce watering frequency. Always check the soil moisture before watering to avoid overwatering.",
+      "frequency": "Every 1–2 weeks depending on humidity",
+      "howToImages": [
+        "images/watering_step1.jpg",
+        "images/watering_step2.jpg"
+      ]
+    },
+    "light": {
+      "description": "Bright, indirect light is best.",
+      "idealHours": "6-8 hours",
+      "detail": "Monsteras thrive in bright, indirect light. Placing them near a window with a sheer curtain is perfect. Direct sun can scorch their leaves, while too little light will result in leggy growth and smaller leaves without their iconic fenestrations.",
+      "howToImages": [
+        "images/light_step1.jpg",
+        "images/light_step2.jpg"
+      ],
+      "tips": [
+        "Rotate the plant periodically for even growth.",
+        "Use a light meter to check for ideal conditions."
+      ]
+    },
+    "medium": {
+      "description": "A well-draining, chunky soil mix.",
+      "detail": "Use a soil mix that is well-draining and airy to prevent root rot. A good mix includes potting soil, perlite, and a coarse material like orchid bark or coco coir. This mimics their natural environment as epiphytes.",
+      "howToImages": [
+        "images/medium_step1.jpg",
+        "images/medium_step2.jpg"
+      ],
+      "tips": [
+        "Always use a pot with drainage holes.",
+        "Avoid regular potting soil alone, as it can retain too much moisture."
+      ]
+    },
+    "propagation": {
+      "description": "Cut a stem just below a node and root in water or soil.",
+      "detail": "Propagation of Monstera deliciosa is typically done through stem cuttings. Select a healthy stem with at least one node and make a clean cut just below the node. You can root the cutting in water or directly in soil. If rooting in water, change the water every few days to keep it fresh. Once roots develop, usually within a few weeks, you can transplant the cutting into a pot with well-draining soil. Keep the new plant in a warm, humid environment with indirect light to encourage growth.",
+      "tips": [
+        "Use a clean, sharp knife or scissors to prevent disease",
+        "Keep cuttings in a warm, humid environment"
+      ],
+      "howToImages": [
+        "images/monstera_cut.jpg",
+        "images/monstera_root.jpg"
+      ]
+    },
+    "issues": {
+      "description": "Common issues include yellowing leaves due to overwatering and brown leaf edges from low humidity.",
+      "image": [
+        "images/monstera/browning.jpg",
+        "images/monstera/yellowing.jpg"
+      ],
+      "tips": [
+        "Common issues include yellowing leaves due to overwatering and brown leaf edges from low humidity."
+      ]
+    },
+    "toxicity": {
+      "description": "Entire plant is toxic to cats, dogs, and humans if ingested. Keep it out of reach of pets and children."
+    },
+    "tags": [
+      "tropical",
+      "climbing",
+      "medium-care",
+      "fenestrations",
+      "air-purifying"
+    ]
+  },
+  {
+    "id": "goldenpothos",
+    "scientificName": "Epipremnum aureum",
+    "etymology": "From Greek 'epi' (upon), 'premno' (a stump), referring to its growth habit, and 'aureum' meaning 'golden' in reference to its yellow-splashed leaves.",
+    "history": "Native to the Mo'orea island in French Polynesia, this vining plant has spread throughout tropical and subtropical forests globally. Its hardiness and striking foliage have made it one of the most popular and easy-to-care-for houseplants in the world since its introduction to cultivation.",
+    "commonNames": [
+      "Golden Pothos",
+      "Devil's Ivy",
+      "Money Plant"
+    ],
+    "image": "images/goldenpothos/pothos1.jpg",
+    "gallery": [
+      "images/goldenpothos/pothos1.jpg",
+      "images/goldenpothos/pothos2.jpg",
+      "images/goldenpothos/pothos3.jpg"
+    ],
+    "care": {
+      "description": "A very forgiving plant that tolerates a wide range of conditions, making it perfect for beginners.",
+      "tips": [
+        "Dust the leaves occasionally to help them absorb light better.",
+        "Trim back vines to encourage a bushier appearance."
+      ],
+      "issues": [
+        "<strong>Yellowing leaves:</strong> Usually a sign of overwatering. Allow the soil to dry out more between waterings.",
+        "<strong>Brown spots or mushy stems:</strong> Indicates root rot. Stop watering and let the plant dry out completely.",
+        "<strong>Drooping leaves:</strong> Often a sign of thirst. Water thoroughly and the leaves should perk up quickly.",
+        "<strong>Loss of variegation:</strong> If the leaves' golden splashes fade to green, it indicates a lack of light. Move to a brighter spot.",
+        "<strong>Pests:</strong> Can be susceptible to mealybugs and spider mites. Check under leaves and use a gentle insecticidal soap if needed."
+      ],
+      "detail": "Golden Pothos is known as 'Devil's Ivy' because it's nearly impossible to kill and stays green even in the dark. It is an incredibly low-maintenance plant that is perfect for beginners. The Pothos can tolerate a variety of light conditions from low to bright, indirect light, but for the best growth and variegation, aim for bright, indirect light. Water only when the soil is completely dry. Overwatering is the most common cause of issues with this plant. Pothos are also excellent air purifiers, making them a great addition to any home. They are fast-growing and can be easily propagated from stem cuttings to share with friends or create a fuller plant.",
+      "howToImages": [
+        "images/goldenpothos/yellowing.jpg",
+        "images/goldenpothos/browning.jpg"
+      ]
+    },
+    "watering": {
+      "description": "Let the soil dry out completely between waterings.",
+      "tips": [
+        "Check soil with your finger before watering.",
+        "The plant is very tolerant of being underwatered, but not overwatered."
+      ],
+      "issues": [
+        "Overwatering is the biggest risk and can lead to root rot."
+      ],
+      "detail": "Golden Pothos prefer to have their soil dry out completely before being watered again. A good rule of thumb is to check the soil with your finger; if it feels dry up to the first knuckle, it's time to water. They are quite forgiving if you forget to water them, but too much water will cause root rot, which is often fatal. Water less frequently in the winter months when the plant's growth slows down.",
+      "frequency": "Every 2–4 weeks, depending on light",
+      "howToImages": [
+        "images/goldenpothos/watering_pothos1.jpg",
+        "images/goldenpothos/watering_pothos2.jpg"
+      ]
+    },
+    "light": {
+      "description": "Tolerates low light, but thrives in bright, indirect light.",
+      "idealHours": "4-6 hours",
+      "detail": "Golden Pothos are famously tolerant of low light conditions, which is why they are a great choice for less-than-ideal spots. However, for a healthier plant and to maintain its vibrant gold and yellow variegation, bright, indirect light is best. Too much direct sun can scorch the leaves, while very low light may cause the golden splashes to fade, and the plant will grow slower.",
+      "howToImages": [
+        "images/goldenpothos/light_pothos1.jpg",
+        "images/goldenpothos/light_pothos2.jpg"
+      ],
+      "tips": [
+        "Place near a north- or east-facing window.",
+        "If leaves are fading, move it closer to a light source."
+      ]
+    },
+    "medium": {
+      "description": "Any standard well-draining potting mix.",
+      "detail": "Golden Pothos are not picky about their soil. Any standard, well-draining potting mix will work just fine. You can add a bit of perlite to ensure extra drainage, which is a key factor in preventing overwatering. They do not require a specialized, chunky mix like other plants.",
+      "howToImages": [
+        "images/goldenpothos/medium_pothos1.jpg",
+        "images/goldenpothos/medium_pothos2.jpg"
+      ],
+      "tips": [
+        "Ensure your pot has a drainage hole.",
+        "They can also be grown in water indefinitely."
+      ]
+    },
+    "propagation": {
+      "description": "Extremely easy to propagate from stem cuttings in water or soil.",
+      "detail": "Propagating a Golden Pothos is one of the easiest ways to get a new plant. Cut a healthy vine that has a few leaves and at least one node (the small bump where a leaf grows from the stem). You can root the cutting in a glass of water, and it will develop roots within a few weeks. Alternatively, you can plant the cutting directly in soil. Keep the cutting in a warm spot with bright, indirect light, and it will quickly begin to grow into a new plant.",
+      "tips": [
+        "Change the water in the glass every few days to keep it fresh.",
+        "You can root multiple cuttings in one glass for a fuller plant."
+      ],
+      "howToImages": [
+        "images/goldenpothos/pothos_cut.jpg",
+        "images/goldenpothos/pothos_root.jpg"
+      ]
+    },
+    "issues": {
+      "description": "Common issues include yellowing leaves from overwatering and loss of variegation from too little light.",
+      "image": [
+        "images/goldenpothos/pothos_yellowing.jpg",
+        "images/goldenpothos/pothos_browning.jpg"
+      ],
+      "tips": [
+        "Overwatering is the number one cause of problems; when in doubt, don't water."
+      ]
+    },
+    "toxicity": {
+      "description": "The entire plant is toxic to cats, dogs, and humans if ingested. It can cause mouth irritation, vomiting, and difficulty swallowing."
+    },
+    "tags": [
+      "vining",
+      "low-light-tolerant",
+      "easy-care",
+      "drought-tolerant",
+      "air-purifying",
+      "variegated"
+    ]
+  },
+  {
+    "id": "peperomia-hope",
+    "scientificName": "Peperomia 'Hope'",
+    "etymology": "From Greek 'peperi' (pepper) and 'homoios' (resembling), as it is a member of the pepper family. 'Hope' is a cultivar name.",
+    "history": "A modern hybrid of two related species, Peperomia deppeana and Peperomia quadrifolia. It was bred to create a beautiful, trailing plant with succulent-like, coin-shaped leaves, making it a popular choice for hanging baskets and shelves.",
+    "commonNames": [
+      "Trailing Watermelon Peperomia"
+    ],
+    "image": "images/peperomia-hope/peperomia-hope1.jpg",
+    "gallery": [
+      "images/peperomia-hope/peperomia-hope1.jpg",
+      "images/peperomia-hope/peperomia-hope2.jpg",
+      "images/peperomia-hope/peperomia-hope3.jpg"
+    ],
+    "care": {
+      "description": "An easy-care plant with succulent-like leaves that needs to dry out between waterings.",
+      "tips": [
+        "Provide a support for climbing or let it trail from a shelf.",
+        "Avoid overwatering to prevent stem rot."
+      ],
+      "issues": [
+        "<strong>Mushy stems or leaves:</strong> A sign of overwatering. Reduce watering frequency immediately.",
+        "<strong>Drooping:</strong> Can indicate thirst, but also a symptom of root rot. Check the soil moisture carefully.",
+        "<strong>Loss of leaves:</strong> Can be caused by either overwatering or underwatering."
+      ],
+      "detail": "Peperomia 'Hope' is a low-maintenance plant that stores water in its thick leaves, behaving similarly to a succulent. Its care is simple: give it plenty of bright, indirect light and let the soil dry out completely between waterings. It's best to water from the bottom to prevent water from accumulating on the stems and causing rot. 'Hope' does not require high humidity and is perfect for a spot with filtered sunlight. It's a great choice for small spaces or shelves where its beautiful, trailing vines can hang freely.",
+      "howToImages": [
+        "images/peperomia-hope/hope_watering.jpg",
+        "images/peperomia-hope/hope_light.jpg"
+      ]
+    },
+    "watering": {
+      "description": "Water thoroughly when the soil is completely dry.",
+      "tips": [
+        "Check soil with a wooden skewer or finger before watering.",
+        "Can be watered from the bottom to prevent stem rot."
+      ],
+      "issues": [
+        "Overwatering is the most common issue and will cause stems to become mushy and rot."
+      ],
+      "detail": "Peperomia 'Hope' is highly susceptible to overwatering. Its succulent-like leaves store water, so it's essential to let the soil dry out entirely between waterings. When you do water, do it thoroughly, allowing excess water to drain from the bottom of the pot. In winter, reduce watering frequency significantly. A good indicator is when the leaves start to feel slightly less firm.",
+      "frequency": "Every 2–3 weeks, depending on light and temperature",
+      "howToImages": [
+        "images/peperomia-hope/hope_watering_howto.jpg",
+        "images/peperomia-hope/hope_drysoil.jpg"
+      ]
+    },
+    "light": {
+      "description": "Bright, indirect light is ideal for healthy growth.",
+      "idealHours": "4-6 hours",
+      "detail": "Peperomia 'Hope' thrives in bright, indirect light. An east-facing window or a few feet back from a south- or west-facing window is a perfect spot. Too little light will cause the plant to become leggy and less full. Direct, harsh sun can scorch the leaves, so avoid placing it in a spot with unshaded afternoon sun.",
+      "howToImages": [
+        "images/peperomia-hope/hope_light1.jpg",
+        "images/peperomia-hope/hope_light2.jpg"
+      ],
+      "tips": [
+        "A north-facing window might be too dark.",
+        "Monitor for leaf scorching if placed near a bright window."
+      ]
+    },
+    "medium": {
+      "description": "A light, well-draining soil mix.",
+      "detail": "Use a standard, well-draining potting mix. A blend of potting soil, perlite, and a bit of coarse sand or orchid bark is ideal. This combination ensures proper aeration and prevents the soil from becoming waterlogged, which is crucial for preventing root rot.",
+      "howToImages": [
+        "images/peperomia-hope/hope_medium1.jpg",
+        "images/peperomia-hope/hope_medium2.jpg"
+      ],
+      "tips": [
+        "Make sure your pot has good drainage holes.",
+        "You can create your own mix with two parts potting soil, one part perlite, and one part sand."
+      ]
+    },
+    "propagation": {
+      "description": "Easy to propagate from stem cuttings.",
+      "detail": "Propagation is straightforward with stem cuttings. Simply snip a piece of a healthy vine with a few leaves. You can either place the cutting in a glass of water, or directly into a small pot with moist soil. Keep the cutting in a warm, bright spot. Roots should begin to form within a few weeks.",
+      "tips": [
+        "Ensure your cutting has at least one node.",
+        "Take multiple cuttings to create a fuller plant once they're rooted."
+      ],
+      "howToImages": [
+        "images/peperomia-hope/hope_cut.jpg",
+        "images/peperomia-hope/hope_root.jpg"
+      ]
+    },
+    "issues": {
+      "description": "Overwatering is the biggest risk, leading to mushy stems and leaves.",
+      "image": [
+        "images/peperomia-hope/hope_drooping.jpg",
+        "images/peperomia-hope/hope_rot.jpg"
+      ],
+      "tips": [
+        "Always check soil moisture before watering and lean towards underwatering."
+      ]
+    },
+    "toxicity": {
+      "description": "Non-toxic and safe for pets and children."
+    },
+    "tags": [
+      "trailing",
+      "succulent-like",
+      "easy-care",
+      "bright-indirect",
+      "non-toxic",
+      "compact"
+    ]
+  },
+  {
+    "id": "portulacaria-afra",
+    "scientificName": "Portulacaria afra",
+    "etymology": "The genus name 'Portulacaria' is a nod to its resemblance to the genus Portulaca (purslane), and 'afra' means 'from Africa'.",
+    "history": "Native to arid regions of South Africa, Portulacaria afra is a resilient succulent known for its ability to withstand drought. In its native habitat, it is a key food source for elephants, which has earned it the common name 'Elephant Bush.' It has long been cultivated as a bonsai subject and a decorative succulent.",
+    "commonNames": [
+      "Elephant Bush",
+      "Dwarf Jade",
+      "Spekboom"
+    ],
+    "image": "images/portulacaria-afra/portulacaria-afra1.jpg",
+    "gallery": [
+      "images/portulacaria-afra/portulacaria-afra1.jpg",
+      "images/portulacaria-afra/portulacaria-afra2.jpg",
+      "images/portulacaria-afra/portulacaria-afra3.jpg"
+    ],
+    "care": {
+      "description": "An incredibly tough, drought-tolerant succulent that thrives with plenty of sun.",
+      "tips": [
+        "Treat it like a succulent: when in doubt, don't water.",
+        "This plant loves being outdoors in summer."
+      ],
+      "issues": [
+        "<strong>Soft or yellowing leaves:</strong> Classic signs of overwatering. Reduce watering frequency.",
+        "<strong>Wrinkled or shriveled leaves:</strong> The plant is thirsty. Give it a good soak.",
+        "<strong>Leaf drop:</strong> Can be caused by a sudden change in temperature or light, or by overwatering."
+      ],
+      "detail": "Portulacaria afra is a tough and resilient succulent that's perfect for beginners. Its care is very similar to that of a Jade plant. It thrives in bright, direct sunlight, and is very drought-tolerant. Its plump, coin-shaped leaves store water, so it's essential to let the soil dry out completely between waterings to prevent root rot. This plant is a fantastic addition to sunny windowsills, and its woody stems make it a popular choice for bonsai enthusiasts. It can also be a fast grower, so don't be afraid to prune it to maintain its desired shape and size.",
+      "howToImages": [
+        "images/portulacaria-afra/afra_watering.jpg",
+        "images/portulacaria-afra/afra_light.jpg"
+      ]
+    },
+    "watering": {
+      "description": "Water sparingly, allowing the soil to dry out completely.",
+      "tips": [
+        "Water less in winter months when growth slows down.",
+        "Check for dryness by pushing your finger deep into the soil."
+      ],
+      "issues": [
+        "Overwatering is the primary cause of death. The leaves will become soft and yellow, and the stems will get mushy."
+      ],
+      "detail": "As a succulent, Portulacaria afra is very sensitive to overwatering. Water thoroughly, but only when the soil has completely dried out. In summer, this might be every few weeks, but in winter, it could be once a month or even less. The plant's leaves will start to shrivel slightly when it's thirsty, which is a good indicator that it's time to water.",
+      "frequency": "Every 2–4 weeks, depending on light",
+      "howToImages": [
+        "images/portulacaria-afra/afra_drysoil.jpg",
+        "images/portulacaria-afra/afra_soaking.jpg"
+      ]
+    },
+    "light": {
+      "description": "Loves bright, direct sunlight.",
+      "idealHours": "6-8 hours",
+      "detail": "Portulacaria afra performs best in full sun. Place it in your brightest window, such as a south-facing one. It can tolerate some indirect light, but its growth will become leggy and the leaves will be less dense. If you can, move it outdoors in the summer to a sunny spot for incredible growth.",
+      "howToImages": [
+        "images/portulacaria-afra/afra_sun.jpg",
+        "images/portulacaria-afra/afra_outdoors.jpg"
+      ],
+      "tips": [
+        "A lack of sun will cause stems to be weak and leaves to be spaced far apart.",
+        "Can adapt to less light, but thrives in full sun."
+      ]
+    },
+    "medium": {
+      "description": "Use a gritty, well-draining succulent or cactus mix.",
+      "detail": "The most important thing for this plant is drainage. Use a pre-mixed succulent or cactus soil, or create your own blend of potting soil, coarse sand, and perlite. The soil should be light and airy, allowing water to pass through quickly and prevent the roots from sitting in moisture.",
+      "howToImages": [
+        "images/portulacaria-afra/afra_medium1.jpg",
+        "images/portulacaria-afra/afra_medium2.jpg"
+      ],
+      "tips": [
+        "Avoid standard potting soil alone.",
+        "Ensure the pot has excellent drainage holes."
+      ]
+    },
+    "propagation": {
+      "description": "One of the easiest plants to propagate from stem cuttings.",
+      "detail": "Portulacaria afra propagation is incredibly easy. Simply snip a small stem and let the cut end callus over for a day or two. You can then stick it directly into dry, well-draining soil. Wait a week or two before giving it its first light watering. Roots will quickly form, and the plant will begin to grow.",
+      "tips": [
+        "Use a clean pair of shears for a clean cut.",
+        "Wait for the cutting to 'heal' before planting."
+      ],
+      "howToImages": [
+        "images/portulacaria-afra/afra_cut.jpg",
+        "images/portulacaria-afra/afra_prop.jpg"
+      ]
+    },
+    "issues": {
+      "description": "The most common issue is overwatering, which leads to mushy, yellowing leaves and stem rot.",
+      "image": [
+        "images/portulacaria-afra/afra_overwatered.jpg",
+        "images/portulacaria-afra/afra_underwatered.jpg"
+      ],
+      "tips": [
+        "When in doubt, always wait to water. The plant will tell you when it's thirsty."
+      ]
+    },
+    "toxicity": {
+      "description": "Non-toxic and safe for cats, dogs, and humans."
+    },
+    "tags": [
+      "succulent",
+      "drought-tolerant",
+      "full-sun",
+      "low-maintenance",
+      "edible",
+      "non-toxic"
+    ]
+  },
+  {
+    "id": "zz-plant",
+    "scientificName": "Zamioculcas zamiifolia",
+    "etymology": "The name *Zamioculcas* is derived from the genus 'Zamia' (a genus of cycads) and 'Colocasia' (a genus of taro). *Zamiifolia* means 'with Zamia-like leaves'.",
+    "history": "Native to the arid grasslands and forests of eastern Africa, the ZZ Plant is known for its ability to withstand extreme drought. Its large rhizomes store water, allowing it to survive long periods without rain. It became a popular houseplant in the late 20th century due to its almost indestructible nature and striking, glossy leaves.",
+    "commonNames": [
+      "ZZ Plant",
+      "Zanzibar Gem",
+      "Eternity Plant"
+    ],
+    "image": "images/zz-plant/zz1.jpg",
+    "gallery": [
+      "images/zz-plant/zz1.jpg",
+      "images/zz-plant/zz2.jpg",
+      "images/zz-plant/zz3.jpg"
+    ],
+    "care": {
+      "description": "A nearly indestructible plant that thrives on neglect. The perfect plant for busy people or beginners.",
+      "tips": [
+        "The number one rule is to not overwater.",
+        "Can survive with very little light."
+      ],
+      "issues": [
+        "<strong>Yellowing leaves and mushy stems:</strong> The most common issue, caused by overwatering. Stop watering immediately.",
+        "<strong>Dropping leaves:</strong> A sign of severe underwatering. Give the plant a thorough soak.",
+        "<strong>No new growth:</strong> Indicates too little light. Move to a brighter spot to encourage growth."
+      ],
+      "detail": "The ZZ Plant is a true survivor, thriving in conditions that would kill most other houseplants. It's best to treat it as a succulent, as its large, potato-like rhizomes store water. The plant does best in medium to low, indirect light. It's incredibly forgiving and can tolerate very low light, but it will grow much faster and be healthier in a brighter spot. Its care is simple: water only when the soil is completely dry, and then water thoroughly. Avoid frequent small sips of water. The ZZ Plant is perfect for a dark corner, an office desk, or any spot that needs a touch of green without a lot of fuss.",
+      "howToImages": [
+        "images/zz-plant/zz_watering.jpg",
+        "images/zz-plant/zz_light.jpg"
+      ]
+    },
+    "watering": {
+      "description": "Water only when the soil is completely dry.",
+      "tips": [
+        "It's better to underwater than to overwater this plant.",
+        "Water less in the winter months."
+      ],
+      "issues": [
+        "Overwatering is the leading cause of issues. The rhizomes will rot and the plant will die."
+      ],
+      "detail": "ZZ plants are highly susceptible to root rot. They have a natural ability to store water in their rhizomes, so they can go for weeks or even months without water. Only water when the soil is dry all the way down to the bottom of the pot. When you do water, soak it thoroughly and let the excess drain away. If the stems and leaves start to feel soft and mushy, it is a sign of rot from overwatering. In this case, stop watering immediately.",
+      "frequency": "Every 2–4 weeks, but depends on light and temperature",
+      "howToImages": [
+        "images/zz-plant/zz_drysoil.jpg",
+        "images/zz-plant/zz_thorough_soak.jpg"
+      ]
+    },
+    "light": {
+      "description": "Tolerates low light, but prefers medium, indirect light.",
+      "idealHours": "4-6 hours",
+      "detail": "While the ZZ plant is famous for surviving in low-light conditions, it will thrive in medium to bright, indirect light. A spot near a north- or east-facing window is ideal. Too much direct sun will scorch the leaves, while very low light will cause slow growth. It's a great choice for darker rooms or offices where other plants might not survive.",
+      "howToImages": [
+        "images/zz-plant/zz_light1.jpg",
+        "images/zz-plant/zz_light2.jpg"
+      ],
+      "tips": [
+        "Consider moving it to a brighter spot if you want faster growth.",
+        "Too little light may cause the stems to stretch."
+      ]
+    },
+    "medium": {
+      "description": "A well-draining, standard potting mix.",
+      "detail": "Any well-draining potting soil will work for a ZZ plant. It's important that the soil does not retain too much moisture, as this can lead to root rot. You can amend a standard potting mix with perlite or coarse sand to improve drainage and aeration, but a basic blend is usually sufficient.",
+      "howToImages": [
+        "images/zz-plant/zz_medium1.jpg",
+        "images/zz-plant/zz_medium2.jpg"
+      ],
+      "tips": [
+        "A standard blend of peat, perlite, and pine bark is a good mix.",
+        "Always choose a pot with good drainage holes."
+      ]
+    },
+    "propagation": {
+      "description": "Can be propagated from a single leaf, but it's very slow.",
+      "detail": "Propagating a ZZ plant is a long and patient process. The most common method is using a single leaf cutting. Simply remove a leaf and a small part of its stem, and place it in a well-draining soil mix. A rhizome and new shoots will eventually form, but this can take several months to a year. For faster results, propagate using a stem cutting with a section of the rhizome attached.",
+      "tips": [
+        "Be patient! This is a slow process.",
+        "Leaf cuttings can take up to a year to produce new plants."
+      ],
+      "howToImages": [
+        "images/zz-plant/zz_leaf_cutting.jpg",
+        "images/zz-plant/zz_rhizome.jpg"
+      ]
+    },
+    "issues": {
+      "description": "The main issue is overwatering, which causes yellowing leaves, soft stems, and death.",
+      "image": [
+        "images/zz-plant/zz_yellowing.jpg",
+        "images/zz-plant/zz_drooping.jpg"
+      ],
+      "tips": [
+        "If the stems are soft or yellow, you have a watering issue. Reduce watering immediately."
+      ]
+    },
+    "toxicity": {
+      "description": "All parts of the ZZ plant are toxic if ingested due to the presence of calcium oxalate crystals. Keep away from pets and children."
+    },
+    "tags": [
+      "drought-tolerant",
+      "low-light-tolerant",
+      "neglect-tolerant",
+      "easy-care",
+      "air-purifying",
+      "non-toxic"
+    ]
+  },
+  {
+    "id": "petunia-atkinsiana",
+    "scientificName": "Petunia x atkinsiana",
+    "etymology": "The name 'Petunia' is derived from the Tupi-Guarani word 'petun' which means tobacco, as the two plants are closely related. The 'x' in the scientific name signifies that it is a hybrid of two or more species.",
+    "history": "Petunia x atkinsiana is a complex hybrid derived from several wild South American petunia species. Bred for its prolific flowering, vibrant colors, and large blooms, it has become one of the most popular annual bedding plants and container flowers in gardens and on patios worldwide.",
+    "commonNames": [
+      "Petunia"
+    ],
+    "image": "images/petunia/petunia1.jpg",
+    "gallery": [
+      "images/petunia/petunia1.jpg",
+      "images/petunia/petunia2.jpg",
+      "images/petunia/petunia3.jpg"
+    ],
+    "care": {
+      "description": "A sun-loving plant that requires consistent watering and regular deadheading to keep flowering.",
+      "tips": [
+        "Regularly deadhead spent blooms to encourage more flowers.",
+        "Provide a support for vining varieties or let them spill from a pot."
+      ],
+      "issues": [
+        "<strong>Yellowing leaves:</strong> Can be a sign of overwatering or a lack of nutrients. Check soil moisture and consider fertilizing.",
+        "<strong>Leggy growth:</strong> Indicates not enough light. Move to a sunnier location.",
+        "<strong>Failure to bloom:</strong> Usually due to a lack of sun, nutrients, or insufficient deadheading."
+      ],
+      "detail": "Petunias are a classic choice for vibrant, colorful displays. They are annuals, meaning they complete their life cycle in one year. They require at least 6-8 hours of direct sun per day to produce a full flush of flowers. Petunias are heavy feeders and will benefit from regular fertilization. Consistent watering is essential, as they do not like to dry out completely. To keep them looking their best, you must 'deadhead' spent flowers by pinching them off at the base. This encourages the plant to produce more blooms and prevents it from setting seed.",
+      "howToImages": [
+        "images/petunia/petunia_deadhead.jpg",
+        "images/petunia/petunia_water.jpg"
+      ]
+    },
+    "watering": {
+      "description": "Requires consistent watering, especially in hot weather.",
+      "tips": [
+        "Check soil moisture daily in hot, sunny weather.",
+        "Water at the base of the plant to avoid getting leaves wet."
+      ],
+      "issues": [
+        "Overwatering can cause root rot and yellowing leaves. Underwatering will cause the plant to wilt and droop."
+      ],
+      "detail": "Petunias do not like to dry out. In hot summer weather, they may need to be watered daily. It is best to water them deeply and consistently. Ensure the soil is moist but not soggy. A pot with good drainage is essential. A great sign of thirst is when the plant begins to droop, but it will quickly perk up after a good watering.",
+      "frequency": "Daily in summer, otherwise every 2-3 days",
+      "howToImages": [
+        "images/petunia/petunia_watering1.jpg",
+        "images/petunia/petunia_watering2.jpg"
+      ]
+    },
+    "light": {
+      "description": "Requires at least 6 hours of full sun per day.",
+      "idealHours": "6-8 hours",
+      "detail": "Petunias are sun-loving plants that need plenty of direct sunlight to thrive. A location with full sun for at least 6 hours a day is essential for a good show of blooms. If they do not receive enough sun, the stems will become long and leggy, and they will produce very few flowers.",
+      "howToImages": [
+        "images/petunia/petunia_sun1.jpg",
+        "images/petunia/petunia_sun2.jpg"
+      ],
+      "tips": [
+        "Plant in your sunniest spot.",
+        "If growing in a container, ensure it can be moved to a sunny location."
+      ]
+    },
+    "medium": {
+      "description": "A well-draining, rich potting mix is best.",
+      "detail": "Use a high-quality potting mix that is rich in organic matter and has good drainage. A standard potting mix is usually sufficient. Since petunias are heavy feeders, a mix that contains some slow-release fertilizer can be beneficial. Avoid heavy clay soils that retain too much moisture.",
+      "howToImages": [
+        "images/petunia/petunia_medium1.jpg",
+        "images/petunia/petunia_medium2.jpg"
+      ],
+      "tips": [
+        "Add compost or manure to the soil for extra nutrients.",
+        "Plant in containers with plenty of drainage holes."
+      ]
+    },
+    "propagation": {
+      "description": "Can be grown from seeds or propagated from stem cuttings.",
+      "detail": "Petunias can be propagated from stem cuttings, which is a great way to save a favorite variety for the next season. Take a cutting from a healthy stem, remove the lower leaves, and plant it in moist soil. Keep the cutting in a humid environment and away from direct sunlight until it has rooted. For most gardeners, growing petunias from seeds is the more common method.",
+      "tips": [
+        "Take cuttings from non-flowering stems.",
+        "Rooting hormone can help increase the success rate."
+      ],
+      "howToImages": [
+        "images/petunia/petunia_cutting.jpg",
+        "images/petunia/petunia_seed.jpg"
+      ]
+    },
+    "issues": {
+      "description": "Common issues include leggy growth from lack of sun and yellowing leaves from overwatering.",
+      "image": [
+        "images/petunia/petunia_drooping.jpg",
+        "images/petunia/petunia_yellow.jpg"
+      ],
+      "tips": [
+        "If the plant looks sad, check for proper watering and sun exposure."
+      ]
+    },
+    "toxicity": {
+      "description": "Non-toxic and safe for pets and children."
+    },
+    "tags": [
+      "annual",
+      "flowering",
+      "full-sun",
+      "garden-plant",
+      "container-plant",
+      "heavy-feeder"
+    ]
+  },
+  {
+    "id": "philodendron-hederaceum",
+    "scientificName": "Philodendron hederaceum",
+    "etymology": "The name 'Philodendron' is from the Greek 'philo' (love) and 'dendron' (tree), literally meaning 'tree lover' due to its climbing nature. 'Hederaceum' means 'like ivy', referring to its vining habit.",
+    "history": "A native of the Caribbean and Central America, this plant is a classic and reliable houseplant. It was introduced to cultivation early on for its graceful, vining habit and heart-shaped leaves, making it one of the most popular and durable houseplants.",
+    "commonNames": [
+      "Heartleaf Philodendron",
+      "Sweetheart Plant"
+    ],
+    "image": "images/philodendron/philodendron1.jpg",
+    "gallery": [
+      "images/philodendron/philodendron1.jpg",
+      "images/philodendron/philodendron2.jpg",
+      "images/philodendron/philodendron3.jpg"
+    ],
+    "care": {
+      "description": "A very forgiving vining plant that tolerates low light and neglect.",
+      "tips": [
+        "Wipe leaves with a damp cloth to keep them shiny.",
+        "Prune to keep the plant full and bushy."
+      ],
+      "issues": [
+        "<strong>Yellowing leaves:</strong> Usually a sign of overwatering. Let the soil dry out completely between waterings.",
+        "<strong>Brown, crispy tips:</strong> Indicates low humidity or underwatering. Mist the plant and check soil moisture.",
+        "<strong>Stretched, leggy growth:</strong> Caused by a lack of light. Move to a brighter location."
+      ],
+      "detail": "The Heartleaf Philodendron is an incredibly easy-to-care-for vining plant that is perfect for beginners. It is highly adaptable and can tolerate a wide range of light conditions, from low to bright, indirect light. It's best to water it when the top inch of soil is dry. Like Pothos, this plant is very forgiving and bounces back quickly from a bit of neglect. Its heart-shaped leaves grow on long vines that can be trained to climb a pole or left to trail gracefully from a hanging basket or shelf. It's a fast grower and can easily be propagated to create new plants.",
+      "howToImages": [
+        "images/philodendron/philodendron_watering.jpg",
+        "images/philodendron/philodendron_light.jpg"
+      ]
+    },
+    "watering": {
+      "description": "Water when the top inch of soil is dry.",
+      "tips": [
+        "Check soil moisture with your finger before watering.",
+        "Ensure the pot has drainage holes."
+      ],
+      "issues": [
+        "Overwatering is the biggest threat and can lead to root rot. Leaves will yellow and drop."
+      ],
+      "detail": "Water your Heartleaf Philodendron when the top inch of soil is dry. It's important to let the soil dry out between waterings to prevent root rot. The plant is quite resilient to being underwatered and will show signs of thirst by drooping its leaves, but it will quickly recover once watered. Water less frequently in the winter months when the plant's growth slows down.",
+      "frequency": "Every 1–2 weeks, depending on light",
+      "howToImages": [
+        "images/philodendron/philodendron_drysoil.jpg",
+        "images/philodendron/philodendron_soak.jpg"
+      ]
+    },
+    "light": {
+      "description": "Thrives in medium to bright, indirect light.",
+      "idealHours": "4-6 hours",
+      "detail": "While the Heartleaf Philodendron is famously tolerant of low-light conditions, it will grow faster and be much healthier in medium to bright, indirect light. A spot near a north- or east-facing window is ideal. Avoid direct sunlight, as it can burn the delicate leaves. In very low light, the plant will still survive but will become leggy with smaller leaves spaced far apart.",
+      "howToImages": [
+        "images/philodendron/philodendron_light1.jpg",
+        "images/philodendron/philodendron_light2.jpg"
+      ],
+      "tips": [
+        "The leaves will be a deeper green in lower light.",
+        "If the plant looks leggy, move it to a brighter spot."
+      ]
+    },
+    "medium": {
+      "description": "A well-draining, standard potting mix.",
+      "detail": "This plant is not particular about its soil as long as it's well-draining. A standard indoor potting mix is perfectly suitable. You can add perlite to a standard mix to improve aeration and drainage, which is the most important factor in preventing root rot.",
+      "howToImages": [
+        "images/philodendron/philodendron_medium1.jpg",
+        "images/philodendron/philodendron_medium2.jpg"
+      ],
+      "tips": [
+        "Ensure the pot has drainage holes.",
+        "This plant is very adaptable and doesn't require a special mix."
+      ]
+    },
+    "propagation": {
+      "description": "Very easy to propagate from stem cuttings in water or soil.",
+      "detail": "Propagation is incredibly easy. Simply take a stem cutting that has at least 2-3 nodes (the small bumps on the stem from which leaves grow). You can place the cutting in a glass of water, and it will develop roots quickly. Once the roots are a couple of inches long, you can plant it in soil. Alternatively, you can plant the cutting directly in soil and keep it moist until it takes root.",
+      "tips": [
+        "Change the water in the propagation jar every few days.",
+        "Propagating multiple cuttings at once will create a full plant faster."
+      ],
+      "howToImages": [
+        "images/philodendron/philodendron_cut.jpg",
+        "images/philodendron/philodendron_root.jpg"
+      ]
+    },
+    "issues": {
+      "description": "Overwatering is the most common issue, causing leaves to yellow and drop.",
+      "image": [
+        "images/philodendron/philodendron_yellow.jpg",
+        "images/philodendron/philodendron_droop.jpg"
+      ],
+      "tips": [
+        "Always let the top inch of soil dry out before watering again."
+      ]
+    },
+    "toxicity": {
+      "description": "The entire plant is toxic if ingested due to calcium oxalate crystals. Keep out of reach of pets and children."
+    },
+    "tags": [
+      "vining",
+      "low-light-tolerant",
+      "easy-care",
+      "heart-shaped-leaves",
+      "air-purifying"
+    ]
+  },
+  {
+    "id": "pilea-peperomioides",
+    "scientificName": "Pilea peperomioides",
+    "etymology": "The genus name *Pilea* comes from the Latin 'pilus' meaning 'hair,' referring to the hairy sepals of some species. *peperomioides* means 'resembling Peperomia,' due to the similar appearance of its leaves.",
+    "history": "Native to the Yunnan province of Southern China, the Pilea was discovered and brought to Europe by a Norwegian missionary in the 1940s. From there, it was passed from friend to friend as a houseplant, earning it the nickname 'Friendship Plant.' It became widely popular in the 2010s due to social media and its unique, coin-shaped leaves.",
+    "commonNames": [
+      "Pancake Plant",
+      "UFO Plant",
+      "Chinese Money Plant",
+      "Friendship Plant"
+    ],
+    "image": "images/pilea/pilea1.jpg",
+    "gallery": [
+      "images/pilea/pilea1.jpg",
+      "images/pilea/pilea2.jpg",
+      "images/pilea/pilea3.jpg"
+    ],
+    "care": {
+      "description": "A very popular houseplant with a unique look that is simple to care for.",
+      "tips": [
+        "Wipe the leaves with a damp cloth to prevent dust buildup.",
+        "Rotate the pot weekly for symmetrical growth."
+      ],
+      "issues": [
+        "<strong>Cupping or curling leaves:</strong> A sign of too much direct light. Move to a spot with filtered light.",
+        "<strong>Yellowing lower leaves:</strong> Indicates overwatering. Let the soil dry out more before watering again.",
+        "<strong>Drooping leaves:</strong> A sign of thirst. The leaves will quickly perk up after a watering.",
+        "<strong>Brown spots:</strong> Can be from sunburn. Move out of direct light immediately."
+      ],
+      "detail": "The Pilea peperomioides is a fun and easy-to-care-for plant. It loves bright, indirect light, which helps it maintain its compact shape and vibrant green color. Water your Pilea when the top inch of soil is dry, but be careful not to overwater, as it is prone to root rot. One of its most endearing qualities is its ability to produce 'pups,' or baby plants, from its roots. These can be easily separated to share with friends, which is how the plant earned its 'Friendship Plant' nickname.",
+      "howToImages": [
+        "images/pilea/pilea_watering.jpg",
+        "images/pilea/pilea_light.jpg"
+      ]
+    },
+    "watering": {
+      "description": "Water when the top inch of soil is dry to the touch.",
+      "tips": [
+        "Stick your finger into the soil to check for moisture.",
+        "Ensure the pot has drainage holes."
+      ],
+      "issues": [
+        "The plant is highly susceptible to root rot from overwatering. Leaves will turn yellow and drop off."
+      ],
+      "detail": "It's best to let the top inch or two of soil dry out before watering your Pilea. Give it a good soak, allowing excess water to drain from the bottom of the pot. In winter, reduce watering frequency as the plant's growth slows down. The Pilea's leaves can tell you a lot about its watering needs; if they start to droop slightly, it's a good sign that it's thirsty.",
+      "frequency": "Every 1-2 weeks, depending on light",
+      "howToImages": [
+        "images/pilea/pilea_drysoil.jpg",
+        "images/pilea/pilea_soaking.jpg"
+      ]
+    },
+    "light": {
+      "description": "Prefers bright, indirect light for best growth.",
+      "idealHours": "4-6 hours",
+      "detail": "Pilea peperomioides loves bright, indirect light. Placing it near a window with a sheer curtain is a great option. If the leaves start to curl inward like a taco, it's a sign of too much direct sunlight. On the other hand, if the leaves are growing large and flat, it might need more light. Rotating the plant regularly will help it maintain a symmetrical shape.",
+      "howToImages": [
+        "images/pilea/pilea_light1.jpg",
+        "images/pilea/pilea_light2.jpg"
+      ],
+      "tips": [
+        "Leaves will turn pale green in low light.",
+        "Avoid any direct, harsh afternoon sun."
+      ]
+    },
+    "medium": {
+      "description": "A well-draining, airy potting mix.",
+      "detail": "A standard potting mix is usually sufficient for a Pilea, but it's important to ensure it drains well. You can mix in perlite to improve drainage and aeration. This will help prevent water from sitting at the bottom of the pot, which is a common cause of root rot. The soil should be light and fluffy, not compacted.",
+      "howToImages": [
+        "images/pilea/pilea_medium1.jpg",
+        "images/pilea/pilea_medium2.jpg"
+      ],
+      "tips": [
+        "A mix of potting soil, perlite, and sand is a great homemade blend.",
+        "Repot the plant when its roots start to fill the pot."
+      ]
+    },
+    "propagation": {
+      "description": "Extremely easy to propagate from the 'pups' or offsets that grow from the soil.",
+      "detail": "The most common way to propagate a Pilea is by removing the 'pups' that grow from the main stem's roots. When the pup is a few inches tall, you can gently cut it from the mother plant's root system with a clean knife. Plant the pup in a small pot with moist soil, and keep it in a bright, warm spot. It will quickly establish itself and begin to grow into a new plant.",
+      "tips": [
+        "You can also root the pups in water before planting them in soil.",
+        "Allow the cut on the mother plant to dry for a day before watering again."
+      ],
+      "howToImages": [
+        "images/pilea/pilea_prop1.jpg",
+        "images/pilea/pilea_prop2.jpg"
+      ]
+    },
+    "issues": {
+      "description": "Common issues include cupping leaves from too much sun and yellowing leaves from overwatering.",
+      "image": [
+        "images/pilea/pilea_yellowing.jpg",
+        "images/pilea/pilea_cupping.jpg"
+      ],
+      "tips": [
+        "The plant will tell you its needs. Look for drooping leaves when thirsty or yellowing from overwatering."
+      ]
+    },
+    "toxicity": {
+      "description": "Non-toxic and safe for cats, dogs, and humans."
+    },
+    "tags": [
+      "unique-leaves",
+      "bright-indirect",
+      "easy-care",
+      "low-maintenance",
+      "non-toxic",
+      "friendship-plant"
+    ]
+  },
+  {
+    "id": "monstera-adansonii",
+    "scientificName": "Monstera adansonii",
+    "etymology": "The name 'Monstera' is Latin for 'monstrous,' referring to its large size and unusual appearance. 'Adansonii' is named after the French botanist Michel Adanson.",
+    "history": "A native of Central and South American rainforests, the Monstera adansonii is a vining plant known for its distinct, prominent holes (fenestrations) that appear on its leaves from a young age. It is a smaller relative of the more famous Monstera deliciosa and has recently become a very popular houseplant due to its unique appearance and easy care.",
+    "commonNames": [
+      "Swiss Cheese Vine",
+      "Adanson's Monstera"
+    ],
+    "image": "images/monstera-adansonii/adansonii1.jpg",
+    "gallery": [
+      "images/monstera-adansonii/adansonii1.jpg",
+      "images/monstera-adansonii/adansonii2.jpg",
+      "images/monstera-adansonii/adansonii3.jpg"
+    ],
+    "care": {
+      "description": "A fast-growing vining plant that requires bright, indirect light and a humid environment.",
+      "tips": [
+        "Provide a moss pole or trellis for it to climb, which will result in larger leaves.",
+        "Ensure high humidity, especially if you live in a dry climate."
+      ],
+      "issues": [
+        "<strong>Brown, crispy tips:</strong> A sign of low humidity or underwatering. Mist the plant and increase humidity.",
+        "<strong>Yellowing leaves:</strong> Usually from overwatering. Let the soil dry out more between waterings.",
+        "<strong>Lack of holes or new growth:</strong> Indicates insufficient light or lack of a climbing surface."
+      ],
+      "detail": "Monstera adansonii is a beautiful vining plant known for its unique 'holey' leaves. It is a faster grower than its larger cousin, Monstera deliciosa, and will thrive in a warm, humid environment with plenty of bright, indirect light. A chunky, well-draining soil mix is essential to prevent root rot. You can let the vines trail from a hanging basket, or for a more impressive plant with larger leaves, provide a moss pole or trellis for it to climb. It's a great choice for adding a touch of the jungle to your home.",
+      "howToImages": [
+        "images/monstera-adansonii/adansonii_watering.jpg",
+        "images/monstera-adansonii/adansonii_light.jpg"
+      ]
+    },
+    "watering": {
+      "description": "Water when the top 1-2 inches of soil are dry.",
+      "tips": [
+        "Check soil with your finger before watering.",
+        "Overwatering is the biggest threat; when in doubt, wait."
+      ],
+      "issues": [
+        "Overwatering is the leading cause of death. Leaves will turn yellow and the plant will eventually die from root rot."
+      ],
+      "detail": "Water your Monstera adansonii when the top inch or two of soil has dried out. It's important to let the soil dry out a bit between waterings to prevent root rot. In the summer, you may need to water more frequently, while in the winter months, you can cut back. The plant will show signs of thirst by having slightly drooping leaves, and it will quickly perk up after a good watering.",
+      "frequency": "Every 1–2 weeks, depending on humidity and light",
+      "howToImages": [
+        "images/monstera-adansonii/adansonii_drysoil.jpg",
+        "images/monstera-adansonii/adansonii_soak.jpg"
+      ]
+    },
+    "light": {
+      "description": "Prefers bright, indirect light.",
+      "idealHours": "6-8 hours",
+      "detail": "Monstera adansonii thrives in bright, indirect light. Placing it near a window that gets filtered light is a perfect location. Avoid direct sunlight, as it can burn the delicate leaves. In too little light, the plant's growth will slow, and its leaves will not develop their signature holes and may be smaller than normal.",
+      "howToImages": [
+        "images/monstera-adansonii/adansonii_light1.jpg",
+        "images/monstera-adansonii/adansonii_light2.jpg"
+      ],
+      "tips": [
+        "Rotate the plant regularly for even growth.",
+        "If leaves are yellowing or brown from sunburn, move the plant out of direct sun."
+      ]
+    },
+    "medium": {
+      "description": "A chunky, airy, and well-draining soil mix.",
+      "detail": "A well-draining, airy soil mix is essential for a Monstera adansonii. A mix of potting soil, perlite, and a coarse material like orchid bark or coco coir will work best. This mimics its natural environment and helps prevent the roots from becoming waterlogged. Ensure your pot has good drainage holes.",
+      "howToImages": [
+        "images/monstera-adansonii/adansonii_medium1.jpg",
+        "images/monstera-adansonii/adansonii_medium2.jpg"
+      ],
+      "tips": [
+        "A soil mix that is too dense can lead to root rot.",
+        "Repot annually or when the roots begin to circle the pot."
+      ]
+    },
+    "propagation": {
+      "description": "Easily propagated from stem cuttings in water or soil.",
+      "detail": "Propagation of Monstera adansonii is very easy. Simply take a stem cutting that has at least one node and a leaf attached. You can place the cutting in a glass of water, and it will quickly develop roots. Once the roots are a few inches long, you can plant it in soil. Alternatively, you can plant the cutting directly in a pot with moist soil and keep it in a humid, warm spot until it takes root.",
+      "tips": [
+        "Ensure your cutting has at least one node.",
+        "A propagation box or bag can help maintain humidity for faster rooting."
+      ],
+      "howToImages": [
+        "images/monstera-adansonii/adansonii_cut.jpg",
+        "images/monstera-adansonii/adansonii_root.jpg"
+      ]
+    },
+    "issues": {
+      "description": "Common issues include yellowing leaves from overwatering and brown tips from low humidity.",
+      "image": [
+        "images/monstera-adansonii/adansonii_yellowing.jpg",
+        "images/monstera-adansonii/adansonii_browning.jpg"
+      ],
+      "tips": [
+        "Monitor the soil and humidity. This plant is a good indicator of its environment's needs."
+      ]
+    },
+    "toxicity": {
+      "description": "The entire plant is toxic if ingested due to calcium oxalate crystals. Keep out of reach of pets and children."
+    },
+    "tags": [
+      "vining",
+      "fenestrations",
+      "high-humidity",
+      "medium-care",
+      "bright-indirect"
+    ]
+  },
+  {
+    "id": "chlorophytum-comosum",
+    "scientificName": "Chlorophytum comosum",
+    "etymology": "From Greek 'chloros' (green) and 'phyton' (plant), and 'comosum' meaning 'tufted' from the plantlets it produces on its stems.",
+    "history": "Native to tropical and southern Africa, the Spider Plant has been a popular houseplant for centuries due to its resilience and ease of care. Its ability to produce new plantlets from its stems, which can be easily separated, earned it the nickname 'Spider Plant' and has made it a favorite for sharing among gardeners.",
+    "commonNames": [
+      "Spider Plant",
+      "Spider Ivy",
+      "Ribbon Plant",
+      "Airplane Plant"
+    ],
+    "image": "images/chlorophytum-comosum/comosum1.jpg",
+    "gallery": [
+      "images/chlorophytum-comosum/comosum1.jpg",
+      "images/chlorophytum-comosum/comosum2.jpg",
+      "images/chlorophytum-comosum/comosum3.jpg"
+    ],
+    "care": {
+      "description": "An extremely easy-to-grow plant that is very forgiving and perfect for beginners.",
+      "tips": [
+        "Keep away from direct sunlight to prevent leaf scorching.",
+        "Consider a hanging basket to display its graceful arching leaves and plantlets."
+      ],
+      "issues": [
+        "<strong>Brown tips:</strong> A very common issue, often caused by fluoride or salts in tap water. Use filtered or rainwater if possible.",
+        "<strong>Pale or yellow leaves:</strong> Can be caused by overwatering or not enough nutrients. Check soil moisture and consider fertilizing.",
+        "<strong>Limp or droopy leaves:</strong> A sign of thirst. The plant will perk up after watering.",
+        "<strong>Lack of plantlets:</strong> The plant may not be getting enough light. Move to a brighter spot to encourage plantlet production."
+      ],
+      "detail": "The Spider Plant is a classic houseplant for a reason: it's incredibly tough and easy to care for. It thrives in bright, indirect light and tolerates a wide range of light conditions, though it will not do well in direct sun. It's a great choice for hanging baskets, as its long, arching leaves and baby plantlets (pups) create a beautiful, cascading effect. The plant is known for its ability to produce many of these pups, which can be easily rooted in water or soil to create new plants. This makes it a great plant for sharing with friends.",
+      "howToImages": [
+        "images/chlorophytum-comosum/comosum_watering.jpg",
+        "images/chlorophytum-comosum/comosum_light.jpg"
+      ]
+    },
+    "watering": {
+      "description": "Water when the top inch of soil is dry.",
+      "tips": [
+        "Use distilled, filtered, or rainwater to prevent brown tips.",
+        "Allow the top of the soil to dry out between waterings."
+      ],
+      "issues": [
+        "Overwatering is a common problem and can lead to root rot."
+      ],
+      "detail": "Spider Plants are fairly tolerant of a watering schedule, but they prefer their soil to be kept lightly moist. Water thoroughly when the top inch of soil feels dry. One of the most common issues is brown tips on the leaves, which is often caused by the fluoride and salts found in tap water. If you notice this, try watering with distilled, filtered, or rainwater instead. Water less frequently in the winter months when the plant's growth slows down.",
+      "frequency": "Every 1–2 weeks, depending on humidity and light",
+      "howToImages": [
+        "images/chlorophytum-comosum/comosum_drysoil.jpg",
+        "images/chlorophytum-comosum/comosum_soak.jpg"
+      ]
+    },
+    "light": {
+      "description": "Prefers bright, indirect light.",
+      "idealHours": "4-6 hours",
+      "detail": "Spider Plants thrive in bright, indirect light. Placing them a few feet away from a sunny window or in an east- or west-facing window is ideal. They can tolerate some low light, but their growth will slow, and the variegation may fade. Avoid any direct, harsh sunlight, which will scorch their leaves and turn them brown.",
+      "howToImages": [
+        "images/chlorophytum-comosum/comosum_light1.jpg",
+        "images/chlorophytum-comosum/comosum_light2.jpg"
+      ],
+      "tips": [
+        "A location with too little light can cause the leaves to lose their stripes.",
+        "Place in a spot that receives morning or afternoon sun, but not midday sun."
+      ]
+    },
+    "medium": {
+      "description": "A standard, well-draining potting mix.",
+      "detail": "A standard indoor potting mix is perfectly suitable for a Spider Plant. It's important to use a mix that has good drainage to prevent the roots from becoming waterlogged. You can add perlite to a standard mix to improve aeration, which is crucial for preventing root rot.",
+      "howToImages": [
+        "images/chlorophytum-comosum/comosum_medium1.jpg",
+        "images/chlorophytum-comosum/comosum_medium2.jpg"
+      ],
+      "tips": [
+        "Ensure the pot has adequate drainage holes.",
+        "A mix of potting soil and perlite is a great, simple combination."
+      ]
+    },
+    "propagation": {
+      "description": "Extremely easy to propagate from the 'pups' that grow on the ends of its stems.",
+      "detail": "Propagation of a Spider Plant is one of the easiest you can do. Simply snip a plantlet from the end of a long stem and either place it in a glass of water, or directly into a small pot with moist soil. The plantlet will quickly develop roots and establish itself as a new plant. You can also leave the plantlet attached to the mother plant and place it in a separate pot of soil. Once it has rooted, you can cut the stem connecting it to the mother plant.",
+      "tips": [
+        "Wait for the plantlet to be a few inches long with some small aerial roots before cutting.",
+        "Propagating multiple pups at once will create a fuller plant."
+      ],
+      "howToImages": [
+        "images/chlorophytum-comosum/comosum_prop1.jpg",
+        "images/chlorophytum-comosum/comosum_prop2.jpg"
+      ]
+    },
+    "issues": {
+      "description": "The most common issue is browning leaf tips, which is often caused by chemicals in tap water.",
+      "image": [
+        "images/chlorophytum-comosum/comosum_brown_tips.jpg",
+        "images/chlorophytum-comosum/comosum_yellowing.jpg"
+      ],
+      "tips": [
+        "If the leaf tips are browning, try switching to filtered or distilled water."
+      ]
+    },
+    "toxicity": {
+      "description": "Non-toxic and safe for pets and children."
+    },
+    "tags": [
+      "easy-care",
+      "arching-leaves",
+      "low-light-tolerant",
+      "non-toxic",
+      "air-purifying",
+      "plantlets"
+    ]
+  },
+  {
+    "id": "plectranthus-verticillatus",
+    "scientificName": "Plectranthus verticillatus",
+    "etymology": "From Greek 'plektron' (spur) and 'anthos' (flower), referring to the spur-like shape of its flowers. The species name 'verticillatus' means 'whorled,' describing the arrangement of its leaves and flowers.",
+    "history": "Native to southeastern Africa, this trailing plant has been cultivated as a houseplant for decades. Its hardiness, rapid growth, and graceful trailing habit made it a classic choice for hanging baskets and windowsills, earning it the popular name 'Swedish Ivy.'",
+    "commonNames": [
+      "Swedish Ivy",
+      "Creeping Charlie",
+      "Mint Vine"
+    ],
+    "image": "images/plectranthus-verticillatus/verticillatus1.jpg",
+    "gallery": [
+      "images/plectranthus-verticillatus/verticillatus1.jpg",
+      "images/plectranthus-verticillatus/verticillatus2.jpg",
+      "images/plectranthus-verticillatus/verticillatus3.jpg"
+    ],
+    "care": {
+      "description": "An easy-to-grow, trailing plant that is perfect for hanging baskets or shelves.",
+      "tips": [
+        "Pinch off the tips of the vines to encourage a fuller, bushier plant.",
+        "The plant is not a true ivy, despite its common name."
+      ],
+      "issues": [
+        "<strong>Yellowing leaves:</strong> Can be a sign of overwatering. Ensure the soil is not waterlogged.",
+        "<strong>Leggy growth:</strong> Indicates insufficient light. Move the plant to a brighter location.",
+        "<strong>Rotting stems:</strong> A classic sign of root rot, caused by overwatering."
+      ],
+      "detail": "Plectranthus verticillatus is a beautiful and incredibly forgiving plant that is perfect for beginners. It has a charming vining habit and coin-shaped leaves that will trail gracefully from a hanging basket or shelf. It thrives in bright, indirect light and likes its soil to be kept slightly moist. It's a fast grower, and you can easily prune it back to maintain its shape and fullness. Its resilience to a variety of conditions makes it a fantastic addition to almost any home.",
+      "howToImages": [
+        "images/plectranthus-verticillatus/verticillatus_care1.jpg",
+        "images/plectranthus-verticillatus/verticillatus_care2.jpg"
+      ]
+    },
+    "watering": {
+      "description": "Keep soil evenly moist, but do not let it become soggy.",
+      "tips": [
+        "Allow the top inch of soil to dry out before watering again.",
+        "Water less frequently in the cooler months."
+      ],
+      "issues": [
+        "Overwatering is the biggest threat and can lead to root rot."
+      ],
+      "detail": "Plectranthus verticillatus prefers to be kept evenly moist but can tolerate a bit of drying out. Water it when the top inch of soil feels dry to the touch. It is crucial to avoid overwatering, as this can cause root rot. If the leaves start to yellow and the stems feel mushy, you are overwatering. Ensure your pot has drainage holes to allow excess water to escape.",
+      "frequency": "Once a week, depending on light",
+      "howToImages": [
+        "images/plectranthus-verticillatus/verticillatus_watering1.jpg",
+        "images/plectranthus-verticillatus/verticillatus_watering2.jpg"
+      ]
+    },
+    "light": {
+      "description": "Thrives in bright, indirect light.",
+      "idealHours": "4-6 hours",
+      "detail": "This plant prefers bright, indirect light. Placing it near a window that gets filtered light is a great option. It can survive in lower light, but its growth will become leggy and the leaves will be smaller. Too much direct sun can scorch the leaves and cause them to turn yellow or brown.",
+      "howToImages": [
+        "images/plectranthus-verticillatus/verticillatus_light1.jpg",
+        "images/plectranthus-verticillatus/verticillatus_light2.jpg"
+      ],
+      "tips": [
+        "A location with some morning sun is ideal.",
+        "Rotate the plant regularly to ensure even, full growth."
+      ]
+    },
+    "medium": {
+      "description": "A well-draining, standard potting mix.",
+      "detail": "Any standard, well-draining potting mix will work for this plant. A blend of peat moss, perlite, and a bit of sand can improve aeration and drainage, which is key to preventing root rot. The soil should be light and airy, not dense or compacted.",
+      "howToImages": [
+        "images/plectranthus-verticillatus/verticillatus_medium1.jpg",
+        "images/plectranthus-verticillatus/verticillatus_medium2.jpg"
+      ],
+      "tips": [
+        "Ensure the pot has drainage holes.",
+        "This plant is very adaptable and doesn't require a special mix."
+      ]
+    },
+    "propagation": {
+      "description": "Extremely easy to propagate from stem cuttings in water or soil.",
+      "detail": "Propagating Swedish Ivy is one of the easiest tasks in gardening. Simply snip a healthy stem with a few leaves, remove the lowest leaves, and place it in a glass of water. Roots will form quickly, often within a week. Once the roots are a couple of inches long, you can plant the cutting in soil. You can also plant the cutting directly in moist soil and keep it in a warm, bright location.",
+      "tips": [
+        "Change the water in the propagation jar every few days.",
+        "Take several cuttings to create a new, full plant."
+      ],
+      "howToImages": [
+        "images/plectranthus-verticillatus/verticillatus_cut.jpg",
+        "images/plectranthus-verticillatus/verticillatus_root.jpg"
+      ]
+    },
+    "issues": {
+      "description": "Common issues are caused by overwatering, leading to root rot and yellowing leaves.",
+      "image": [
+        "images/plectranthus-verticillatus/verticillatus_yellowing.jpg",
+        "images/plectranthus-verticillatus/verticillatus_leggy.jpg"
+      ],
+      "tips": [
+        "Always check the soil moisture before watering to prevent root rot."
+      ]
+    },
+    "toxicity": {
+      "description": "Non-toxic and safe for cats, dogs, and humans."
+    },
+    "tags": [
+      "vining",
+      "trailing",
+      "easy-care",
+      "low-light-tolerant",
+      "non-toxic"
+    ]
+  },
+{
+  "id": "colocasia-esculenta",
+  "scientificName": "Colocasia esculenta",
+  "etymology": "From Greek 'kolokasia' and Latin 'colocasia' for the root of the lotus, and 'esculenta' meaning edible.",
+  "history": "Native to tropical Asia, Colocasia esculenta has been cultivated for thousands of years as a staple food crop, particularly its starchy corm. It has since spread globally and is a significant part of many cuisines, as well as a popular ornamental plant for its large, dramatic leaves.",
+  "commonNames": ["Taro", "Elephant Ear", "Dasheen", "Eddoe"],
+  "image": "images/colocasia-esculenta/esculenta1.jpg",
+  "gallery": [
+    "images/colocasia-esculenta/esculenta1.jpg",
+    "images/colocasia-esculenta/esculenta2.jpg",
+    "images/colocasia-esculenta/esculenta3.jpg"
+  ],
+  "tags": [
+    "tropical",
+    "heavy-waterer",
+    "full-sun",
+    "edible-root",
+    "large-foliage",
+    "pond-plant"
+  ],
+  "care": {
+    "description": "A water-loving plant that thrives in heat and high humidity.",
+    "tips": [
+      "Keep the soil consistently moist, never let it dry out.",
+      "The plant can be grown in pots, in the garden, or in shallow ponds."
+    ],
+    "issues": [
+      "<strong>Yellowing leaves:</strong> Can be a sign of underwatering, nutrient deficiency, or too much cold.",
+      "<strong>Pests:</strong> Watch for spider mites and aphids. Use insecticidal soap to treat infestations.",
+      "<strong>Brown, crispy edges:</strong> Indicates a lack of water or low humidity."
+    ],
+    "detail": "Colocasia esculenta is a tropical plant that loves heat, humidity, and water. It grows best in full sun but can tolerate partial shade. Its large, heart-shaped leaves give it the common name 'Elephant Ear' and make it a dramatic focal point in any garden or landscape. This plant is a heavy feeder and will benefit from regular fertilization during the growing season. While its corm is a staple food in many cultures, the leaves and stems are toxic if not prepared correctly, so they should not be eaten raw.",
+    "howToImages": [
+      "images/colocasia-esculenta/esculenta_care1.jpg",
+      "images/colocasia-esculenta/esculenta_care2.jpg"
+    ]
+  },
+  "watering": {
+    "description": "Requires consistently moist to wet soil.",
+    "tips": [
+      "Never let the soil dry out.",
+      "If grown in a pot, place a saucer of water underneath it."
+    ],
+    "issues": [
+      "Underwatering is a major issue and will cause leaves to wilt and turn yellow."
+    ],
+    "detail": "Colocasia esculenta is a thirsty plant that requires a lot of water. The soil should be kept consistently moist to wet. In hot weather, it may need to be watered daily. If grown in a pot, you can place a saucer of water underneath it to keep it hydrated. It can also be grown in a pond or a boggy area of the garden where its roots have constant access to water.",
+    "frequency": "Daily in hot weather, or when the top of the soil feels dry",
+    "howToImages": [
+      "images/colocasia-esculenta/esculenta_watering1.jpg",
+      "images/colocasia-esculenta/esculenta_watering2.jpg"
+    ]
+  },
+  "light": {
+    "description": "Prefers full sun for best growth.",
+    "idealHours": "6-8 hours",
+    "detail": "Colocasia esculenta thrives in full sun. Place it in a spot where it receives at least 6 to 8 hours of direct sunlight a day. It can tolerate partial shade, but in too little light, the leaves will be smaller and the plant's growth will be leggy. Too much shade can also make the plant susceptible to fungal diseases.",
+    "howToImages": [
+      "images/colocasia-esculenta/esculenta_light1.jpg",
+      "images/colocasia-esculenta/esculenta_light2.jpg"
+    ],
+    "tips": [
+      "In very hot climates, a bit of afternoon shade can be beneficial.",
+      "Move the plant to a sunnier spot if the leaves look pale or small."
+    ]
+  },
+  "medium": {
+    "description": "A rich, loamy, and moisture-retentive soil.",
+    "detail": "Colocasia esculenta prefers a rich, organic, and moisture-retentive soil mix. A standard potting mix amended with compost and peat moss is a great choice. You can also use a heavy, clay-based soil if you are growing it in a boggy area or a pond. The soil should never be allowed to dry out completely.",
+    "howToImages": [
+      "images/colocasia-esculenta/esculenta_medium1.jpg",
+      "images/colocasia-esculenta/esculenta_medium2.jpg"
+    ],
+    "tips": [
+      "For container growing, ensure the pot has drainage holes, but you can place a water saucer underneath.",
+      "Heavy clay soils are not a problem for this plant."
+    ]
+  },
+  "propagation": {
+    "description": "Easily propagated from its corms or from offsets (pups).",
+    "detail": "Colocasia esculenta can be propagated by dividing the corms in the spring. Carefully dig up the plant and separate the smaller corms (pups) from the main one. You can plant these pups directly in the soil or in a pot. You can also propagate the plant from its runners, which are stems that grow horizontally along the soil surface.",
+    "tips": [
+      "Propagate in the spring before the new growing season.",
+      "Ensure each offset has at least one root node before planting."
+    ],
+    "howToImages": [
+      "images/colocasia-esculenta/esculenta_prop1.jpg",
+      "images/colocasia-esculenta/esculenta_prop2.jpg"
+    ]
+  },
+  "issues": {
+    "description": "The most common issues are due to underwatering and cold temperatures, which can cause yellowing and drooping leaves.",
+    "image": [
+      "images/colocasia-esculenta/esculenta_yellowing.jpg",
+      "images/colocasia-esculenta/esculenta_drooping.jpg"
+    ],
+    "tips": [
+      "If the leaves start to droop, water the plant immediately."
+    ]
+  },
+  "toxicity": {
+    "description": "The entire plant contains calcium oxalate crystals and is toxic if eaten raw. Cooking the corms thoroughly neutralizes the toxins."
+  }
+},
+{
+  "id": "schlumbergera-truncata",
+  "scientificName": "Schlumbergera truncata",
+  "etymology": "Named after Frédéric Schlumberger, a French horticulturist. The species name 'truncata' means 'cut off' or 'shortened,' referring to the shape of its flattened stem segments.",
+  "history": "Native to the coastal mountains of southeastern Brazil, it grows as an epiphyte on trees or rocks in humid, cool forests. It was first introduced to European cultivation in the 19th century and has been hybridized extensively to produce the variety of colors and forms we see today, becoming a holiday staple.",
+  "commonNames": ["Thanksgiving Cactus", "Christmas Cactus", "Crab Cactus"],
+  "image": "images/schlumbergera-truncata/truncata1.jpg",
+  "gallery": [
+    "images/schlumbergera-truncata/truncata1.jpg",
+    "images/schlumbergera-truncata/truncata2.jpg",
+    "images/schlumbergera-truncata/truncata3.jpg"
+  ],
+  "tags": [
+    "succulent",
+    "flowering",
+    "holiday-plant",
+    "easy-care",
+    "bright-indirect",
+    "seasonal"
+  ],
+  "care": {
+    "description": "A festive, easy-care succulent that blooms in late fall and winter.",
+    "tips": [
+      "Keep away from drafts and temperature fluctuations.",
+      "A period of darkness and cooler temperatures in the fall is essential for blooming."
+    ],
+    "issues": [
+      "<strong>No blooms:</strong> Caused by a lack of cool temperatures and darkness in the fall. Ensure the plant receives 12-14 hours of darkness per day.",
+      "<strong>Soft, mushy stems:</strong> A sign of overwatering and root rot. Let the soil dry out more between waterings.",
+      "<strong>Dropping flower buds:</strong> Often caused by sudden changes in temperature, light, or watering."
+    ],
+    "detail": "Schlumbergera truncata, commonly called the Thanksgiving or Christmas Cactus, is a unique, segmented succulent that thrives in cool, humid environments. It is not a desert cactus and should not be treated as one. To ensure it blooms each year, it needs a period of short days and cool temperatures in the fall. Its care is simple: give it bright, indirect light, and water when the top few inches of soil are dry. Avoid placing it near heat vents or drafts, which can cause its buds to drop. This plant is a festive addition to any home, offering beautiful blooms when most other plants are dormant.",
+    "howToImages": [
+      "images/schlumbergera-truncata/truncata_care1.jpg",
+      "images/schlumbergera-truncata/truncata_care2.jpg"
+    ]
+  },
+  "watering": {
+    "description": "Water when the top few inches of soil are dry.",
+    "tips": [
+      "The plant is more sensitive to overwatering than underwatering.",
+      "Reduce watering after it finishes blooming."
+    ],
+    "issues": [
+      "Overwatering is the biggest threat and can lead to root rot."
+    ],
+    "detail": "Unlike desert cacti, Schlumbergera truncata prefers to be kept consistently moist during its blooming cycle, but not soggy. Allow the top inch or two of soil to dry out before watering again. During the fall, as you're encouraging blooms, water lightly. Once the plant has finished flowering, reduce watering significantly until spring. Ensure the pot has good drainage to prevent root rot.",
+    "frequency": "Every 1-2 weeks during blooming season, less in winter",
+    "howToImages": [
+      "images/schlumbergera-truncata/truncata_watering1.jpg",
+      "images/schlumbergera-truncata/truncata_watering2.jpg"
+    ]
+  },
+  "light": {
+    "description": "Prefers bright, indirect light.",
+    "idealHours": "4-6 hours",
+    "detail": "This plant thrives in bright, indirect light. A spot near an east-facing window is ideal, where it can get some gentle morning sun. Direct, harsh afternoon sun can burn the leaves. In the fall, to stimulate blooming, the plant requires a period of 12-14 hours of complete darkness per day for about six weeks. Place it in a room that is not used in the evening, or cover it with a box.",
+    "howToImages": [
+      "images/schlumbergera-truncata/truncata_light1.jpg",
+      "images/schlumbergera-truncata/truncata_light2.jpg"
+    ],
+    "tips": [
+      "Too much sun can cause the leaves to turn a reddish color.",
+      "Keep the plant in a cool, dark room to encourage buds to set."
+    ]
+  },
+  "medium": {
+    "description": "A well-draining, chunky soil mix.",
+    "detail": "Use a well-draining soil mix that is specifically designed for cacti and succulents. You can also create your own blend of standard potting soil with perlite and sand to improve drainage. This plant is an epiphyte, so it needs an airy soil mix that does not hold too much water.",
+    "howToImages": [
+      "images/schlumbergera-truncata/truncata_medium1.jpg",
+      "images/schlumbergera-truncata/truncata_medium2.jpg"
+    ],
+    "tips": [
+      "A mix with orchid bark or coco coir will help with aeration.",
+      "Ensure the pot has drainage holes."
+    ]
+  },
+  "propagation": {
+    "description": "Easily propagated from stem cuttings.",
+    "detail": "Propagation is very simple. To take a cutting, gently twist off a segment (or two connected segments) from the end of a stem. Allow the cut end to callus over for a day or two. You can then stick the cutting into a pot with moist, well-draining soil. It will quickly root and begin to grow into a new plant. You can also root cuttings in a glass of water, but they are more susceptible to rot this way.",
+    "tips": [
+      "Wait for the cut end to 'heal' before planting.",
+      "A small pot is best for a single cutting."
+    ],
+    "howToImages": [
+      "images/schlumbergera-truncata/truncata_cut.jpg",
+      "images/schlumbergera-truncata/truncata_prop.jpg"
+    ]
+  },
+  "issues": {
+    "description": "Dropping flower buds is the most common issue, often caused by drafts or inconsistent watering.",
+    "image": [
+      "images/schlumbergera-truncata/truncata_buds.jpg",
+      "images/schlumbergera-truncata/truncata_rot.jpg"
+    ],
+    "tips": [
+      "Avoid moving the plant once buds begin to form."
+    ]
+  },
+  "toxicity": {
+    "description": "Non-toxic and safe for cats, dogs, and humans."
+  }
+},
+{
+    "id": "hedera-helix",
+    "scientificName": "Hedera helix",
+    "etymology": "From Latin 'hedera' meaning ivy, and 'helix' meaning spiral, referring to its climbing, winding nature.",
+    "history": "Native to Europe and Western Asia, English Ivy has been a part of human history for centuries, symbolizing immortality and fidelity. It has long been cultivated for ornamental purposes, used to cover walls and as ground cover, and has become a popular, resilient houseplant worldwide.",
+    "commonNames": ["English Ivy", "Common Ivy"],
+    "image": "images/hedera-helix/helix1.jpg",
+    "gallery": [
+      "images/hedera-helix/helix1.jpg",
+      "images/hedera-helix/helix2.jpg",
+      "images/hedera-helix/helix3.jpg"
+    ],
+    "tags": [
+      "vining",
+      "climbing",
+      "low-light-tolerant",
+      "easy-care",
+      "air-purifying",
+      "evergreen"
+    ],
+    "care": {
+      "description": "A versatile, vining plant that is easy to care for and can tolerate a wide range of conditions.",
+      "tips": [
+        "Wipe leaves to prevent dust buildup and pest infestations.",
+        "Prune regularly to encourage a fuller, bushier plant."
+      ],
+      "issues": [
+        "<strong>Brown, crispy leaves:</strong> A sign of underwatering or low humidity. Increase watering and mist the leaves regularly.",
+        "<strong>Yellowing leaves:</strong> Usually from overwatering. Let the soil dry out more between waterings.",
+        "<strong>Pests:</strong> Can be susceptible to spider mites and mealybugs. Check the leaves regularly."
+      ],
+      "detail": "English Ivy is a very adaptable plant that can be grown in many ways: as a trailing plant from a hanging basket, a climbing plant on a moss pole, or as ground cover. It prefers bright, indirect light but can tolerate low light. The plant likes to be kept consistently moist but not soggy, as it is prone to root rot. High humidity is a plus, but it is not essential. It's a great choice for beginners due to its forgiving nature.",
+      "howToImages": [
+        "images/hedera-helix/helix_care1.jpg",
+        "images/hedera-helix/helix_care2.jpg"
+      ]
+    },
+    "watering": {
+      "description": "Keep soil evenly moist, but not soggy.",
+      "tips": [
+        "Allow the top inch of soil to dry out before watering again.",
+        "The plant is very sensitive to overwatering."
+      ],
+      "issues": [
+        "Overwatering is the biggest threat and can lead to root rot."
+      ],
+      "detail": "Water your English Ivy when the top inch of soil is dry to the touch. The plant prefers to be kept consistently moist but can tolerate a bit of drying out. It's much more sensitive to overwatering than underwatering, which can cause root rot and lead to yellow leaves. In winter, reduce watering frequency as the plant's growth slows down.",
+      "frequency": "Once a week, depending on light and temperature",
+      "howToImages": [
+        "images/hedera-helix/helix_watering1.jpg",
+        "images/hedera-helix/helix_watering2.jpg"
+      ]
+    },
+    "light": {
+      "description": "Thrives in bright, indirect light.",
+      "idealHours": "4-6 hours",
+      "detail": "English Ivy prefers bright, indirect light. A spot near an east- or north-facing window is ideal. It can tolerate lower light, but its growth will slow down and the variegation on some varieties may fade. Avoid direct, harsh afternoon sun, which can scorch the leaves.",
+      "howToImages": [
+        "images/hedera-helix/helix_light1.jpg",
+        "images/hedera-helix/helix_light2.jpg"
+      ],
+      "tips": [
+        "Too little light can cause leggy growth.",
+        "The plant will thrive under fluorescent lights, making it a great office plant."
+      ]
+    },
+    "medium": {
+      "description": "A standard, well-draining potting mix.",
+      "detail": "English Ivy is not particular about its soil, as long as it is well-draining. A standard potting mix is perfectly suitable. You can add a bit of perlite or sand to improve drainage, which is crucial for preventing root rot.",
+      "howToImages": [
+        "images/hedera-helix/helix_medium1.jpg",
+        "images/hedera-helix/helix_medium2.jpg"
+      ],
+      "tips": [
+        "Ensure the pot has good drainage holes.",
+        "This plant is very adaptable and doesn't require a special mix."
+      ]
+    },
+    "propagation": {
+      "description": "Easily propagated from stem cuttings in water or soil.",
+      "detail": "Propagation is very easy. Simply take a stem cutting that has at least one node and a few leaves. Remove the lower leaves and place the cutting in a glass of water. Roots will form within a few weeks. Once the roots are a couple of inches long, you can plant the cutting in a pot with moist soil. You can also plant the cutting directly in soil and keep it moist until it takes root.",
+      "tips": [
+        "Change the water in the propagation jar every few days.",
+        "Take multiple cuttings to create a new, full plant."
+      ],
+      "howToImages": [
+        "images/hedera-helix/helix_cut.jpg",
+        "images/hedera-helix/helix_root.jpg"
+      ]
+    },
+    "issues": {
+      "description": "The most common issue is spider mites, especially in dry environments.",
+      "image": [
+        "images/hedera-helix/helix_brown.jpg",
+        "images/hedera-helix/helix_yellow.jpg"
+      ],
+      "tips": [
+        "Regularly check the underside of the leaves for pests."
+      ]
+    },
+    "toxicity": {
+      "description": "Toxic to cats, dogs, and humans if ingested. It can cause skin irritation upon contact."
+    }
+  },
+  {
+    "id": "aglaonema-siam-aurora",
+    "scientificName": "Aglaonema 'Siam Aurora'",
+    "etymology": "The name 'Aglaonema' is from the Greek words 'aglaos' (shining) and 'nema' (thread), referring to its prominent stamens. 'Siam Aurora' is a cultivar name.",
+    "history": "Aglaonema species are native to tropical and subtropical regions of Asia. 'Siam Aurora' is a popular hybrid known for its striking foliage with vibrant red or pink edges on its green leaves. Its hardiness and ability to thrive in low-light conditions have made it a favorite in homes and offices.",
+    "commonNames": ["Chinese Evergreen", "Red Aglaonema"],
+    "image": "images/aglaonema-siam-aurora/aurora1.jpg",
+    "gallery": [
+      "images/aglaonema-siam-aurora/aurora1.jpg",
+      "images/aglaonema-siam-aurora/aurora2.jpg",
+      "images/aglaonema-siam-aurora/aurora3.jpg"
+    ],
+    "tags": [
+      "tropical",
+      "colorful-foliage",
+      "low-light-tolerant",
+      "easy-care",
+      "air-purifying",
+      "slow-grower"
+    ],
+    "care": {
+      "description": "An attractive, low-maintenance plant with vibrant, colorful foliage.",
+      "tips": [
+        "Wipe the leaves with a damp cloth to keep them clean and shiny.",
+        "Avoid cold drafts and sudden temperature changes."
+      ],
+      "issues": [
+        "<strong>Yellowing leaves:</strong> A classic sign of overwatering. Let the soil dry out more between waterings.",
+        "<strong>Brown, crispy tips:</strong> Caused by low humidity or inconsistent watering. Mist the leaves regularly.",
+        "<strong>Fading color:</strong> If the red on the leaves starts to fade, it's a sign of insufficient light. Move to a brighter spot."
+      ],
+      "detail": "Aglaonema 'Siam Aurora' is a stunning plant that adds a pop of color to any room. It is very forgiving and thrives in a wide range of light conditions, from low to bright, indirect light. For the best color, it is recommended to give it some bright, indirect light. The plant prefers its soil to be kept consistently moist but not soggy. It is sensitive to cold, so keep it in a warm room away from drafts.",
+      "howToImages": [
+        "images/aglaonema-siam-aurora/aurora_care1.jpg",
+        "images/aglaonema-siam-aurora/aurora_care2.jpg"
+      ]
+    },
+    "watering": {
+      "description": "Keep soil evenly moist, but not soggy.",
+      "tips": [
+        "Allow the top 1-2 inches of soil to dry out before watering.",
+        "Use a pot with good drainage to prevent root rot."
+      ],
+      "issues": [
+        "Overwatering is the biggest threat and will cause the stems to become mushy."
+      ],
+      "detail": "Water your Aglaonema when the top inch or two of soil feels dry to the touch. The plant is prone to root rot if the soil stays waterlogged, so it is crucial to avoid overwatering. In the winter, reduce watering frequency. The plant will tolerate being underwatered better than it will tolerate being overwatered.",
+      "frequency": "Every 1-2 weeks, depending on light",
+      "howToImages": [
+        "images/aglaonema-siam-aurora/aurora_watering1.jpg",
+        "images/aglaonema-siam-aurora/aurora_watering2.jpg"
+      ]
+    },
+    "light": {
+      "description": "Tolerates low light, but prefers bright, indirect light.",
+      "idealHours": "4-6 hours",
+      "detail": "Aglaonema 'Siam Aurora' can survive in low-light conditions, but its colors will be most vibrant in bright, indirect light. Place it near an east- or north-facing window for best results. Avoid any direct, harsh sunlight, as this will scorch the leaves. If the plant's colors start to fade, it's a sign that it needs more light.",
+      "howToImages": [
+        "images/aglaonema-siam-aurora/aurora_light1.jpg",
+        "images/aglaonema-siam-aurora/aurora_light2.jpg"
+      ],
+      "tips": [
+        "Lower light will cause the plant to grow slower.",
+        "A little bit of morning sun is fine, but avoid afternoon sun."
+      ]
+    },
+    "medium": {
+      "description": "A well-draining, slightly acidic potting mix.",
+      "detail": "Use a standard, well-draining potting mix that retains a bit of moisture. A mix with peat moss, perlite, and sand is a good choice. This combination provides the right balance of moisture retention and drainage, which is crucial for this plant's health.",
+      "howToImages": [
+        "images/aglaonema-siam-aurora/aurora_medium1.jpg",
+        "images/aglaonema-siam-aurora/aurora_medium2.jpg"
+      ],
+      "tips": [
+        "Repot every 2-3 years to refresh the soil.",
+        "Ensure the pot has good drainage holes."
+      ]
+    },
+    "propagation": {
+      "description": "Propagated by division or by stem cuttings.",
+      "detail": "Aglaonema 'Siam Aurora' can be propagated by dividing the plant at its root ball when you repot it. Alternatively, you can take stem cuttings. Cut a stem with at least 2-3 leaves and a node, and place it in a jar of water or in moist soil. The cutting will take root within a few weeks. The plant is a slow grower, so be patient.",
+      "tips": [
+        "Take stem cuttings in the spring.",
+        "Rooting hormone can help increase the success rate."
+      ],
+      "howToImages": [
+        "images/aglaonema-siam-aurora/aurora_cut.jpg",
+        "images/aglaonema-siam-aurora/aurora_root.jpg"
+      ]
+    },
+    "issues": {
+      "description": "The most common issue is overwatering, which causes the leaves to yellow and the stems to rot.",
+      "image": [
+        "images/aglaonema-siam-aurora/aurora_yellowing.jpg",
+        "images/aglaonema-siam-aurora/aurora_browning.jpg"
+      ],
+      "tips": [
+        "Always check the soil before watering to prevent root rot."
+      ]
+    },
+    "toxicity": {
+      "description": "Toxic to cats, dogs, and humans if ingested. Can cause mouth and throat irritation."
+    }
+  },
+  {
+    "id": "dianthus-barbatus",
+    "scientificName": "Dianthus barbatus",
+    "etymology": "From Greek 'dios' (divine) and 'anthos' (flower), literally meaning 'divine flower'. The species name 'barbatus' means 'bearded,' referring to the hairy tufts on the flower petals.",
+    "history": "Sweet William is native to southern Europe and parts of Asia. It has been a popular garden flower for centuries, particularly in cottage gardens. It is a biennial or short-lived perennial, and its colorful, fragrant blooms have made it a classic choice for bouquets and borders.",
+    "commonNames": ["Sweet William"],
+    "image": "images/dianthus-barbatus/barbatus1.jpg",
+    "gallery": [
+      "images/dianthus-barbatus/barbatus1.jpg",
+      "images/dianthus-barbatus/barbatus2.jpg",
+      "images/dianthus-barbatus/barbatus3.jpg"
+    ],
+    "tags": [
+      "flowering",
+      "garden-plant",
+      "full-sun",
+      "fragrant-flowers",
+      "easy-care",
+      "biennial"
+    ],
+    "care": {
+      "description": "A hardy, fragrant plant that is easy to grow in the garden.",
+      "tips": [
+        "Deadhead spent flowers to encourage more blooms.",
+        "Sweet William is a biennial, meaning it flowers in its second year of growth."
+      ],
+      "issues": [
+        "<strong>Yellowing leaves:</strong> Can be a sign of overwatering or poor drainage. Ensure the soil is not waterlogged.",
+        "<strong>Fungal diseases:</strong> Can be susceptible to rust and powdery mildew in humid environments. Ensure good air circulation.",
+        "<strong>Failure to bloom:</strong> If the plant is in its first year, it may not bloom. It needs plenty of sun to flower."
+      ],
+      "detail": "Sweet William is a beautiful and fragrant plant that is a fantastic addition to any garden. It thrives in full sun and well-draining soil. It is a biennial plant, meaning it will grow foliage in its first year and then produce a profusion of colorful, fragrant blooms in its second year. The plant is easy to care for and is a great choice for a border or a cottage garden. Regular deadheading of spent blooms will encourage the plant to produce more flowers and extend its blooming period.",
+      "howToImages": [
+        "images/dianthus-barbatus/barbatus_care1.jpg",
+        "images/dianthus-barbatus/barbatus_care2.jpg"
+      ]
+    },
+    "watering": {
+      "description": "Keep soil evenly moist, but not soggy.",
+      "tips": [
+        "Water at the base of the plant to keep the foliage dry.",
+        "The plant is drought-tolerant once established."
+      ],
+      "issues": [
+        "Overwatering can lead to root rot."
+      ],
+      "detail": "Sweet William prefers its soil to be kept evenly moist. Water deeply but infrequently, allowing the top of the soil to dry out between waterings. Once established, the plant is quite drought-tolerant. It is important to avoid overhead watering, which can lead to fungal diseases like rust and powdery mildew.",
+      "frequency": "Once a week, or when soil feels dry",
+      "howToImages": [
+        "images/dianthus-barbatus/barbatus_watering1.jpg",
+        "images/dianthus-barbatus/barbatus_watering2.jpg"
+      ]
+    },
+    "light": {
+      "description": "Requires at least 6 hours of full sun per day.",
+      "idealHours": "6-8 hours",
+      "detail": "Sweet William is a sun-loving plant that needs plenty of direct sunlight to thrive and produce a full show of blooms. A location with full sun for at least 6 hours a day is ideal. It can tolerate some partial shade, but too little sun will result in leggy growth and fewer flowers.",
+      "howToImages": [
+        "images/dianthus-barbatus/barbatus_light1.jpg",
+        "images/dianthus-barbatus/barbatus_light2.jpg"
+      ],
+      "tips": [
+        "Full sun is crucial for blooming.",
+        "The plant will not flower in a shady spot."
+      ]
+    },
+    "medium": {
+      "description": "A well-draining, slightly alkaline soil.",
+      "detail": "Sweet William prefers a well-draining, slightly alkaline soil. A standard garden soil with good drainage is usually sufficient. You can amend the soil with some lime to increase the pH if it is too acidic. Avoid heavy clay soils that retain too much moisture.",
+      "howToImages": [
+        "images/dianthus-barbatus/barbatus_medium1.jpg",
+        "images/dianthus-barbatus/barbatus_medium2.jpg"
+      ],
+      "tips": [
+        "Ensure the soil drains well to prevent root rot.",
+        "A mix of garden soil, compost, and sand is a great blend."
+      ]
+    },
+    "propagation": {
+      "description": "Propagated from seeds or cuttings.",
+      "detail": "Sweet William is most commonly grown from seeds. You can sow seeds directly in the garden in late spring or early summer for blooms the following year. Alternatively, you can take stem cuttings in late summer. Cut a healthy stem and remove the lower leaves. Plant the cutting in a pot with moist soil and keep it in a warm, bright location until it roots.",
+      "tips": [
+        "Sow seeds in late spring for next year's blooms.",
+        "Cuttings should be taken from non-flowering stems."
+      ],
+      "howToImages": [
+        "images/dianthus-barbatus/barbatus_seed.jpg",
+        "images/dianthus-barbatus/barbatus_cut.jpg"
+      ]
+    },
+    "issues": {
+      "description": "The most common issue is fungal diseases caused by poor air circulation and wet foliage.",
+      "image": [
+        "images/dianthus-barbatus/barbatus_yellowing.jpg",
+        "images/dianthus-barbatus/barbatus_rust.jpg"
+      ],
+      "tips": [
+        "Ensure the plant has good air circulation."
+      ]
+    },
+    "toxicity": {
+      "description": "Toxic to cats and dogs if ingested. Can cause mild gastrointestinal upset."
+    }
+  },
+  {
+    "id": "gerbera-jamesonii",
+    "scientificName": "Gerbera jamesonii",
+    "etymology": "Named after Traugott Gerber, a German botanist. The species name 'jamesonii' honors Robert Jameson, who collected the plant in South Africa.",
+    "history": "Native to South Africa, the Gerbera Daisy was first discovered in the late 19th century. It quickly became a popular cut flower and garden plant due to its vibrant, daisy-like blooms and long-lasting flowers. It is now cultivated and hybridized worldwide for its wide range of colors and forms.",
+    "commonNames": ["Gerbera Daisy", "Transvaal Daisy", "Barberton Daisy"],
+    "image": "images/gerbera-jamesonii/jamesonii1.jpg",
+    "gallery": [
+      "images/gerbera-jamesonii/jamesonii1.jpg",
+      "images/gerbera-jamesonii/jamesonii2.jpg",
+      "images/gerbera-jamesonii/jamesonii3.jpg"
+    ],
+    "tags": [
+      "flowering",
+      "bright-light",
+      "heavy-feeder",
+      "perennial-annual",
+      "cut-flower",
+      "container-plant"
+    ],
+    "care": {
+      "description": "A beautiful flowering plant that requires consistent watering and full sun.",
+      "tips": [
+        "Deadhead spent flowers to encourage new blooms.",
+        "Avoid getting the crown of the plant wet to prevent rot."
+      ],
+      "issues": [
+        "<strong>No blooms:</strong> A sign of insufficient light. Move to a sunnier spot.",
+        "<strong>Yellowing leaves:</strong> Can be caused by overwatering or a lack of nutrients. Check soil and fertilize.",
+        "<strong>Crown rot:</strong> A common issue if the crown of the plant is kept wet. Water from the base."
+      ],
+      "detail": "Gerbera Daisies are a classic for their large, colorful blooms. They are a perennial in warmer climates but are often grown as an annual in cooler regions. The plant requires plenty of sun and consistently moist soil to thrive. It is a heavy feeder and will benefit from regular fertilization during the growing season. A key to success is to avoid getting the crown of the plant wet when watering, as this can lead to crown rot.",
+      "howToImages": [
+        "images/gerbera-jamesonii/jamesonii_care1.jpg",
+        "images/gerbera-jamesonii/jamesonii_care2.jpg"
+      ]
+    },
+    "watering": {
+      "description": "Keep soil consistently moist, but not soggy.",
+      "tips": [
+        "Water at the base of the plant, not over the leaves.",
+        "Let the top inch of soil dry out between waterings."
+      ],
+      "issues": [
+        "Overwatering is a major issue and can cause root and crown rot."
+      ],
+      "detail": "Gerbera Daisies prefer their soil to be kept consistently moist. Water deeply but be careful to avoid getting water on the crown of the plant, as this can cause it to rot. Let the top inch of soil dry out between waterings to prevent root rot. In winter, reduce watering frequency as the plant's growth slows down.",
+      "frequency": "Every 1-2 weeks, depending on light and temperature",
+      "howToImages": [
+        "images/gerbera-jamesonii/jamesonii_watering1.jpg",
+        "images/gerbera-jamesonii/jamesonii_watering2.jpg"
+      ]
+    },
+    "light": {
+      "description": "Requires full sun for best flowering.",
+      "idealHours": "6-8 hours",
+      "detail": "Gerbera Daisies need plenty of direct sunlight to produce a full show of blooms. A location with full sun for at least 6 hours a day is essential. In too little light, the plant will not flower and may become leggy. In very hot climates, some afternoon shade can be beneficial to prevent scorching.",
+      "howToImages": [
+        "images/gerbera-jamesonii/jamesonii_light1.jpg",
+        "images/gerbera-jamesonii/jamesonii_light2.jpg"
+      ],
+      "tips": [
+        "Full sun is crucial for a healthy, blooming plant.",
+        "Consider an east-facing location for morning sun and afternoon shade."
+      ]
+    },
+    "medium": {
+      "description": "A well-draining, rich potting mix.",
+      "detail": "Use a high-quality potting mix that is rich in organic matter and has good drainage. A standard potting mix amended with some compost and perlite is a great choice. The soil should be light and airy, as heavy, compacted soil can lead to root rot.",
+      "howToImages": [
+        "images/gerbera-jamesonii/jamesonii_medium1.jpg",
+        "images/gerbera-jamesonii/jamesonii_medium2.jpg"
+      ],
+      "tips": [
+        "Ensure the pot has good drainage holes.",
+        "Repot every 1-2 years to refresh the soil."
+      ]
+    },
+    "propagation": {
+      "description": "Propagated by division or from seeds.",
+      "detail": "The easiest way to propagate Gerbera Daisies is by dividing the plant. When you are repotting, gently separate the plant into smaller clumps, ensuring each clump has a healthy root system. You can then plant these clumps in new pots. You can also grow them from seeds, but it is a more challenging process and the resulting plants may not be true to the parent.",
+      "tips": [
+        "Divide the plant in the spring before the new growing season.",
+        "Seeds should be sown in a sterile seed-starting mix."
+      ],
+      "howToImages": [
+        "images/gerbera-jamesonii/jamesonii_prop1.jpg",
+        "images/gerbera-jamesonii/jamesonii_prop2.jpg"
+      ]
+    },
+    "issues": {
+      "description": "The most common issue is crown rot, caused by overwatering or getting the crown wet.",
+      "image": [
+        "images/gerbera-jamesonii/jamesonii_rot.jpg",
+        "images/gerbera-jamesonii/jamesonii_yellow.jpg"
+      ],
+      "tips": [
+        "Water from the base of the plant to prevent crown rot."
+      ]
+    },
+    "toxicity": {
+      "description": "Non-toxic and safe for cats, dogs, and humans."
+    }
+  },
+  {
+  "id": "dracaena-trifasciata",
+  "scientificName": "Dracaena trifasciata",
+  "etymology": "Formerly known as Sansevieria trifasciata, its new genus name 'Dracaena' comes from the Greek 'drakaina' meaning female dragon, referring to the red sap of some species. 'Trifasciata' means 'three bundles', describing the three-banded pattern on its leaves.",
+  "history": "Native to tropical West Africa, this plant has been a popular indoor houseplant for decades due to its striking, upright leaves and its incredible hardiness. It is well-known for its air-purifying qualities, as highlighted by a famous NASA study, and is often found in homes and offices with low-light conditions.",
+  "commonNames": [
+    "Snake Plant",
+    "Mother-in-Law's Tongue",
+    "Viper's Bowstring Hemp"
+  ],
+  "image": "images/dracaena-trifasciata/trifasciata1.jpg",
+  "gallery": [
+    "images/dracaena-trifasciata/trifasciata1.jpg",
+    "images/dracaena-trifasciata/trifasciata2.jpg",
+    "images/dracaena-trifasciata/trifasciata3.jpg"
+  ],
+  "tags": [
+    "succulent",
+    "drought-tolerant",
+    "low-light-tolerant",
+    "easy-care",
+    "air-purifying",
+    "upright-growth"
+  ],
+  "care": {
+    "description": "An incredibly tough, low-maintenance plant that thrives on neglect.",
+    "tips": [
+      "Avoid overwatering to prevent root rot.",
+      "Dust the leaves occasionally to help with photosynthesis."
+    ],
+    "issues": [
+      "<strong>Mushy, yellowing leaves:</strong> A classic sign of overwatering. Let the soil dry out completely between waterings.",
+      "<strong>Wrinkled or shriveled leaves:</strong> The plant is very thirsty. Give it a good watering.",
+      "<strong>Brown tips:</strong> Can be caused by inconsistent watering or a buildup of salts in the soil. Flush the soil with water occasionally."
+    ],
+    "detail": "The Dracaena trifasciata is a perfect plant for beginners or those who travel frequently. Its thick, succulent-like leaves store water, making it extremely drought-tolerant and forgiving of neglect. It can thrive in a variety of light conditions, from low to bright, indirect light, but its growth will be faster and its colors more vibrant in a brighter spot. Overwatering is the most common mistake made with this plant and is often fatal. When in doubt, it is always better to underwater than to overwater.",
+    "howToImages": [
+      "images/dracaena-trifasciata/trifasciata_care1.jpg",
+      "images/dracaena-trifasciata/trifasciata_care2.jpg"
+    ]
+  },
+  "watering": {
+    "description": "Water sparingly, allowing the soil to dry out completely.",
+    "tips": [
+      "Check the soil moisture with your finger before watering.",
+      "Water even less in the winter months."
+    ],
+    "issues": [
+      "Overwatering is the primary cause of death. The leaves will become soft and mushy from root rot."
+    ],
+    "detail": "Water your Snake Plant thoroughly, but only when the soil has completely dried out. The frequency will depend on the light and temperature of your home. In a low-light spot, this could be once a month or less. In a brighter spot, it may need water every few weeks. The plant is very tolerant of being underwatered and will show signs of thirst by having wrinkled leaves.",
+    "frequency": "Every 2–4 weeks, depending on light",
+    "howToImages": [
+      "images/dracaena-trifasciata/trifasciata_watering1.jpg",
+      "images/dracaena-trifasciata/trifasciata_watering2.jpg"
+    ]
+  },
+  "light": {
+    "description": "Tolerates a wide range of light, from low to bright, indirect.",
+    "idealHours": "4-6 hours",
+    "detail": "Dracaena trifasciata is famously tolerant of low-light conditions, which is why it is so popular for offices and darker rooms. However, for a healthier plant and faster growth, it prefers bright, indirect light. It can even tolerate some direct morning sun. Too much direct sun can scorch the leaves, so avoid placing it in a spot with harsh afternoon sun.",
+    "howToImages": [
+      "images/dracaena-trifasciata/trifasciata_light1.jpg",
+      "images/dracaena-trifasciata/trifasciata_light2.jpg"
+    ],
+    "tips": [
+      "The plant's vibrant colors will be more pronounced in brighter light.",
+      "Rotate the plant periodically for even growth."
+    ]
+  },
+  "medium": {
+    "description": "A gritty, well-draining succulent or cactus mix.",
+    "detail": "Use a soil mix that drains very well to prevent root rot. A pre-mixed succulent or cactus soil is an excellent choice. You can also create your own mix by adding perlite, coarse sand, or pumice to a standard potting soil. The key is to have a mix that is airy and does not retain a lot of moisture.",
+    "howToImages": [
+      "images/dracaena-trifasciata/trifasciata_medium1.jpg",
+      "images/dracaena-trifasciata/trifasciata_medium2.jpg"
+    ],
+    "tips": [
+      "Always use a pot with good drainage holes.",
+      "Avoid standard potting soil alone, as it is too heavy."
+    ]
+  },
+  "propagation": {
+    "description": "Easily propagated from leaf cuttings or by division.",
+    "detail": "Dracaena trifasciata is one of the easiest plants to propagate. You can simply cut a leaf into segments and place them in moist soil. New roots will form, and a new plant will grow from the base. You can also propagate by division, which is a faster method. When repotting, simply separate the plant into smaller clumps and pot them individually.",
+    "tips": [
+      "Allow leaf cuttings to callus over for a few days before planting.",
+      "Ensure the cutting is planted right side up for best results."
+    ],
+    "howToImages": [
+      "images/dracaena-trifasciata/trifasciata_cut.jpg",
+      "images/dracaena-trifasciata/trifasciata_prop.jpg"
+    ]
+  },
+  "issues": {
+    "description": "The main issue is overwatering, which causes mushy leaves and root rot.",
+    "image": [
+      "images/dracaena-trifasciata/trifasciata_rot.jpg",
+      "images/dracaena-trifasciata/trifasciata_yellowing.jpg"
+    ],
+    "tips": [
+      "The plant is more likely to recover from underwatering than overwatering."
+    ]
+  },
+  "toxicity": {
+    "description": "Toxic to cats and dogs if ingested. It can cause nausea, vomiting, and diarrhea."
+  }
+},
+{
+"id": "caladium-bicolor",
+"scientificName": "Caladium bicolor",
+"etymology": "The genus name 'Caladium' comes from the Latinized form of the Malay word 'keladi,' meaning 'plant with edible roots.' The species name 'bicolor' refers to the striking two-toned patterns found in the foliage.",
+"history": "Caladium bicolor is native to South America, particularly Brazil, and has been cultivated for centuries for its vibrant ornamental foliage. It became widely popular in Europe during the 18th and 19th centuries as part of the Victorian fascination with exotic tropical plants.",
+"commonNames": ["Caladium", "Angel Wings", "Elephant Ear"],
+"image": "images/caladium-bicolor/main.jpg",
+"gallery": ["images/caladium-bicolor/main.jpg", "images/caladium-bicolor/gallery1.jpg", "images/caladium-bicolor/gallery2.jpg"],
+"tags": ["tropical", "foliage", "ornamental"],
+"care": {
+"description": "Caladium bicolor requires warm, humid conditions and indirect light for optimal growth.",
+"tips": ["Provide consistent humidity for best foliage.", "Remove faded leaves to encourage new growth."],
+"issues": ["<strong>Leaf scorch:</strong> caused by direct sunlight, move plant to shaded area.", "<strong>Yellowing leaves:</strong> caused by overwatering, reduce watering frequency."],
+"detail": "Caladium bicolor thrives in tropical conditions with warm temperatures and high humidity. It is best suited for shaded areas, making it an excellent choice for indoor or outdoor decorative planting in filtered light. Regular care includes monitoring watering, keeping the soil moist but not soggy, and providing warmth during its growing season.",
+"howToImages": ["images/caladium-bicolor/care1.jpg", "images/caladium-bicolor/care2.jpg"]
+},
+"watering": {
+"description": "Keep soil consistently moist but not waterlogged.",
+"tips": ["Water when the top inch of soil feels dry.", "Reduce watering when plant goes dormant."],
+"issues": ["Overwatering can cause root rot."],
+"detail": "Caladium bicolor requires regular watering during its active growing season, ensuring the soil remains evenly moist. However, during dormancy in the cooler months, watering should be significantly reduced as the plant conserves energy in its tubers. Good drainage is essential to prevent rot.",
+"frequency": "Every 3–4 days during growing season, less during dormancy.",
+"howToImages": ["images/caladium-bicolor/watering1.jpg", "images/caladium-bicolor/watering2.jpg"]
+},
+"light": {
+"description": "Prefers bright, indirect light or partial shade.",
+"idealHours": "6–8 hours of indirect light per day.",
+"detail": "Caladium bicolor thrives best in bright, filtered light conditions. Direct sunlight can scorch its delicate leaves, so it is important to position the plant where it receives diffused or indirect sunlight. Outdoors, it performs well under the canopy of taller plants or trees.",
+"howToImages": ["images/caladium-bicolor/light1.jpg", "images/caladium-bicolor/light2.jpg"],
+"tips": ["Avoid direct midday sun.", "Rotate plant occasionally for even growth."]
+},
+"medium": {
+"description": "Well-draining, rich, and slightly acidic soil mix.",
+"detail": "Caladium bicolor grows best in soil that is loose, well-aerated, and rich in organic matter. A mix of peat, perlite, and compost provides excellent drainage while maintaining the moisture needed for tuber health. Avoid compacted or heavy clay soils.",
+"howToImages": ["images/caladium-bicolor/medium1.jpg", "images/caladium-bicolor/medium2.jpg"],
+"tips": ["Use a peat-based potting mix.", "Add perlite to improve aeration."]
+},
+"propagation": {
+"description": "Primarily propagated through tuber division.",
+"detail": "Propagation of Caladium bicolor is most successful by dividing its tubers during dormancy. Each tuber should have at least one growing eye to sprout a new plant. After cutting, allow the tuber pieces to dry briefly before planting them in well-draining soil to prevent rot.",
+"tips": ["Divide tubers in spring before planting season.", "Dust cut sections with fungicide to prevent rot."],
+"howToImages": ["images/caladium-bicolor/prop1.jpg", "images/caladium-bicolor/prop2.jpg"]
+},
+"issues": {
+"description": "Prone to leaf scorch, root rot, and pest infestations.",
+"image": ["images/caladium-bicolor/issue1.jpg", "images/caladium-bicolor/issue2.jpg"],
+"tips": ["Check regularly for pests such as aphids and spider mites."]
+},
+"toxicity": {
+"description": "Caladium bicolor is toxic to humans and pets if ingested, causing irritation of the mouth, tongue, and throat, as well as vomiting and difficulty swallowing."
+}
+},
+{
+"id": "ficus-benghalensis",
+"scientificName": "Ficus benghalensis",
+"etymology": "The genus name 'Ficus' comes from the Latin word for fig. The species name 'benghalensis' refers to its prevalence in the Bengal region of India.",
+"history": "Ficus benghalensis, commonly known as the Banyan tree, is native to the Indian subcontinent. It is deeply rooted in Indian culture and mythology, symbolizing immortality and longevity. The tree is notable for its aerial roots that develop into trunks, allowing it to cover vast areas and form large groves. The Great Banyan Tree in Kolkata is one of the largest and oldest specimens in existence.",
+"commonNames": ["Banyan Tree", "Indian Fig Tree"],
+"image": "images/ficus-benghalensis/main.jpg",
+"gallery": ["images/ficus-benghalensis/main.jpg", "images/ficus-benghalensis/gallery1.jpg", "images/ficus-benghalensis/gallery2.jpg"],
+"tags": ["tropical", "tree", "sacred", "ornamental"],
+"care": {
+"description": "Requires warm climates, space to spread, and minimal care once established.",
+"tips": ["Provide ample outdoor space for roots to expand.", "Prune young branches to control shape."],
+"issues": ["<strong>Root invasion:</strong> caused by aggressive root growth, plant away from buildings.", "<strong>Leaf drop:</strong> caused by sudden environmental changes, maintain stable conditions."],
+"detail": "Ficus benghalensis is a hardy tree that thrives outdoors in tropical and subtropical regions. It requires very little maintenance once established, as its aerial roots and trunks allow it to adapt to a variety of conditions. Regular pruning in early years helps manage its spread, but in the wild it naturally grows into massive groves that can cover acres.",
+"howToImages": ["images/ficus-benghalensis/care1.jpg", "images/ficus-benghalensis/care2.jpg"]
+},
+"watering": {
+"description": "Requires regular watering when young, drought-tolerant when mature.",
+"tips": ["Water deeply during dry spells.", "Reduce watering in rainy season."],
+"issues": ["Overwatering can cause root rot in poorly drained soils."],
+"detail": "Young banyan trees benefit from consistent watering to establish strong root systems. Once mature, the tree becomes drought-tolerant and requires minimal supplemental watering. However, during extended dry periods, deep watering ensures optimal growth and prevents stress.",
+"frequency": "Weekly when young; occasional deep watering when mature.",
+"howToImages": ["images/ficus-benghalensis/watering1.jpg", "images/ficus-benghalensis/watering2.jpg"]
+},
+"light": {
+"description": "Thrives in full sun but tolerates partial shade.",
+"idealHours": "6–8 hours of direct sunlight daily.",
+"detail": "Ficus benghalensis grows best under full sun exposure, which supports its large canopy and robust growth. While it can tolerate partial shade, especially in its juvenile stage, it develops its iconic aerial roots and broad canopy most effectively under abundant sunlight.",
+"howToImages": ["images/ficus-benghalensis/light1.jpg", "images/ficus-benghalensis/light2.jpg"],
+"tips": ["Plant in an open area with maximum sun exposure.", "Avoid dense shade to promote strong root development."]
+},
+"medium": {
+"description": "Grows in a variety of soils but prefers well-draining loam.",
+"detail": "Ficus benghalensis adapts to different soil types, including sandy, loamy, and clay soils, as long as drainage is sufficient. It thrives in fertile, well-draining loam with organic content to support its expansive root system. Poor drainage can hinder growth and promote disease.",
+"howToImages": ["images/ficus-benghalensis/medium1.jpg", "images/ficus-benghalensis/medium2.jpg"],
+"tips": ["Amend soil with organic matter before planting.", "Ensure good drainage to avoid waterlogging."]
+},
+"propagation": {
+"description": "Propagated through seed or aerial root cuttings.",
+"detail": "Propagation of Ficus benghalensis is commonly achieved by seed, though it is slow. A more practical method involves planting aerial roots or stem cuttings. Aerial roots that reach the soil naturally grow into new trunks, allowing the tree to spread and form expansive groves.",
+"tips": ["Use fresh seeds for higher germination rates.", "Support aerial roots until they establish in the soil."],
+"howToImages": ["images/ficus-benghalensis/prop1.jpg", "images/ficus-benghalensis/prop2.jpg"]
+},
+"issues": {
+"description": "Common issues include invasive roots and susceptibility to pests like scale insects.",
+"image": ["images/ficus-benghalensis/issue1.jpg", "images/ficus-benghalensis/issue2.jpg"],
+"tips": ["Monitor aerial root growth to prevent structural damage near buildings."]
+},
+"toxicity": {
+"description": "The sap of Ficus benghalensis may cause skin irritation and is mildly toxic if ingested, leading to stomach discomfort."
+}
+},
+{
+"id": "ficus-elastica",
+"scientificName": "Ficus elastica",
+"etymology": "The genus name 'Ficus' comes from the Latin word for fig. The species name 'elastica' refers to the plant's latex-rich sap, historically used to produce natural rubber.",
+"history": "Ficus elastica, commonly known as the Rubber Plant, is native to Southeast Asia, particularly India, Nepal, Bhutan, Myanmar, and Malaysia. In the 19th century, it was cultivated as a source of latex for rubber production, though it was later replaced by Hevea brasiliensis as the primary commercial rubber source. Today, it is mainly grown worldwide as an ornamental indoor plant.",
+"commonNames": ["Rubber Plant", "Indian Rubber Tree"],
+"image": "images/ficus-elastica/main.jpg",
+"gallery": ["images/ficus-elastica/main.jpg", "images/ficus-elastica/gallery1.jpg", "images/ficus-elastica/gallery2.jpg"],
+"tags": ["tropical", "houseplant", "ornamental", "air-purifying"],
+"care": {
+"description": "A hardy indoor plant that requires moderate light and infrequent watering.",
+"tips": ["Wipe leaves with a damp cloth to keep them glossy.", "Rotate pot occasionally for even growth."],
+"issues": ["<strong>Leaf yellowing:</strong> caused by overwatering, allow soil to dry between waterings.", "<strong>Leaf drop:</strong> caused by low light or sudden changes in temperature, move plant to a brighter, stable environment."],
+"detail": "Ficus elastica is a low-maintenance houseplant that thrives indoors in bright, indirect light but can also tolerate lower light conditions. It requires minimal pruning and is relatively pest-resistant. Its large, glossy leaves make it a striking decorative plant, and with proper care, it can live for many years.",
+"howToImages": ["images/ficus-elastica/care1.jpg", "images/ficus-elastica/care2.jpg"]
+},
+"watering": {
+"description": "Prefers infrequent but deep watering.",
+"tips": ["Allow the top 2 inches of soil to dry before watering again.", "Reduce watering in winter when growth slows."],
+"issues": ["Overwatering can cause root rot."],
+"detail": "Ficus elastica thrives on a careful balance of moisture. The soil should be allowed to partially dry out between watering sessions to avoid soggy conditions that can damage roots. During the active growing season (spring and summer), more frequent watering may be necessary, while in winter, watering should be reduced.",
+"frequency": "Every 1–2 weeks during growing season; every 2–3 weeks in winter.",
+"howToImages": ["images/ficus-elastica/watering1.jpg", "images/ficus-elastica/watering2.jpg"]
+},
+"light": {
+"description": "Prefers bright, indirect light but tolerates moderate light.",
+"idealHours": "6–8 hours of indirect light daily.",
+"detail": "Ficus elastica grows best in bright, indirect sunlight, which enhances the deep green and sometimes variegated foliage. While it can adapt to lower light conditions, growth may slow, and leaves may lose vibrancy. Direct sunlight can scorch the leaves, so filtered light is ideal.",
+"howToImages": ["images/ficus-elastica/light1.jpg", "images/ficus-elastica/light2.jpg"],
+"tips": ["Avoid harsh afternoon sun to prevent leaf burn.", "Rotate plant to encourage even growth."]
+},
+"medium": {
+"description": "Prefers well-draining, fertile potting soil.",
+"detail": "Ficus elastica thrives in a soil mix that balances moisture retention with good aeration. A peat-based potting mix combined with perlite or coarse sand ensures adequate drainage while keeping roots healthy. Heavy soils that retain too much water should be avoided.",
+"howToImages": ["images/ficus-elastica/medium1.jpg", "images/ficus-elastica/medium2.jpg"],
+"tips": ["Use a well-draining indoor potting mix.", "Repot every 2–3 years to refresh soil and promote growth."]
+},
+"propagation": {
+"description": "Propagated through stem cuttings or air layering.",
+"detail": "The most common method of propagating Ficus elastica is by taking stem cuttings with a few leaves and rooting them in water or soil. Air layering is another effective method, where a stem section is encouraged to root while still attached to the plant before being cut and replanted.",
+"tips": ["Use rooting hormone to increase success rates.", "Propagate in spring or early summer for best results."],
+"howToImages": ["images/ficus-elastica/prop1.jpg", "images/ficus-elastica/prop2.jpg"]
+},
+"issues": {
+"description": "Common issues include leaf drop, yellowing leaves, and pest infestations.",
+"image": ["images/ficus-elastica/issue1.jpg", "images/ficus-elastica/issue2.jpg"],
+"tips": ["Inspect leaves regularly for pests like scale or mealybugs."]
+},
+"toxicity": {
+"description": "Ficus elastica is toxic to humans and pets if ingested, causing mouth and stomach irritation. Its milky sap may also cause skin irritation."
+}
+}
+]

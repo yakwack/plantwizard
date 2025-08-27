@@ -1,0 +1,107 @@
+{
+  "id": "plectranthus-verticillatus",
+  "scientificName": "Plectranthus verticillatus",
+  "etymology": "From Greek 'plektron' (spur) and 'anthos' (flower), referring to the spur-like shape of its flowers. The species name 'verticillatus' means 'whorled,' describing the arrangement of its leaves and flowers.",
+  "history": "Native to southeastern Africa, this trailing plant has been cultivated as a houseplant for decades. Its hardiness, rapid growth, and graceful trailing habit made it a classic choice for hanging baskets and windowsills, earning it the popular name 'Swedish Ivy.'",
+  "commonNames": [
+    "Swedish Ivy",
+    "Creeping Charlie",
+    "Mint Vine"
+  ],
+  "image": "images/plectranthus-verticillatus/verticillatus1.jpg",
+  "gallery": [
+    "images/plectranthus-verticillatus/verticillatus1.jpg",
+    "images/plectranthus-verticillatus/verticillatus2.jpg",
+    "images/plectranthus-verticillatus/verticillatus3.jpg"
+  ],
+  "care": {
+    "description": "An easy-to-grow, trailing plant that is perfect for hanging baskets or shelves.",
+    "tips": [
+      "Pinch off the tips of the vines to encourage a fuller, bushier plant.",
+      "The plant is not a true ivy, despite its common name."
+    ],
+    "issues": [
+      "<strong>Yellowing leaves:</strong> Can be a sign of overwatering. Ensure the soil is not waterlogged.",
+      "<strong>Leggy growth:</strong> Indicates insufficient light. Move the plant to a brighter location.",
+      "<strong>Rotting stems:</strong> A classic sign of root rot, caused by overwatering."
+    ],
+    "detail": "Plectranthus verticillatus is a beautiful and incredibly forgiving plant that is perfect for beginners. It has a charming vining habit and coin-shaped leaves that will trail gracefully from a hanging basket or shelf. It thrives in bright, indirect light and likes its soil to be kept slightly moist. It's a fast grower, and you can easily prune it back to maintain its shape and fullness. Its resilience to a variety of conditions makes it a fantastic addition to almost any home.",
+    "howToImages": [
+      "images/plectranthus-verticillatus/verticillatus_care1.jpg",
+      "images/plectranthus-verticillatus/verticillatus_care2.jpg"
+    ]
+  },
+  "watering": {
+    "description": "Keep soil evenly moist, but do not let it become soggy.",
+    "tips": [
+      "Allow the top inch of soil to dry out before watering again.",
+      "Water less frequently in the cooler months."
+    ],
+    "issues": [
+      "Overwatering is the biggest threat and can lead to root rot."
+    ],
+    "detail": "Plectranthus verticillatus prefers to be kept evenly moist but can tolerate a bit of drying out. Water it when the top inch of soil feels dry to the touch. It is crucial to avoid overwatering, as this can cause root rot. If the leaves start to yellow and the stems feel mushy, you are overwatering. Ensure your pot has drainage holes to allow excess water to escape.",
+    "frequency": "Once a week, depending on light",
+    "howToImages": [
+      "images/plectranthus-verticillatus/verticillatus_watering1.jpg",
+      "images/plectranthus-verticillatus/verticillatus_watering2.jpg"
+    ]
+  },
+  "light": {
+    "description": "Thrives in bright, indirect light.",
+    "idealHours": "4-6 hours",
+    "detail": "This plant prefers bright, indirect light. Placing it near a window that gets filtered light is a great option. It can survive in lower light, but its growth will become leggy and the leaves will be smaller. Too much direct sun can scorch the leaves and cause them to turn yellow or brown.",
+    "howToImages": [
+      "images/plectranthus-verticillatus/verticillatus_light1.jpg",
+      "images/plectranthus-verticillatus/verticillatus_light2.jpg"
+    ],
+    "tips": [
+      "A location with some morning sun is ideal.",
+      "Rotate the plant regularly to ensure even, full growth."
+    ]
+  },
+  "medium": {
+    "description": "A well-draining, standard potting mix.",
+    "detail": "Any standard, well-draining potting mix will work for this plant. A blend of peat moss, perlite, and a bit of sand can improve aeration and drainage, which is key to preventing root rot. The soil should be light and airy, not dense or compacted.",
+    "howToImages": [
+      "images/plectranthus-verticillatus/verticillatus_medium1.jpg",
+      "images/plectranthus-verticillatus/verticillatus_medium2.jpg"
+    ],
+    "tips": [
+      "Ensure the pot has drainage holes.",
+      "This plant is very adaptable and doesn't require a special mix."
+    ]
+  },
+  "propagation": {
+    "description": "Extremely easy to propagate from stem cuttings in water or soil.",
+    "detail": "Propagating Swedish Ivy is one of the easiest tasks in gardening. Simply snip a healthy stem with a few leaves, remove the lowest leaves, and place it in a glass of water. Roots will form quickly, often within a week. Once the roots are a couple of inches long, you can plant the cutting in soil. You can also plant the cutting directly in moist soil and keep it in a warm, bright location.",
+    "tips": [
+      "Change the water in the propagation jar every few days.",
+      "Take several cuttings to create a new, full plant."
+    ],
+    "howToImages": [
+      "images/plectranthus-verticillatus/verticillatus_cut.jpg",
+      "images/plectranthus-verticillatus/verticillatus_root.jpg"
+    ]
+  },
+  "issues": {
+    "description": "Common issues are caused by overwatering, leading to root rot and yellowing leaves.",
+    "image": [
+      "images/plectranthus-verticillatus/verticillatus_yellowing.jpg",
+      "images/plectranthus-verticillatus/verticillatus_leggy.jpg"
+    ],
+    "tips": [
+      "Always check the soil moisture before watering to prevent root rot."
+    ]
+  },
+  "toxicity": {
+    "description": "Non-toxic and safe for cats, dogs, and humans."
+  },
+  "tags": [
+    "vining",
+    "trailing",
+    "easy-care",
+    "low-light-tolerant",
+    "non-toxic"
+  ]
+}

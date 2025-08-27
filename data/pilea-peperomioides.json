@@ -1,0 +1,102 @@
+{
+  "id": "pilea-peperomioides",
+  "scientificName": "Pilea peperomioides",
+  "etymology": "The genus name *Pilea* comes from the Latin 'pilus' meaning 'hair,' referring to the hairy sepals of some species. *peperomioides* means 'resembling Peperomia,' due to the similar appearance of its leaves.",
+  "history": "Native to the Yunnan province of Southern China, the Pilea was discovered and brought to Europe by a Norwegian missionary in the 1940s. From there, it was passed from friend to friend as a houseplant, earning it the nickname 'Friendship Plant.' It became widely popular in the 2010s due to social media and its unique, coin-shaped leaves.",
+  "commonNames": [
+    "Pancake Plant",
+    "UFO Plant",
+    "Chinese Money Plant",
+    "Friendship Plant"
+  ],
+  "image": "images/pilea/pilea1.jpg",
+  "gallery": [
+    "images/pilea/pilea1.jpg",
+    "images/pilea/pilea2.jpg",
+    "images/pilea/pilea3.jpg"
+  ],
+  "care": {
+    "description": "A very popular houseplant with a unique look that is simple to care for.",
+    "tips": [
+      "Wipe the leaves with a damp cloth to prevent dust buildup.",
+      "Rotate the pot weekly for symmetrical growth."
+    ],
+    "issues": [
+      "<strong>Cupping or curling leaves:</strong> A sign of too much direct light. Move to a spot with filtered light.",
+      "<strong>Yellowing lower leaves:</strong> Indicates overwatering. Let the soil dry out more before watering again.",
+      "<strong>Drooping leaves:</strong> A sign of thirst. The leaves will quickly perk up after a watering.",
+      "<strong>Brown spots:</strong> Can be from sunburn. Move out of direct light immediately."
+    ],
+    "detail": "The Pilea peperomioides is a fun and easy-to-care-for plant. It loves bright, indirect light, which helps it maintain its compact shape and vibrant green color. Water your Pilea when the top inch of soil is dry, but be careful not to overwater, as it is prone to root rot. One of its most endearing qualities is its ability to produce 'pups,' or baby plants, from its roots. These can be easily separated to share with friends, which is how the plant earned its 'Friendship Plant' nickname.",
+    "howToImages": [
+      "images/pilea/pilea_watering.jpg",
+      "images/pilea/pilea_light.jpg"
+    ]
+  },
+  "watering": {
+    "description": "Water when the top inch of soil is dry to the touch.",
+    "tips": [
+      "Stick your finger into the soil to check for moisture.",
+      "Ensure the pot has drainage holes."
+    ],
+    "issues": [
+      "The plant is highly susceptible to root rot from overwatering. Leaves will turn yellow and drop off."
+    ],
+    "detail": "It's best to let the top inch or two of soil dry out before watering your Pilea. Give it a good soak, allowing excess water to drain from the bottom of the pot. In winter, reduce watering frequency as the plant's growth slows down. The Pilea's leaves can tell you a lot about its watering needs; if they start to droop slightly, it's a good sign that it's thirsty.",
+    "frequency": "Every 1-2 weeks, depending on light",
+    "howToImages": [
+      "images/pilea/pilea_drysoil.jpg",
+      "images/pilea/pilea_soaking.jpg"
+    ]
+  },
+  "light": {
+    "description": "Prefers bright, indirect light for best growth.",
+    "idealHours": "4-6 hours",
+    "detail": "Pilea peperomioides loves bright, indirect light. Placing it near a window with a sheer curtain is a great option. If the leaves start to curl inward like a taco, it's a sign of too much direct sunlight. On the other hand, if the leaves are growing large and flat, it might need more light. Rotating the plant regularly will help it maintain a symmetrical shape.",
+    "howToImages": [
+      "images/pilea/pilea_light1.jpg",
+      "images/pilea/pilea_light2.jpg"
+    ],
+    "tips": [
+      "Leaves will turn pale green in low light.",
+      "Avoid any direct, harsh afternoon sun."
+    ]
+  },
+  "medium": {
+    "description": "A well-draining, airy potting mix.",
+    "detail": "A standard potting mix is usually sufficient for a Pilea, but it's important to ensure it drains well. You can mix in perlite to improve drainage and aeration. This will help prevent water from sitting at the bottom of the pot, which is a common cause of root rot. The soil should be light and fluffy, not compacted.",
+    "howToImages": [
+      "images/pilea/pilea_medium1.jpg",
+      "images/pilea/pilea_medium2.jpg"
+    ],
+    "tips": [
+      "A mix of potting soil, perlite, and sand is a great homemade blend.",
+      "Repot the plant when its roots start to fill the pot."
+    ]
+  },
+  "propagation": {
+    "description": "Extremely easy to propagate from the 'pups' or offsets that grow from the soil.",
+    "detail": "The most common way to propagate a Pilea is by removing the 'pups' that grow from the main stem's roots. When the pup is a few inches tall, you can gently cut it from the mother plant's root system with a clean knife. Plant the pup in a small pot with moist soil, and keep it in a bright, warm spot. It will quickly establish itself and begin to grow into a new plant.",
+    "tips": [
+      "You can also root the pups in water before planting them in soil.",
+      "Allow the cut on the mother plant to dry for a day before watering again."
+    ],
+    "howToImages": [
+      "images/pilea/pilea_prop1.jpg",
+      "images/pilea/pilea_prop2.jpg"
+    ]
+  },
+  "issues": {
+    "description": "Common issues include cupping leaves from too much sun and yellowing leaves from overwatering.",
+    "image": [
+      "images/pilea/pilea_yellowing.jpg",
+      "images/pilea/pilea_cupping.jpg"
+    ],
+    "tips": [
+      "The plant will tell you its needs. Look for drooping leaves when thirsty or yellowing from overwatering."
+    ]
+  },
+  "toxicity": {
+    "description": "Non-toxic and safe for cats, dogs, and humans."
+  }
+}

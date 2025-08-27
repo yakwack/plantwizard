@@ -1,0 +1,102 @@
+{
+  "id": "pothos",
+  "scientificName": "Epipremnum aureum",
+  "etymology": "From Greek 'epi' (upon), 'premno' (a stump), referring to its growth habit, and 'aureum' meaning 'golden' in reference to its yellow-splashed leaves.",
+  "history": "Native to the Mo'orea island in French Polynesia, this vining plant has spread throughout tropical and subtropical forests globally. Its hardiness and striking foliage have made it one of the most popular and easy-to-care-for houseplants in the world since its introduction to cultivation.",
+  "commonNames": [
+    "Golden Pothos",
+    "Devil's Ivy",
+    "Money Plant"
+  ],
+  "image": "images/pothos/pothos1.jpg",
+  "gallery": [
+    "images/pothos/pothos1.jpg",
+    "images/pothos/pothos2.jpg",
+    "images/pothos/pothos3.jpg"
+  ],
+  "care": {
+    "description": "A very forgiving plant that tolerates a wide range of conditions, making it perfect for beginners.",
+    "tips": [
+      "Dust the leaves occasionally to help them absorb light better.",
+      "Trim back vines to encourage a bushier appearance."
+    ],
+    "issues": [
+      "<strong>Yellowing leaves:</strong> Usually a sign of overwatering. Allow the soil to dry out more between waterings.",
+      "<strong>Brown spots or mushy stems:</strong> Indicates root rot. Stop watering and let the plant dry out completely.",
+      "<strong>Drooping leaves:</strong> Often a sign of thirst. Water thoroughly and the leaves should perk up quickly.",
+      "<strong>Loss of variegation:</strong> If the leaves' golden splashes fade to green, it indicates a lack of light. Move to a brighter spot.",
+      "<strong>Pests:</strong> Can be susceptible to mealybugs and spider mites. Check under leaves and use a gentle insecticidal soap if needed."
+    ],
+    "detail": "Golden Pothos is known as 'Devil's Ivy' because it's nearly impossible to kill and stays green even in the dark. It is an incredibly low-maintenance plant that is perfect for beginners. The Pothos can tolerate a variety of light conditions from low to bright, indirect light, but for the best growth and variegation, aim for bright, indirect light. Water only when the soil is completely dry. Overwatering is the most common cause of issues with this plant. Pothos are also excellent air purifiers, making them a great addition to any home. They are fast-growing and can be easily propagated from stem cuttings to share with friends or create a fuller plant.",
+    "howToImages": [
+      "images/pothos/pothos_yellowing.jpg",
+      "images/pothos/pothos_browning.jpg"
+    ]
+  },
+  "watering": {
+    "description": "Let the soil dry out completely between waterings.",
+    "tips": [
+      "Check soil with your finger before watering.",
+      "The plant is very tolerant of being underwatered, but not overwatered."
+    ],
+    "issues": [
+      "Overwatering is the biggest risk and can lead to root rot."
+    ],
+    "detail": "Golden Pothos prefer to have their soil dry out completely before being watered again. A good rule of thumb is to check the soil with your finger; if it feels dry up to the first knuckle, it's time to water. They are quite forgiving if you forget to water them, but too much water will cause root rot, which is often fatal. Water less frequently in the winter months when the plant's growth slows down.",
+    "frequency": "Every 2-4 weeks, depending on light",
+    "howToImages": [
+      "images/watering_pothos1.jpg",
+      "images/watering_pothos2.jpg"
+    ]
+  },
+  "light": {
+    "description": "Tolerates low light, but thrives in bright, indirect light.",
+    "idealHours": "4-6 hours",
+    "detail": "Golden Pothos are famously tolerant of low light conditions, which is why they are a great choice for less-than-ideal spots. However, for a healthier plant and to maintain its vibrant gold and yellow variegation, bright, indirect light is best. Too much direct sun can scorch the leaves, while very low light may cause the golden splashes to fade, and the plant will grow slower.",
+    "howToImages": [
+      "images/light_pothos1.jpg",
+      "images/light_pothos2.jpg"
+    ],
+    "tips": [
+      "Place near a north- or east-facing window.",
+      "If leaves are fading, move it closer to a light source."
+    ]
+  },
+  "medium": {
+    "description": "Any standard well-draining potting mix.",
+    "detail": "Golden Pothos are not picky about their soil. Any standard, well-draining potting mix will work just fine. You can add a bit of perlite to ensure extra drainage, which is a key factor in preventing overwatering. They do not require a specialized, chunky mix like other plants.",
+    "howToImages": [
+      "images/medium_pothos1.jpg",
+      "images/medium_pothos2.jpg"
+    ],
+    "tips": [
+      "Ensure your pot has a drainage hole.",
+      "They can also be grown in water indefinitely."
+    ]
+  },
+  "propagation": {
+    "description": "Extremely easy to propagate from stem cuttings in water or soil.",
+    "detail": "Propagating a Golden Pothos is one of the easiest ways to get a new plant. Cut a healthy vine that has a few leaves and at least one node (the small bump where a leaf grows from the stem). You can root the cutting in a glass of water, and it will develop roots within a few weeks. Alternatively, you can plant the cutting directly in soil. Keep the cutting in a warm spot with bright, indirect light, and it will quickly begin to grow into a new plant.",
+    "tips": [
+      "Change the water in the glass every few days to keep it fresh.",
+      "You can root multiple cuttings in one glass for a fuller plant."
+    ],
+    "howToImages": [
+      "images/pothos_cut.jpg",
+      "images/pothos_root.jpg"
+    ]
+  },
+  "issues": {
+    "description": "Common issues include yellowing leaves from overwatering and loss of variegation from too little light.",
+    "image": [
+      "images/pothos/pothos_yellowing.jpg",
+      "images/pothos/pothos_browning.jpg"
+    ],
+    "tips": [
+      "Overwatering is the number one cause of problems; when in doubt, don't water."
+    ]
+  },
+  "toxicity": {
+    "description": "The entire plant is toxic to cats, dogs, and humans if ingested. It can cause mouth irritation, vomiting, and difficulty swallowing."
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "dianthus-barbatus",
+  "scientificName": "Dianthus barbatus",
+  "etymology": "From Greek 'dios' (divine) and 'anthos' (flower), literally meaning 'divine flower'. The species name 'barbatus' means 'bearded,' referring to the hairy tufts on the flower petals.",
+  "history": "Sweet William is native to southern Europe and parts of Asia. It has been a popular garden flower for centuries, particularly in cottage gardens. It is a biennial or short-lived perennial, and its colorful, fragrant blooms have made it a classic choice for bouquets and borders.",
+  "commonNames": [
+    "Sweet William"
+  ],
+  "image": "images/dianthus-barbatus/barbatus1.jpg",
+  "gallery": [
+    "images/dianthus-barbatus/barbatus1.jpg",
+    "images/dianthus-barbatus/barbatus2.jpg",
+    "images/dianthus-barbatus/barbatus3.jpg"
+  ],
+  "tags": [
+    "flowering",
+    "garden-plant",
+    "full-sun",
+    "fragrant-flowers",
+    "easy-care",
+    "biennial"
+  ],
+  "care": {
+    "description": "A hardy, fragrant plant that is easy to grow in the garden.",
+    "tips": [
+      "Deadhead spent flowers to encourage more blooms.",
+      "Sweet William is a biennial, meaning it flowers in its second year of growth."
+    ],
+    "issues": [
+      "<strong>Yellowing leaves:</strong> Can be a sign of overwatering or poor drainage. Ensure the soil is not waterlogged.",
+      "<strong>Fungal diseases:</strong> Can be susceptible to rust and powdery mildew in humid environments. Ensure good air circulation.",
+      "<strong>Failure to bloom:</strong> If the plant is in its first year, it may not bloom. It needs plenty of sun to flower."
+    ],
+    "detail": "Sweet William is a beautiful and fragrant plant that is a fantastic addition to any garden. It thrives in full sun and well-draining soil. It is a biennial plant, meaning it will grow foliage in its first year and then produce a profusion of colorful, fragrant blooms in its second year. The plant is easy to care for and is a great choice for a border or a cottage garden. Regular deadheading of spent blooms will encourage the plant to produce more flowers and extend its blooming period.",
+    "howToImages": [
+      "images/dianthus-barbatus/barbatus_care1.jpg",
+      "images/dianthus-barbatus/barbatus_care2.jpg"
+    ]
+  },
+  "watering": {
+    "description": "Keep soil evenly moist, but not soggy.",
+    "tips": [
+      "Water at the base of the plant to keep the foliage dry.",
+      "The plant is drought-tolerant once established."
+    ],
+    "issues": [
+      "Overwatering can lead to root rot."
+    ],
+    "detail": "Sweet William prefers its soil to be kept evenly moist. Water deeply but infrequently, allowing the top of the soil to dry out between waterings. Once established, the plant is quite drought-tolerant. It is important to avoid overhead watering, which can lead to fungal diseases like rust and powdery mildew.",
+    "frequency": "Once a week, or when soil feels dry",
+    "howToImages": [
+      "images/dianthus-barbatus/barbatus_watering1.jpg",
+      "images/dianthus-barbatus/barbatus_watering2.jpg"
+    ]
+  },
+  "light": {
+    "description": "Requires at least 6 hours of full sun per day.",
+    "idealHours": "6-8 hours",
+    "detail": "Sweet William is a sun-loving plant that needs plenty of direct sunlight to thrive and produce a full show of blooms. A location with full sun for at least 6 hours a day is ideal. It can tolerate some partial shade, but too little sun will result in leggy growth and fewer flowers.",
+    "howToImages": [
+      "images/dianthus-barbatus/barbatus_light1.jpg",
+      "images/dianthus-barbatus/barbatus_light2.jpg"
+    ],
+    "tips": [
+      "Full sun is crucial for blooming.",
+      "The plant will not flower in a shady spot."
+    ]
+  },
+  "medium": {
+    "description": "A well-draining, slightly alkaline soil.",
+    "detail": "Sweet William prefers a well-draining, slightly alkaline soil. A standard garden soil with good drainage is usually sufficient. You can amend the soil with some lime to increase the pH if it is too acidic. Avoid heavy clay soils that retain too much moisture.",
+    "howToImages": [
+      "images/dianthus-barbatus/barbatus_medium1.jpg",
+      "images/dianthus-barbatus/barbatus_medium2.jpg"
+    ],
+    "tips": [
+      "Ensure the soil drains well to prevent root rot.",
+      "A mix of garden soil, compost, and sand is a great blend."
+    ]
+  },
+  "propagation": {
+    "description": "Propagated from seeds or cuttings.",
+    "detail": "Sweet William is most commonly grown from seeds. You can sow seeds directly in the garden in late spring or early summer for blooms the following year. Alternatively, you can take stem cuttings in late summer. Cut a healthy stem and remove the lower leaves. Plant the cutting in a pot with moist soil and keep it in a warm, bright location until it roots.",
+    "tips": [
+      "Sow seeds in late spring for next year's blooms.",
+      "Cuttings should be taken from non-flowering stems."
+    ],
+    "howToImages": [
+      "images/dianthus-barbatus/barbatus_seed.jpg",
+      "images/dianthus-barbatus/barbatus_cut.jpg"
+    ]
+  },
+  "issues": {
+    "description": "The most common issue is fungal diseases caused by poor air circulation and wet foliage.",
+    "image": [
+      "images/dianthus-barbatus/barbatus_yellowing.jpg",
+      "images/dianthus-barbatus/barbatus_rust.jpg"
+    ],
+    "tips": [
+      "Ensure the plant has good air circulation."
+    ]
+  },
+  "toxicity": {
+    "description": "Toxic to cats and dogs if ingested. Can cause mild gastrointestinal upset."
+  }
+}

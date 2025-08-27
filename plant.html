@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Plant Profile</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Homenaje&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="navbar">
+    <h1 class="logo"><img src="images/wiz_logo.png" height="64px"> Plant Wizard</h1>
+    <nav><a href="index.html">Back to Directory</a></nav>
+  </header>
+
+  <main id="plant-profile" class="container"></main>
+
+  <script>
+    async function loadPlant() {
+      // Get the plant ID from the URL
+      const params = new URLSearchParams(window.location.search);
+      const plantId = params.get("id");
+
+      if (!plantId) {
+        document.getElementById("plant-profile").innerHTML = "<p>No plant selected.</p>";
+        return;
+      }
+
+      try {
+        // Fetch the specific JSON file for the plant
+        const res = await fetch(`plants/${plantId}.json`);
+        
+        // Handle cases where the file doesn't exist
+        if (!res.ok) {
+            document.getElementById("plant-profile").innerHTML = "<p>Plant not found.</p>";
+            return;
+        }
+
+        // The response is now a single plant object, not an array
+        const plant = await res.json();
+        
+        const profile = document.getElementById("plant-profile");
+        profile.innerHTML = `
+          <div class="profile-header">
+            <div>
+              <h2>${plant.scientificName}</h2>
+              <p><strong><em>Etymology:</em></strong> ${plant.etymology}</p>
+              <p><strong><em>Common Names:</em></strong> ${plant.commonNames.join(", ")}</p>
+              <p><strong><em>History:</em></strong> ${plant.history}</p>
+            </div>
+            <img src="${plant.image}" alt="${plant.scientificName}">
+          </div>
+
+          <!-- Top Cards -->
+          <section class="battle-cards">
+            <div class="card">
+              <h3><i class="fa-solid fa-seedling"></i> Care</h3>
+              <p>${plant.care.description}</p>
+            </div>
+
+            <div class="card">
+              <h3><i class="fa-solid fa-hand-holding-droplet"></i> Watering</h3>
+              <p>${plant.watering.description}</p>
+              <small><strong>Frequency:</strong> ${plant.watering.frequency}</small>
+            </div>
+
+            <div class="card">
+              <h3><i class="fa-solid fa-sun"></i> Light</h3>
+              <p>${plant.light.description}</p>
+              <small><strong>Ideal:</strong> ${plant.light.idealHours}</small>
+            </div>
+
+            <div class="card">
+              <h3><i class="fa-brands fa-pagelines"></i> Growing Medium</h3>
+              <p>${plant.medium.description}</p>
+            </div>
+
+            <div class="card">
+              <h3><i class="fa-solid fa-leaf"></i> Propagation</h3>
+              <p>${plant.propagation.description}</p>
+            </div>
+
+            <div class="card">
+              <h3><i class="fa-solid fa-book-skull"></i> Toxicity</h3>
+              <p>${plant.toxicity.description}</p>
+            </div>
+          </section>
+
+          <!-- In-depth Sections -->
+          <section id="care" class="card full-width">
+            <h3>Plant Care</h3>
+            <div class="care-section">
+              <h4>Essential Care Overview</h4>
+              <p>${plant.care.detail}</p>
+            </div>
+
+            <hr>
+
+            <div class="care-section common-issues">
+              <h4>Common Issues & Solutions</h4>
+              <p>Identifying issues with your plant early is key to a long, happy life.</p>
+              <div class="how-to-gallery">
+                ${Array.isArray(plant.care.howToImages) ? plant.care.howToImages.map(img => `<img src="${img}" alt="Common plant issues">`).join("") : ''}
+              </div>
+              <div class="issue-list">
+                <ul>
+                  ${plant.care.issues.map(t => `<li>${t}</li>`).join("")}
+                </ul>
+              </div>
+            </div>
+
+            <hr>
+
+            <div class="care-section additional-tips">
+              <h4>Pro Tips for Success</h4>
+              <ul>
+                ${plant.care.tips.map(t => `<li>${t}</li>`).join("")}
+              </ul>
+            </div>
+          </section>
+
+          <section id="watering" class="card full-width">
+            <h3>Watering</h3>
+            <h4>How and When to Water</h4>
+            <p>${plant.watering.detail}</p>
+            <div class="how-to-gallery">
+              ${plant.watering.howToImages.map(img => `<img src="${img}" alt="Watering step">`).join("")}
+            </div>
+          </section>
+
+          <section id="light" class="card full-width">
+            <h3>Light</h3>
+            <h4>Providing the Right Light</h4>
+            <p>${plant.light.detail}</p>
+            <div class="how-to-gallery">
+              ${plant.light.howToImages.map(img => `<img src="${img}" alt="Lighting guide">`).join("")}
+            </div>
+            <ul>
+              ${plant.light.tips.map(t => `<li>${t}</li>`).join("")}
+            </ul>
+          </section>
+
+          <section id="medium" class="card full-width">
+            <h3>Growing Medium</h3>
+            <h4>The Right Mix for Your Plant</h4>
+            <p>${plant.medium.detail}</p>
+            <div class="how-to-gallery">
+              ${plant.medium.howToImages.map(img => `<img src="${img}" alt="Soil mix guide">`).join("")}
+            </div>
+            <ul>
+              ${plant.medium.tips.map(t => `<li>${t}</li>`).join("")}
+            </ul>
+          </section>
+
+          <section id="propagation" class="card full-width">
+            <h3>Propagation</h3>
+            <h4>How to Propagate Your Plant</h4>
+            <p>${plant.propagation.detail}</p>
+            <div class="how-to-gallery">
+              ${plant.propagation.howToImages.map(img => `<img src="${img}" alt="Propagation step">`).join("")}
+            </div>
+            <ul>
+              ${plant.propagation.tips.map(t => `<li>${t}</li>`).join("")}
+            </ul>
+          </section>
+
+          <!-- Gallery of all images -->
+          <section>
+            <h3>Gallery</h3>
+            <div class="gallery">
+              ${plant.gallery.map(img => `<img src="${img}" alt="Image of plant in different settings">`).join("")}
+            </div>
+          </section>
+        `;
+      } catch (error) {
+        document.getElementById("plant-profile").innerHTML = `<p>Error loading plant data. Please check the file path. ${error}</p>`;
+        console.error("Error loading plant data:", error);
+      }
+    }
+    loadPlant();
+  </script>
+</body>
+</html>

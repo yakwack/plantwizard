@@ -1,0 +1,361 @@
+[
+  {
+    "id": "aglaonema-siam-aurora",
+    "scientificName": "Aglaonema 'Siam Aurora'",
+    "commonNames": [
+      "Chinese Evergreen",
+      "Red Aglaonema"
+    ],
+    "thumbnail": "images/aglaonema-siam-aurora/aurora1.jpg",
+    "tags": [
+      "tropical",
+      "colorful-foliage",
+      "low-light-tolerant",
+      "easy-care",
+      "air-purifying",
+      "slow-grower"
+    ]
+  },
+  {
+    "id": "caladium-bicolor",
+    "scientificName": "Caladium bicolor",
+    "commonNames": [
+      "Caladium",
+      "Angel Wings",
+      "Elephant Ear"
+    ],
+    "thumbnail": "images/caladium-bicolor/main.jpg",
+    "tags": [
+      "tropical",
+      "foliage",
+      "ornamental"
+    ]
+  },
+  {
+    "id": "chlorophytum-comosum",
+    "scientificName": "Chlorophytum comosum",
+    "commonNames": [
+      "Spider Plant",
+      "Spider Ivy",
+      "Ribbon Plant",
+      "Airplane Plant"
+    ],
+    "thumbnail": "images/chlorophytum-comosum/comosum1.jpg",
+    "tags": [
+      "easy-care",
+      "arching-leaves",
+      "low-light-tolerant",
+      "non-toxic",
+      "air-purifying",
+      "plantlets"
+    ]
+  },
+  {
+    "id": "colocasia-esculenta",
+    "scientificName": "Colocasia esculenta",
+    "commonNames": [
+      "Taro",
+      "Elephant Ear",
+      "Dasheen",
+      "Eddoe"
+    ],
+    "thumbnail": "images/colocasia-esculenta/esculenta1.jpg",
+    "tags": [
+      "tropical",
+      "heavy-waterer",
+      "full-sun",
+      "edible-root",
+      "large-foliage",
+      "pond-plant"
+    ]
+  },
+  {
+    "id": "dianthus-barbatus",
+    "scientificName": "Dianthus barbatus",
+    "commonNames": [
+      "Sweet William"
+    ],
+    "thumbnail": "images/dianthus-barbatus/barbatus1.jpg",
+    "tags": [
+      "flowering",
+      "garden-plant",
+      "full-sun",
+      "fragrant-flowers",
+      "easy-care",
+      "biennial"
+    ]
+  },
+  {
+    "id": "dracaena-trifasciata",
+    "scientificName": "Dracaena trifasciata",
+    "commonNames": [
+      "Snake Plant",
+      "Mother-in-Law's Tongue",
+      "Viper's Bowstring Hemp"
+    ],
+    "thumbnail": "images/dracaena-trifasciata/trifasciata1.jpg",
+    "tags": [
+      "succulent",
+      "drought-tolerant",
+      "low-light-tolerant",
+      "easy-care",
+      "air-purifying",
+      "upright-growth"
+    ]
+  },
+  {
+    "id": "ficus-benghalensis",
+    "scientificName": "Ficus benghalensis",
+    "commonNames": [
+      "Banyan Tree",
+      "Indian Fig Tree"
+    ],
+    "thumbnail": "images/ficus-benghalensis/main.jpg",
+    "tags": [
+      "tropical",
+      "tree",
+      "sacred",
+      "ornamental"
+    ]
+  },
+  {
+    "id": "ficus-elastica",
+    "scientificName": "Ficus elastica",
+    "commonNames": [
+      "Rubber Plant",
+      "Indian Rubber Tree"
+    ],
+    "thumbnail": "images/ficus-elastica/main.jpg",
+    "tags": [
+      "tropical",
+      "houseplant",
+      "ornamental",
+      "air-purifying"
+    ]
+  },
+  {
+    "id": "gerbera-jamesonii",
+    "scientificName": "Gerbera jamesonii",
+    "commonNames": [
+      "Gerbera Daisy",
+      "Transvaal Daisy",
+      "Barberton Daisy"
+    ],
+    "thumbnail": "images/gerbera-jamesonii/jamesonii1.jpg",
+    "tags": [
+      "flowering",
+      "bright-light",
+      "heavy-feeder",
+      "perennial-annual",
+      "cut-flower",
+      "container-plant"
+    ]
+  },
+  {
+    "id": "goldenpothos",
+    "scientificName": "Epipremnum aureum",
+    "commonNames": [
+      "Golden Pothos",
+      "Devil's Ivy",
+      "Money Plant"
+    ],
+    "thumbnail": "images/goldenpothos/pothos1.jpg",
+    "tags": [
+      "vining",
+      "low-light-tolerant",
+      "easy-care",
+      "drought-tolerant",
+      "air-purifying",
+      "variegated"
+    ]
+  },
+  {
+    "id": "hedera-helix",
+    "scientificName": "Hedera helix",
+    "commonNames": [
+      "English Ivy",
+      "Common Ivy"
+    ],
+    "thumbnail": "images/hedera-helix/helix1.jpg",
+    "tags": [
+      "vining",
+      "climbing",
+      "low-light-tolerant",
+      "easy-care",
+      "air-purifying",
+      "evergreen"
+    ]
+  },
+  {
+    "id": "monstera-adansonii",
+    "scientificName": "Monstera adansonii",
+    "commonNames": [
+      "Swiss Cheese Vine",
+      "Adanson's Monstera"
+    ],
+    "thumbnail": "images/monstera-adansonii/adansonii1.jpg",
+    "tags": [
+      "vining",
+      "fenestrations",
+      "high-humidity",
+      "medium-care",
+      "bright-indirect"
+    ]
+  },
+  {
+    "id": "monstera",
+    "scientificName": "Monstera deliciosa",
+    "commonNames": [
+      "Swiss Cheese Plant",
+      "Mexican Breadfruit",
+      "Split-leaf Philodendron",
+      "Ceriman"
+    ],
+    "thumbnail": "images/monstera/monstera1.jpg",
+    "tags": [
+      "tropical",
+      "climbing",
+      "medium-care",
+      "fenestrations",
+      "air-purifying"
+    ]
+  },
+  {
+    "id": "peperomia-hope",
+    "scientificName": "Peperomia 'Hope'",
+    "commonNames": [
+      "Trailing Watermelon Peperomia"
+    ],
+    "thumbnail": "images/peperomia-hope/peperomia-hope1.jpg",
+    "tags": [
+      "trailing",
+      "succulent-like",
+      "easy-care",
+      "bright-indirect",
+      "non-toxic",
+      "compact"
+    ]
+  },
+  {
+    "id": "petunia-atkinsiana",
+    "scientificName": "Petunia x atkinsiana",
+    "commonNames": [
+      "Petunia"
+    ],
+    "thumbnail": "images/petunia/petunia1.jpg",
+    "tags": [
+      "annual",
+      "flowering",
+      "full-sun",
+      "garden-plant",
+      "container-plant",
+      "heavy-feeder"
+    ]
+  },
+  {
+    "id": "philodendron-hederaceum",
+    "scientificName": "Philodendron hederaceum",
+    "commonNames": [
+      "Heartleaf Philodendron",
+      "Sweetheart Plant"
+    ],
+    "thumbnail": "images/philodendron/philodendron1.jpg",
+    "tags": [
+      "vining",
+      "low-light-tolerant",
+      "easy-care",
+      "heart-shaped-leaves",
+      "air-purifying"
+    ]
+  },
+  {
+    "id": "pilea-peperomioides",
+    "scientificName": "Pilea peperomioides",
+    "commonNames": [
+      "Pancake Plant",
+      "UFO Plant",
+      "Chinese Money Plant",
+      "Friendship Plant"
+    ],
+    "thumbnail": "images/pilea/pilea1.jpg",
+    "tags": [
+      "unique-leaves",
+      "bright-indirect",
+      "easy-care",
+      "low-maintenance",
+      "non-toxic",
+      "friendship-plant"
+    ]
+  },
+  {
+    "id": "plectranthus-verticillatus",
+    "scientificName": "Plectranthus verticillatus",
+    "commonNames": [
+      "Swedish Ivy",
+      "Creeping Charlie",
+      "Mint Vine"
+    ],
+    "thumbnail": "images/plectranthus-verticillatus/verticillatus1.jpg",
+    "tags": [
+      "vining",
+      "trailing",
+      "easy-care",
+      "low-light-tolerant",
+      "non-toxic"
+    ]
+  },
+  {
+    "id": "portulacaria-afra",
+    "scientificName": "Portulacaria afra",
+    "commonNames": [
+      "Elephant Bush",
+      "Dwarf Jade",
+      "Spekboom"
+    ],
+    "thumbnail": "images/portulacaria-afra/portulacaria-afra1.jpg",
+    "tags": [
+      "succulent",
+      "drought-tolerant",
+      "full-sun",
+      "low-maintenance",
+      "edible",
+      "non-toxic"
+    ]
+  },
+  {
+    "id": "schlumbergera-truncata",
+    "scientificName": "Schlumbergera truncata",
+    "commonNames": [
+      "Thanksgiving Cactus",
+      "Christmas Cactus",
+      "Crab Cactus"
+    ],
+    "thumbnail": "images/schlumbergera-truncata/truncata1.jpg",
+    "tags": [
+      "succulent",
+      "flowering",
+      "holiday-plant",
+      "easy-care",
+      "bright-indirect",
+      "seasonal"
+    ]
+  },
+  {
+    "id": "zz-plant",
+    "scientificName": "Zamioculcas zamiifolia",
+    "commonNames": [
+      "ZZ Plant",
+      "Zanzibar Gem",
+      "Eternity Plant"
+    ],
+    "thumbnail": "images/zz-plant/zz1.jpg",
+    "tags": [
+      "drought-tolerant",
+      "low-light-tolerant",
+      "neglect-tolerant",
+      "easy-care",
+      "air-purifying",
+      "non-toxic"
+    ]
+  }
+]

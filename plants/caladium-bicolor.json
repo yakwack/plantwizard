@@ -1,0 +1,104 @@
+{
+  "id": "caladium-bicolor",
+  "scientificName": "Caladium bicolor",
+  "etymology": "The genus name 'Caladium' comes from the Latinized form of the Malay word 'keladi,' meaning 'plant with edible roots.' The species name 'bicolor' refers to the striking two-toned patterns found in the foliage.",
+  "history": "Caladium bicolor is native to South America, particularly Brazil, and has been cultivated for centuries for its vibrant ornamental foliage. It became widely popular in Europe during the 18th and 19th centuries as part of the Victorian fascination with exotic tropical plants.",
+  "commonNames": [
+    "Caladium",
+    "Angel Wings",
+    "Elephant Ear"
+  ],
+  "image": "images/caladium-bicolor/main.jpg",
+  "gallery": [
+    "images/caladium-bicolor/main.jpg",
+    "images/caladium-bicolor/gallery1.jpg",
+    "images/caladium-bicolor/gallery2.jpg"
+  ],
+  "tags": [
+    "tropical",
+    "foliage",
+    "ornamental"
+  ],
+  "care": {
+    "description": "Caladium bicolor requires warm, humid conditions and indirect light for optimal growth.",
+    "tips": [
+      "Provide consistent humidity for best foliage.",
+      "Remove faded leaves to encourage new growth."
+    ],
+    "issues": [
+      "<strong>Leaf scorch:</strong> caused by direct sunlight, move plant to shaded area.",
+      "<strong>Yellowing leaves:</strong> caused by overwatering, reduce watering frequency."
+    ],
+    "detail": "Caladium bicolor thrives in tropical conditions with warm temperatures and high humidity. It is best suited for shaded areas, making it an excellent choice for indoor or outdoor decorative planting in filtered light. Regular care includes monitoring watering, keeping the soil moist but not soggy, and providing warmth during its growing season.",
+    "howToImages": [
+      "images/caladium-bicolor/care1.jpg",
+      "images/caladium-bicolor/care2.jpg"
+    ]
+  },
+  "watering": {
+    "description": "Keep soil consistently moist but not waterlogged.",
+    "tips": [
+      "Water when the top inch of soil feels dry.",
+      "Reduce watering when plant goes dormant."
+    ],
+    "issues": [
+      "Overwatering can cause root rot."
+    ],
+    "detail": "Caladium bicolor requires regular watering during its active growing season, ensuring the soil remains evenly moist. However, during dormancy in the cooler months, watering should be significantly reduced as the plant conserves energy in its tubers. Good drainage is essential to prevent rot.",
+    "frequency": "Every 3\u00e2\u20ac\u201c4 days during growing season, less during dormancy.",
+    "howToImages": [
+      "images/caladium-bicolor/watering1.jpg",
+      "images/caladium-bicolor/watering2.jpg"
+    ]
+  },
+  "light": {
+    "description": "Prefers bright, indirect light or partial shade.",
+    "idealHours": "6\u00e2\u20ac\u201c8 hours of indirect light per day.",
+    "detail": "Caladium bicolor thrives best in bright, filtered light conditions. Direct sunlight can scorch its delicate leaves, so it is important to position the plant where it receives diffused or indirect sunlight. Outdoors, it performs well under the canopy of taller plants or trees.",
+    "howToImages": [
+      "images/caladium-bicolor/light1.jpg",
+      "images/caladium-bicolor/light2.jpg"
+    ],
+    "tips": [
+      "Avoid direct midday sun.",
+      "Rotate plant occasionally for even growth."
+    ]
+  },
+  "medium": {
+    "description": "Well-draining, rich, and slightly acidic soil mix.",
+    "detail": "Caladium bicolor grows best in soil that is loose, well-aerated, and rich in organic matter. A mix of peat, perlite, and compost provides excellent drainage while maintaining the moisture needed for tuber health. Avoid compacted or heavy clay soils.",
+    "howToImages": [
+      "images/caladium-bicolor/medium1.jpg",
+      "images/caladium-bicolor/medium2.jpg"
+    ],
+    "tips": [
+      "Use a peat-based potting mix.",
+      "Add perlite to improve aeration."
+    ]
+  },
+  "propagation": {
+    "description": "Primarily propagated through tuber division.",
+    "detail": "Propagation of Caladium bicolor is most successful by dividing its tubers during dormancy. Each tuber should have at least one growing eye to sprout a new plant. After cutting, allow the tuber pieces to dry briefly before planting them in well-draining soil to prevent rot.",
+    "tips": [
+      "Divide tubers in spring before planting season.",
+      "Dust cut sections with fungicide to prevent rot."
+    ],
+    "howToImages": [
+      "images/caladium-bicolor/prop1.jpg",
+      "images/caladium-bicolor/prop2.jpg"
+    ]
+  },
+  "issues": {
+    "description": "Prone to leaf scorch, root rot, and pest infestations.",
+    "image": [
+      "images/caladium-bicolor/issue1.jpg",
+      "images/caladium-bicolor/issue2.jpg"
+    ],
+    "tips": [
+      "Check regularly for pests such as aphids and spider mites."
+    ]
+  },
+  "toxicity": {
+    "description": "Caladium bicolor is toxic to humans and pets if ingested, causing irritation of the mouth, tongue, and throat, as well as vomiting and difficulty swallowing."
+  }
+}

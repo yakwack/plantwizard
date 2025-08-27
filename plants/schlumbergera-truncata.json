@@ -1,0 +1,108 @@
+{
+  "id": "schlumbergera-truncata",
+  "scientificName": "Schlumbergera truncata",
+  "etymology": "Named after Fr\u00c3\u00a9d\u00c3\u00a9ric Schlumberger, a French horticulturist. The species name 'truncata' means 'cut off' or 'shortened,' referring to the shape of its flattened stem segments.",
+  "history": "Native to the coastal mountains of southeastern Brazil, it grows as an epiphyte on trees or rocks in humid, cool forests. It was first introduced to European cultivation in the 19th century and has been hybridized extensively to produce the variety of colors and forms we see today, becoming a holiday staple.",
+  "commonNames": [
+    "Thanksgiving Cactus",
+    "Christmas Cactus",
+    "Crab Cactus"
+  ],
+  "image": "images/schlumbergera-truncata/truncata1.jpg",
+  "gallery": [
+    "images/schlumbergera-truncata/truncata1.jpg",
+    "images/schlumbergera-truncata/truncata2.jpg",
+    "images/schlumbergera-truncata/truncata3.jpg"
+  ],
+  "tags": [
+    "succulent",
+    "flowering",
+    "holiday-plant",
+    "easy-care",
+    "bright-indirect",
+    "seasonal"
+  ],
+  "care": {
+    "description": "A festive, easy-care succulent that blooms in late fall and winter.",
+    "tips": [
+      "Keep away from drafts and temperature fluctuations.",
+      "A period of darkness and cooler temperatures in the fall is essential for blooming."
+    ],
+    "issues": [
+      "<strong>No blooms:</strong> Caused by a lack of cool temperatures and darkness in the fall. Ensure the plant receives 12-14 hours of darkness per day.",
+      "<strong>Soft, mushy stems:</strong> A sign of overwatering and root rot. Let the soil dry out more between waterings.",
+      "<strong>Dropping flower buds:</strong> Often caused by sudden changes in temperature, light, or watering."
+    ],
+    "detail": "Schlumbergera truncata, commonly called the Thanksgiving or Christmas Cactus, is a unique, segmented succulent that thrives in cool, humid environments. It is not a desert cactus and should not be treated as one. To ensure it blooms each year, it needs a period of short days and cool temperatures in the fall. Its care is simple: give it bright, indirect light, and water when the top few inches of soil are dry. Avoid placing it near heat vents or drafts, which can cause its buds to drop. This plant is a festive addition to any home, offering beautiful blooms when most other plants are dormant.",
+    "howToImages": [
+      "images/schlumbergera-truncata/truncata_care1.jpg",
+      "images/schlumbergera-truncata/truncata_care2.jpg"
+    ]
+  },
+  "watering": {
+    "description": "Water when the top few inches of soil are dry.",
+    "tips": [
+      "The plant is more sensitive to overwatering than underwatering.",
+      "Reduce watering after it finishes blooming."
+    ],
+    "issues": [
+      "Overwatering is the biggest threat and can lead to root rot."
+    ],
+    "detail": "Unlike desert cacti, Schlumbergera truncata prefers to be kept consistently moist during its blooming cycle, but not soggy. Allow the top inch or two of soil to dry out before watering again. During the fall, as you're encouraging blooms, water lightly. Once the plant has finished flowering, reduce watering significantly until spring. Ensure the pot has good drainage to prevent root rot.",
+    "frequency": "Every 1-2 weeks during blooming season, less in winter",
+    "howToImages": [
+      "images/schlumbergera-truncata/truncata_watering1.jpg",
+      "images/schlumbergera-truncata/truncata_watering2.jpg"
+    ]
+  },
+  "light": {
+    "description": "Prefers bright, indirect light.",
+    "idealHours": "4-6 hours",
+    "detail": "This plant thrives in bright, indirect light. A spot near an east-facing window is ideal, where it can get some gentle morning sun. Direct, harsh afternoon sun can burn the leaves. In the fall, to stimulate blooming, the plant requires a period of 12-14 hours of complete darkness per day for about six weeks. Place it in a room that is not used in the evening, or cover it with a box.",
+    "howToImages": [
+      "images/schlumbergera-truncata/truncata_light1.jpg",
+      "images/schlumbergera-truncata/truncata_light2.jpg"
+    ],
+    "tips": [
+      "Too much sun can cause the leaves to turn a reddish color.",
+      "Keep the plant in a cool, dark room to encourage buds to set."
+    ]
+  },
+  "medium": {
+    "description": "A well-draining, chunky soil mix.",
+    "detail": "Use a well-draining soil mix that is specifically designed for cacti and succulents. You can also create your own blend of standard potting soil with perlite and sand to improve drainage. This plant is an epiphyte, so it needs an airy soil mix that does not hold too much water.",
+    "howToImages": [
+      "images/schlumbergera-truncata/truncata_medium1.jpg",
+      "images/schlumbergera-truncata/truncata_medium2.jpg"
+    ],
+    "tips": [
+      "A mix with orchid bark or coco coir will help with aeration.",
+      "Ensure the pot has drainage holes."
+    ]
+  },
+  "propagation": {
+    "description": "Easily propagated from stem cuttings.",
+    "detail": "Propagation is very simple. To take a cutting, gently twist off a segment (or two connected segments) from the end of a stem. Allow the cut end to callus over for a day or two. You can then stick the cutting into a pot with moist, well-draining soil. It will quickly root and begin to grow into a new plant. You can also root cuttings in a glass of water, but they are more susceptible to rot this way.",
+    "tips": [
+      "Wait for the cut end to 'heal' before planting.",
+      "A small pot is best for a single cutting."
+    ],
+    "howToImages": [
+      "images/schlumbergera-truncata/truncata_cut.jpg",
+      "images/schlumbergera-truncata/truncata_prop.jpg"
+    ]
+  },
+  "issues": {
+    "description": "Dropping flower buds is the most common issue, often caused by drafts or inconsistent watering.",
+    "image": [
+      "images/schlumbergera-truncata/truncata_buds.jpg",
+      "images/schlumbergera-truncata/truncata_rot.jpg"
+    ],
+    "tips": [
+      "Avoid moving the plant once buds begin to form."
+    ]
+  },
+  "toxicity": {
+    "description": "Non-toxic and safe for cats, dogs, and humans."
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "colocasia-esculenta",
+  "scientificName": "Colocasia esculenta",
+  "etymology": "From Greek 'kolokasia' and Latin 'colocasia' for the root of the lotus, and 'esculenta' meaning edible.",
+  "history": "Native to tropical Asia, Colocasia esculenta has been cultivated for thousands of years as a staple food crop, particularly its starchy corm. It has since spread globally and is a significant part of many cuisines, as well as a popular ornamental plant for its large, dramatic leaves.",
+  "commonNames": [
+    "Taro",
+    "Elephant Ear",
+    "Dasheen",
+    "Eddoe"
+  ],
+  "image": "images/colocasia-esculenta/esculenta1.jpg",
+  "gallery": [
+    "images/colocasia-esculenta/esculenta1.jpg",
+    "images/colocasia-esculenta/esculenta2.jpg",
+    "images/colocasia-esculenta/esculenta3.jpg"
+  ],
+  "tags": [
+    "tropical",
+    "heavy-waterer",
+    "full-sun",
+    "edible-root",
+    "large-foliage",
+    "pond-plant"
+  ],
+  "care": {
+    "description": "A water-loving plant that thrives in heat and high humidity.",
+    "tips": [
+      "Keep the soil consistently moist, never let it dry out.",
+      "The plant can be grown in pots, in the garden, or in shallow ponds."
+    ],
+    "issues": [
+      "<strong>Yellowing leaves:</strong> Can be a sign of underwatering, nutrient deficiency, or too much cold.",
+      "<strong>Pests:</strong> Watch for spider mites and aphids. Use insecticidal soap to treat infestations.",
+      "<strong>Brown, crispy edges:</strong> Indicates a lack of water or low humidity."
+    ],
+    "detail": "Colocasia esculenta is a tropical plant that loves heat, humidity, and water. It grows best in full sun but can tolerate partial shade. Its large, heart-shaped leaves give it the common name 'Elephant Ear' and make it a dramatic focal point in any garden or landscape. This plant is a heavy feeder and will benefit from regular fertilization during the growing season. While its corm is a staple food in many cultures, the leaves and stems are toxic if not prepared correctly, so they should not be eaten raw.",
+    "howToImages": [
+      "images/colocasia-esculenta/esculenta_care1.jpg",
+      "images/colocasia-esculenta/esculenta_care2.jpg"
+    ]
+  },
+  "watering": {
+    "description": "Requires consistently moist to wet soil.",
+    "tips": [
+      "Never let the soil dry out.",
+      "If grown in a pot, place a saucer of water underneath it."
+    ],
+    "issues": [
+      "Underwatering is a major issue and will cause leaves to wilt and turn yellow."
+    ],
+    "detail": "Colocasia esculenta is a thirsty plant that requires a lot of water. The soil should be kept consistently moist to wet. In hot weather, it may need to be watered daily. If grown in a pot, you can place a saucer of water underneath it to keep it hydrated. It can also be grown in a pond or a boggy area of the garden where its roots have constant access to water.",
+    "frequency": "Daily in hot weather, or when the top of the soil feels dry",
+    "howToImages": [
+      "images/colocasia-esculenta/esculenta_watering1.jpg",
+      "images/colocasia-esculenta/esculenta_watering2.jpg"
+    ]
+  },
+  "light": {
+    "description": "Prefers full sun for best growth.",
+    "idealHours": "6-8 hours",
+    "detail": "Colocasia esculenta thrives in full sun. Place it in a spot where it receives at least 6 to 8 hours of direct sunlight a day. It can tolerate partial shade, but in too little light, the leaves will be smaller and the plant's growth will be leggy. Too much shade can also make the plant susceptible to fungal diseases.",
+    "howToImages": [
+      "images/colocasia-esculenta/esculenta_light1.jpg",
+      "images/colocasia-esculenta/esculenta_light2.jpg"
+    ],
+    "tips": [
+      "In very hot climates, a bit of afternoon shade can be beneficial.",
+      "Move the plant to a sunnier spot if the leaves look pale or small."
+    ]
+  },
+  "medium": {
+    "description": "A rich, loamy, and moisture-retentive soil.",
+    "detail": "Colocasia esculenta prefers a rich, organic, and moisture-retentive soil mix. A standard potting mix amended with compost and peat moss is a great choice. You can also use a heavy, clay-based soil if you are growing it in a boggy area or a pond. The soil should never be allowed to dry out completely.",
+    "howToImages": [
+      "images/colocasia-esculenta/esculenta_medium1.jpg",
+      "images/colocasia-esculenta/esculenta_medium2.jpg"
+    ],
+    "tips": [
+      "For container growing, ensure the pot has drainage holes, but you can place a water saucer underneath.",
+      "Heavy clay soils are not a problem for this plant."
+    ]
+  },
+  "propagation": {
+    "description": "Easily propagated from its corms or from offsets (pups).",
+    "detail": "Colocasia esculenta can be propagated by dividing the corms in the spring. Carefully dig up the plant and separate the smaller corms (pups) from the main one. You can plant these pups directly in the soil or in a pot. You can also propagate the plant from its runners, which are stems that grow horizontally along the soil surface.",
+    "tips": [
+      "Propagate in the spring before the new growing season.",
+      "Ensure each offset has at least one root node before planting."
+    ],
+    "howToImages": [
+      "images/colocasia-esculenta/esculenta_prop1.jpg",
+      "images/colocasia-esculenta/esculenta_prop2.jpg"
+    ]
+  },
+  "issues": {
+    "description": "The most common issues are due to underwatering and cold temperatures, which can cause yellowing and drooping leaves.",
+    "image": [
+      "images/colocasia-esculenta/esculenta_yellowing.jpg",
+      "images/colocasia-esculenta/esculenta_drooping.jpg"
+    ],
+    "tips": [
+      "If the leaves start to droop, water the plant immediately."
+    ]
+  },
+  "toxicity": {
+    "description": "The entire plant contains calcium oxalate crystals and is toxic if eaten raw. Cooking the corms thoroughly neutralizes the toxins."
+  }
+}

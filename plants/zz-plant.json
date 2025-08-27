@@ -1,0 +1,108 @@
+{
+  "id": "zz-plant",
+  "scientificName": "Zamioculcas zamiifolia",
+  "etymology": "The name *Zamioculcas* is derived from the genus 'Zamia' (a genus of cycads) and 'Colocasia' (a genus of taro). *Zamiifolia* means 'with Zamia-like leaves'.",
+  "history": "Native to the arid grasslands and forests of eastern Africa, the ZZ Plant is known for its ability to withstand extreme drought. Its large rhizomes store water, allowing it to survive long periods without rain. It became a popular houseplant in the late 20th century due to its almost indestructible nature and striking, glossy leaves.",
+  "commonNames": [
+    "ZZ Plant",
+    "Zanzibar Gem",
+    "Eternity Plant"
+  ],
+  "image": "images/zz-plant/zz1.jpg",
+  "gallery": [
+    "images/zz-plant/zz1.jpg",
+    "images/zz-plant/zz2.jpg",
+    "images/zz-plant/zz3.jpg"
+  ],
+  "care": {
+    "description": "A nearly indestructible plant that thrives on neglect. The perfect plant for busy people or beginners.",
+    "tips": [
+      "The number one rule is to not overwater.",
+      "Can survive with very little light."
+    ],
+    "issues": [
+      "<strong>Yellowing leaves and mushy stems:</strong> The most common issue, caused by overwatering. Stop watering immediately.",
+      "<strong>Dropping leaves:</strong> A sign of severe underwatering. Give the plant a thorough soak.",
+      "<strong>No new growth:</strong> Indicates too little light. Move to a brighter spot to encourage growth."
+    ],
+    "detail": "The ZZ Plant is a true survivor, thriving in conditions that would kill most other houseplants. It's best to treat it as a succulent, as its large, potato-like rhizomes store water. The plant does best in medium to low, indirect light. It's incredibly forgiving and can tolerate very low light, but it will grow much faster and be healthier in a brighter spot. Its care is simple: water only when the soil is completely dry, and then water thoroughly. Avoid frequent small sips of water. The ZZ Plant is perfect for a dark corner, an office desk, or any spot that needs a touch of green without a lot of fuss.",
+    "howToImages": [
+      "images/zz-plant/zz_watering.jpg",
+      "images/zz-plant/zz_light.jpg"
+    ]
+  },
+  "watering": {
+    "description": "Water only when the soil is completely dry.",
+    "tips": [
+      "It's better to underwater than to overwater this plant.",
+      "Water less in the winter months."
+    ],
+    "issues": [
+      "Overwatering is the leading cause of issues. The rhizomes will rot and the plant will die."
+    ],
+    "detail": "ZZ plants are highly susceptible to root rot. They have a natural ability to store water in their rhizomes, so they can go for weeks or even months without water. Only water when the soil is dry all the way down to the bottom of the pot. When you do water, soak it thoroughly and let the excess drain away. If the stems and leaves start to feel soft and mushy, it is a sign of rot from overwatering. In this case, stop watering immediately.",
+    "frequency": "Every 2\u00e2\u20ac\u201c4 weeks, but depends on light and temperature",
+    "howToImages": [
+      "images/zz-plant/zz_drysoil.jpg",
+      "images/zz-plant/zz_thorough_soak.jpg"
+    ]
+  },
+  "light": {
+    "description": "Tolerates low light, but prefers medium, indirect light.",
+    "idealHours": "4-6 hours",
+    "detail": "While the ZZ plant is famous for surviving in low-light conditions, it will thrive in medium to bright, indirect light. A spot near a north- or east-facing window is ideal. Too much direct sun will scorch the leaves, while very low light will cause slow growth. It's a great choice for darker rooms or offices where other plants might not survive.",
+    "howToImages": [
+      "images/zz-plant/zz_light1.jpg",
+      "images/zz-plant/zz_light2.jpg"
+    ],
+    "tips": [
+      "Consider moving it to a brighter spot if you want faster growth.",
+      "Too little light may cause the stems to stretch."
+    ]
+  },
+  "medium": {
+    "description": "A well-draining, standard potting mix.",
+    "detail": "Any well-draining potting soil will work for a ZZ plant. It's important that the soil does not retain too much moisture, as this can lead to root rot. You can amend a standard potting mix with perlite or coarse sand to improve drainage and aeration, but a basic blend is usually sufficient.",
+    "howToImages": [
+      "images/zz-plant/zz_medium1.jpg",
+      "images/zz-plant/zz_medium2.jpg"
+    ],
+    "tips": [
+      "A standard blend of peat, perlite, and pine bark is a good mix.",
+      "Always choose a pot with good drainage holes."
+    ]
+  },
+  "propagation": {
+    "description": "Can be propagated from a single leaf, but it's very slow.",
+    "detail": "Propagating a ZZ plant is a long and patient process. The most common method is using a single leaf cutting. Simply remove a leaf and a small part of its stem, and place it in a well-draining soil mix. A rhizome and new shoots will eventually form, but this can take several months to a year. For faster results, propagate using a stem cutting with a section of the rhizome attached.",
+    "tips": [
+      "Be patient! This is a slow process.",
+      "Leaf cuttings can take up to a year to produce new plants."
+    ],
+    "howToImages": [
+      "images/zz-plant/zz_leaf_cutting.jpg",
+      "images/zz-plant/zz_rhizome.jpg"
+    ]
+  },
+  "issues": {
+    "description": "The main issue is overwatering, which causes yellowing leaves, soft stems, and death.",
+    "image": [
+      "images/zz-plant/zz_yellowing.jpg",
+      "images/zz-plant/zz_drooping.jpg"
+    ],
+    "tips": [
+      "If the stems are soft or yellow, you have a watering issue. Reduce watering immediately."
+    ]
+  },
+  "toxicity": {
+    "description": "All parts of the ZZ plant are toxic if ingested due to the presence of calcium oxalate crystals. Keep away from pets and children."
+  },
+  "tags": [
+    "drought-tolerant",
+    "low-light-tolerant",
+    "neglect-tolerant",
+    "easy-care",
+    "air-purifying",
+    "non-toxic"
+  ]
+}

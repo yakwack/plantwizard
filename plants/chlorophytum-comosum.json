@@ -1,0 +1,110 @@
+{
+  "id": "chlorophytum-comosum",
+  "scientificName": "Chlorophytum comosum",
+  "etymology": "From Greek 'chloros' (green) and 'phyton' (plant), and 'comosum' meaning 'tufted' from the plantlets it produces on its stems.",
+  "history": "Native to tropical and southern Africa, the Spider Plant has been a popular houseplant for centuries due to its resilience and ease of care. Its ability to produce new plantlets from its stems, which can be easily separated, earned it the nickname 'Spider Plant' and has made it a favorite for sharing among gardeners.",
+  "commonNames": [
+    "Spider Plant",
+    "Spider Ivy",
+    "Ribbon Plant",
+    "Airplane Plant"
+  ],
+  "image": "images/chlorophytum-comosum/comosum1.jpg",
+  "gallery": [
+    "images/chlorophytum-comosum/comosum1.jpg",
+    "images/chlorophytum-comosum/comosum2.jpg",
+    "images/chlorophytum-comosum/comosum3.jpg"
+  ],
+  "care": {
+    "description": "An extremely easy-to-grow plant that is very forgiving and perfect for beginners.",
+    "tips": [
+      "Keep away from direct sunlight to prevent leaf scorching.",
+      "Consider a hanging basket to display its graceful arching leaves and plantlets."
+    ],
+    "issues": [
+      "<strong>Brown tips:</strong> A very common issue, often caused by fluoride or salts in tap water. Use filtered or rainwater if possible.",
+      "<strong>Pale or yellow leaves:</strong> Can be caused by overwatering or not enough nutrients. Check soil moisture and consider fertilizing.",
+      "<strong>Limp or droopy leaves:</strong> A sign of thirst. The plant will perk up after watering.",
+      "<strong>Lack of plantlets:</strong> The plant may not be getting enough light. Move to a brighter spot to encourage plantlet production."
+    ],
+    "detail": "The Spider Plant is a classic houseplant for a reason: it's incredibly tough and easy to care for. It thrives in bright, indirect light and tolerates a wide range of light conditions, though it will not do well in direct sun. It's a great choice for hanging baskets, as its long, arching leaves and baby plantlets (pups) create a beautiful, cascading effect. The plant is known for its ability to produce many of these pups, which can be easily rooted in water or soil to create new plants. This makes it a great plant for sharing with friends.",
+    "howToImages": [
+      "images/chlorophytum-comosum/comosum_watering.jpg",
+      "images/chlorophytum-comosum/comosum_light.jpg"
+    ]
+  },
+  "watering": {
+    "description": "Water when the top inch of soil is dry.",
+    "tips": [
+      "Use distilled, filtered, or rainwater to prevent brown tips.",
+      "Allow the top of the soil to dry out between waterings."
+    ],
+    "issues": [
+      "Overwatering is a common problem and can lead to root rot."
+    ],
+    "detail": "Spider Plants are fairly tolerant of a watering schedule, but they prefer their soil to be kept lightly moist. Water thoroughly when the top inch of soil feels dry. One of the most common issues is brown tips on the leaves, which is often caused by the fluoride and salts found in tap water. If you notice this, try watering with distilled, filtered, or rainwater instead. Water less frequently in the winter months when the plant's growth slows down.",
+    "frequency": "Every 1\u00e2\u20ac\u201c2 weeks, depending on humidity and light",
+    "howToImages": [
+      "images/chlorophytum-comosum/comosum_drysoil.jpg",
+      "images/chlorophytum-comosum/comosum_soak.jpg"
+    ]
+  },
+  "light": {
+    "description": "Prefers bright, indirect light.",
+    "idealHours": "4-6 hours",
+    "detail": "Spider Plants thrive in bright, indirect light. Placing them a few feet away from a sunny window or in an east- or west-facing window is ideal. They can tolerate some low light, but their growth will slow, and the variegation may fade. Avoid any direct, harsh sunlight, which will scorch their leaves and turn them brown.",
+    "howToImages": [
+      "images/chlorophytum-comosum/comosum_light1.jpg",
+      "images/chlorophytum-comosum/comosum_light2.jpg"
+    ],
+    "tips": [
+      "A location with too little light can cause the leaves to lose their stripes.",
+      "Place in a spot that receives morning or afternoon sun, but not midday sun."
+    ]
+  },
+  "medium": {
+    "description": "A standard, well-draining potting mix.",
+    "detail": "A standard indoor potting mix is perfectly suitable for a Spider Plant. It's important to use a mix that has good drainage to prevent the roots from becoming waterlogged. You can add perlite to a standard mix to improve aeration, which is crucial for preventing root rot.",
+    "howToImages": [
+      "images/chlorophytum-comosum/comosum_medium1.jpg",
+      "images/chlorophytum-comosum/comosum_medium2.jpg"
+    ],
+    "tips": [
+      "Ensure the pot has adequate drainage holes.",
+      "A mix of potting soil and perlite is a great, simple combination."
+    ]
+  },
+  "propagation": {
+    "description": "Extremely easy to propagate from the 'pups' that grow on the ends of its stems.",
+    "detail": "Propagation of a Spider Plant is one of the easiest you can do. Simply snip a plantlet from the end of a long stem and either place it in a glass of water, or directly into a small pot with moist soil. The plantlet will quickly develop roots and establish itself as a new plant. You can also leave the plantlet attached to the mother plant and place it in a separate pot of soil. Once it has rooted, you can cut the stem connecting it to the mother plant.",
+    "tips": [
+      "Wait for the plantlet to be a few inches long with some small aerial roots before cutting.",
+      "Propagating multiple pups at once will create a fuller plant."
+    ],
+    "howToImages": [
+      "images/chlorophytum-comosum/comosum_prop1.jpg",
+      "images/chlorophytum-comosum/comosum_prop2.jpg"
+    ]
+  },
+  "issues": {
+    "description": "The most common issue is browning leaf tips, which is often caused by chemicals in tap water.",
+    "image": [
+      "images/chlorophytum-comosum/comosum_brown_tips.jpg",
+      "images/chlorophytum-comosum/comosum_yellowing.jpg"
+    ],
+    "tips": [
+      "If the leaf tips are browning, try switching to filtered or distilled water."
+    ]
+  },
+  "toxicity": {
+    "description": "Non-toxic and safe for pets and children."
+  },
+  "tags": [
+    "easy-care",
+    "arching-leaves",
+    "low-light-tolerant",
+    "non-toxic",
+    "air-purifying",
+    "plantlets"
+  ]
+}

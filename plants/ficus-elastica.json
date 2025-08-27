@@ -1,0 +1,104 @@
+{
+  "id": "ficus-elastica",
+  "scientificName": "Ficus elastica",
+  "etymology": "The genus name 'Ficus' comes from the Latin word for fig. The species name 'elastica' refers to the plant's latex-rich sap, historically used to produce natural rubber.",
+  "history": "Ficus elastica, commonly known as the Rubber Plant, is native to Southeast Asia, particularly India, Nepal, Bhutan, Myanmar, and Malaysia. In the 19th century, it was cultivated as a source of latex for rubber production, though it was later replaced by Hevea brasiliensis as the primary commercial rubber source. Today, it is mainly grown worldwide as an ornamental indoor plant.",
+  "commonNames": [
+    "Rubber Plant",
+    "Indian Rubber Tree"
+  ],
+  "image": "images/ficus-elastica/main.jpg",
+  "gallery": [
+    "images/ficus-elastica/main.jpg",
+    "images/ficus-elastica/gallery1.jpg",
+    "images/ficus-elastica/gallery2.jpg"
+  ],
+  "tags": [
+    "tropical",
+    "houseplant",
+    "ornamental",
+    "air-purifying"
+  ],
+  "care": {
+    "description": "A hardy indoor plant that requires moderate light and infrequent watering.",
+    "tips": [
+      "Wipe leaves with a damp cloth to keep them glossy.",
+      "Rotate pot occasionally for even growth."
+    ],
+    "issues": [
+      "<strong>Leaf yellowing:</strong> caused by overwatering, allow soil to dry between waterings.",
+      "<strong>Leaf drop:</strong> caused by low light or sudden changes in temperature, move plant to a brighter, stable environment."
+    ],
+    "detail": "Ficus elastica is a low-maintenance houseplant that thrives indoors in bright, indirect light but can also tolerate lower light conditions. It requires minimal pruning and is relatively pest-resistant. Its large, glossy leaves make it a striking decorative plant, and with proper care, it can live for many years.",
+    "howToImages": [
+      "images/ficus-elastica/care1.jpg",
+      "images/ficus-elastica/care2.jpg"
+    ]
+  },
+  "watering": {
+    "description": "Prefers infrequent but deep watering.",
+    "tips": [
+      "Allow the top 2 inches of soil to dry before watering again.",
+      "Reduce watering in winter when growth slows."
+    ],
+    "issues": [
+      "Overwatering can cause root rot."
+    ],
+    "detail": "Ficus elastica thrives on a careful balance of moisture. The soil should be allowed to partially dry out between watering sessions to avoid soggy conditions that can damage roots. During the active growing season (spring and summer), more frequent watering may be necessary, while in winter, watering should be reduced.",
+    "frequency": "Every 1\u00e2\u20ac\u201c2 weeks during growing season; every 2\u00e2\u20ac\u201c3 weeks in winter.",
+    "howToImages": [
+      "images/ficus-elastica/watering1.jpg",
+      "images/ficus-elastica/watering2.jpg"
+    ]
+  },
+  "light": {
+    "description": "Prefers bright, indirect light but tolerates moderate light.",
+    "idealHours": "6\u00e2\u20ac\u201c8 hours of indirect light daily.",
+    "detail": "Ficus elastica grows best in bright, indirect sunlight, which enhances the deep green and sometimes variegated foliage. While it can adapt to lower light conditions, growth may slow, and leaves may lose vibrancy. Direct sunlight can scorch the leaves, so filtered light is ideal.",
+    "howToImages": [
+      "images/ficus-elastica/light1.jpg",
+      "images/ficus-elastica/light2.jpg"
+    ],
+    "tips": [
+      "Avoid harsh afternoon sun to prevent leaf burn.",
+      "Rotate plant to encourage even growth."
+    ]
+  },
+  "medium": {
+    "description": "Prefers well-draining, fertile potting soil.",
+    "detail": "Ficus elastica thrives in a soil mix that balances moisture retention with good aeration. A peat-based potting mix combined with perlite or coarse sand ensures adequate drainage while keeping roots healthy. Heavy soils that retain too much water should be avoided.",
+    "howToImages": [
+      "images/ficus-elastica/medium1.jpg",
+      "images/ficus-elastica/medium2.jpg"
+    ],
+    "tips": [
+      "Use a well-draining indoor potting mix.",
+      "Repot every 2\u00e2\u20ac\u201c3 years to refresh soil and promote growth."
+    ]
+  },
+  "propagation": {
+    "description": "Propagated through stem cuttings or air layering.",
+    "detail": "The most common method of propagating Ficus elastica is by taking stem cuttings with a few leaves and rooting them in water or soil. Air layering is another effective method, where a stem section is encouraged to root while still attached to the plant before being cut and replanted.",
+    "tips": [
+      "Use rooting hormone to increase success rates.",
+      "Propagate in spring or early summer for best results."
+    ],
+    "howToImages": [
+      "images/ficus-elastica/prop1.jpg",
+      "images/ficus-elastica/prop2.jpg"
+    ]
+  },
+  "issues": {
+    "description": "Common issues include leaf drop, yellowing leaves, and pest infestations.",
+    "image": [
+      "images/ficus-elastica/issue1.jpg",
+      "images/ficus-elastica/issue2.jpg"
+    ],
+    "tips": [
+      "Inspect leaves regularly for pests like scale or mealybugs."
+    ]
+  },
+  "toxicity": {
+    "description": "Ficus elastica is toxic to humans and pets if ingested, causing mouth and stomach irritation. Its milky sap may also cause skin irritation."
+  }
+}

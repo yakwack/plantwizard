@@ -1,0 +1,99 @@
+{
+  "id": "philodendron-hederaceum",
+  "scientificName": "Philodendron hederaceum",
+  "etymology": "The name 'Philodendron' is from the Greek 'philo' (love) and 'dendron' (tree), literally meaning 'tree lover' due to its climbing nature. 'Hederaceum' means 'like ivy', referring to its vining habit.",
+  "history": "A native of the Caribbean and Central America, this plant is a classic and reliable houseplant. It was introduced to cultivation early on for its graceful, vining habit and heart-shaped leaves, making it one of the most popular and durable houseplants.",
+  "commonNames": [
+    "Heartleaf Philodendron",
+    "Sweetheart Plant"
+  ],
+  "image": "images/philodendron/philodendron1.jpg",
+  "gallery": [
+    "images/philodendron/philodendron1.jpg",
+    "images/philodendron/philodendron2.jpg",
+    "images/philodendron/philodendron3.jpg"
+  ],
+  "care": {
+    "description": "A very forgiving vining plant that tolerates low light and neglect.",
+    "tips": [
+      "Wipe leaves with a damp cloth to keep them shiny.",
+      "Prune to keep the plant full and bushy."
+    ],
+    "issues": [
+      "<strong>Yellowing leaves:</strong> Usually a sign of overwatering. Let the soil dry out completely between waterings.",
+      "<strong>Brown, crispy tips:</strong> Indicates low humidity or underwatering. Mist the plant and check soil moisture.",
+      "<strong>Stretched, leggy growth:</strong> Caused by a lack of light. Move to a brighter location."
+    ],
+    "detail": "The Heartleaf Philodendron is an incredibly easy-to-care-for vining plant that is perfect for beginners. It is highly adaptable and can tolerate a wide range of light conditions, from low to bright, indirect light. It's best to water it when the top inch of soil is dry. Like Pothos, this plant is very forgiving and bounces back quickly from a bit of neglect. Its heart-shaped leaves grow on long vines that can be trained to climb a pole or left to trail gracefully from a hanging basket or shelf. It's a fast grower and can easily be propagated to create new plants.",
+    "howToImages": [
+      "images/philodendron/philodendron_watering.jpg",
+      "images/philodendron/philodendron_light.jpg"
+    ]
+  },
+  "watering": {
+    "description": "Water when the top inch of soil is dry.",
+    "tips": [
+      "Check soil moisture with your finger before watering.",
+      "Ensure the pot has drainage holes."
+    ],
+    "issues": [
+      "Overwatering is the biggest threat and can lead to root rot. Leaves will yellow and drop."
+    ],
+    "detail": "Water your Heartleaf Philodendron when the top inch of soil is dry. It's important to let the soil dry out between waterings to prevent root rot. The plant is quite resilient to being underwatered and will show signs of thirst by drooping its leaves, but it will quickly recover once watered. Water less frequently in the winter months when the plant's growth slows down.",
+    "frequency": "Every 1-2 weeks, depending on light",
+    "howToImages": [
+      "images/philodendron/philodendron_drysoil.jpg",
+      "images/philodendron/philodendron_soak.jpg"
+    ]
+  },
+  "light": {
+    "description": "Thrives in medium to bright, indirect light.",
+    "idealHours": "4-6 hours",
+    "detail": "While the Heartleaf Philodendron is famously tolerant of low-light conditions, it will grow faster and be much healthier in medium to bright, indirect light. A spot near a north- or east-facing window is ideal. Avoid direct sunlight, as it can burn the delicate leaves. In very low light, the plant will still survive but will become leggy with smaller leaves spaced far apart.",
+    "howToImages": [
+      "images/philodendron/philodendron_light1.jpg",
+      "images/philodendron/philodendron_light2.jpg"
+    ],
+    "tips": [
+      "The leaves will be a deeper green in lower light.",
+      "If the plant looks leggy, move it to a brighter spot."
+    ]
+  },
+  "medium": {
+    "description": "A well-draining, standard potting mix.",
+    "detail": "This plant is not particular about its soil as long as it's well-draining. A standard indoor potting mix is perfectly suitable. You can add perlite to a standard mix to improve aeration and drainage, which is the most important factor in preventing root rot.",
+    "howToImages": [
+      "images/philodendron/philodendron_medium1.jpg",
+      "images/philodendron/philodendron_medium2.jpg"
+    ],
+    "tips": [
+      "Ensure the pot has drainage holes.",
+      "This plant is very adaptable and doesn't require a special mix."
+    ]
+  },
+  "propagation": {
+    "description": "Very easy to propagate from stem cuttings in water or soil.",
+    "detail": "Propagation is incredibly easy. Simply take a stem cutting that has at least 2-3 nodes (the small bumps on the stem from which leaves grow). You can place the cutting in a glass of water, and it will develop roots quickly. Once the roots are a couple of inches long, you can plant it in soil. Alternatively, you can plant the cutting directly in soil and keep it moist until it takes root.",
+    "tips": [
+      "Change the water in the propagation jar every few days.",
+      "Propagating multiple cuttings at once will create a full plant faster."
+    ],
+    "howToImages": [
+      "images/philodendron/philodendron_cut.jpg",
+      "images/philodendron/philodendron_root.jpg"
+    ]
+  },
+  "issues": {
+    "description": "Overwatering is the most common issue, causing leaves to yellow and drop.",
+    "image": [
+      "images/philodendron/philodendron_yellow.jpg",
+      "images/philodendron/philodendron_droop.jpg"
+    ],
+    "tips": [
+      "Always let the top inch of soil dry out before watering again."
+    ]
+  },
+  "toxicity": {
+    "description": "The entire plant is toxic if ingested due to calcium oxalate crystals. Keep out of reach of pets and children."
+  }
+}

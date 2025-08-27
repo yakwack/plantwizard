@@ -1,0 +1,104 @@
+{
+  "id": "ficus-benghalensis",
+  "scientificName": "Ficus benghalensis",
+  "etymology": "The genus name 'Ficus' comes from the Latin word for fig. The species name 'benghalensis' refers to its prevalence in the Bengal region of India.",
+  "history": "Ficus benghalensis, commonly known as the Banyan tree, is native to the Indian subcontinent. It is deeply rooted in Indian culture and mythology, symbolizing immortality and longevity. The tree is notable for its aerial roots that develop into trunks, allowing it to cover vast areas and form large groves. The Great Banyan Tree in Kolkata is one of the largest and oldest specimens in existence.",
+  "commonNames": [
+    "Banyan Tree",
+    "Indian Fig Tree"
+  ],
+  "image": "images/ficus-benghalensis/main.jpg",
+  "gallery": [
+    "images/ficus-benghalensis/main.jpg",
+    "images/ficus-benghalensis/gallery1.jpg",
+    "images/ficus-benghalensis/gallery2.jpg"
+  ],
+  "tags": [
+    "tropical",
+    "tree",
+    "sacred",
+    "ornamental"
+  ],
+  "care": {
+    "description": "Requires warm climates, space to spread, and minimal care once established.",
+    "tips": [
+      "Provide ample outdoor space for roots to expand.",
+      "Prune young branches to control shape."
+    ],
+    "issues": [
+      "<strong>Root invasion:</strong> caused by aggressive root growth, plant away from buildings.",
+      "<strong>Leaf drop:</strong> caused by sudden environmental changes, maintain stable conditions."
+    ],
+    "detail": "Ficus benghalensis is a hardy tree that thrives outdoors in tropical and subtropical regions. It requires very little maintenance once established, as its aerial roots and trunks allow it to adapt to a variety of conditions. Regular pruning in early years helps manage its spread, but in the wild it naturally grows into massive groves that can cover acres.",
+    "howToImages": [
+      "images/ficus-benghalensis/care1.jpg",
+      "images/ficus-benghalensis/care2.jpg"
+    ]
+  },
+  "watering": {
+    "description": "Requires regular watering when young, drought-tolerant when mature.",
+    "tips": [
+      "Water deeply during dry spells.",
+      "Reduce watering in rainy season."
+    ],
+    "issues": [
+      "Overwatering can cause root rot in poorly drained soils."
+    ],
+    "detail": "Young banyan trees benefit from consistent watering to establish strong root systems. Once mature, the tree becomes drought-tolerant and requires minimal supplemental watering. However, during extended dry periods, deep watering ensures optimal growth and prevents stress.",
+    "frequency": "Weekly when young; occasional deep watering when mature.",
+    "howToImages": [
+      "images/ficus-benghalensis/watering1.jpg",
+      "images/ficus-benghalensis/watering2.jpg"
+    ]
+  },
+  "light": {
+    "description": "Thrives in full sun but tolerates partial shade.",
+    "idealHours": "6\u00e2\u20ac\u201c8 hours of direct sunlight daily.",
+    "detail": "Ficus benghalensis grows best under full sun exposure, which supports its large canopy and robust growth. While it can tolerate partial shade, especially in its juvenile stage, it develops its iconic aerial roots and broad canopy most effectively under abundant sunlight.",
+    "howToImages": [
+      "images/ficus-benghalensis/light1.jpg",
+      "images/ficus-benghalensis/light2.jpg"
+    ],
+    "tips": [
+      "Plant in an open area with maximum sun exposure.",
+      "Avoid dense shade to promote strong root development."
+    ]
+  },
+  "medium": {
+    "description": "Grows in a variety of soils but prefers well-draining loam.",
+    "detail": "Ficus benghalensis adapts to different soil types, including sandy, loamy, and clay soils, as long as drainage is sufficient. It thrives in fertile, well-draining loam with organic content to support its expansive root system. Poor drainage can hinder growth and promote disease.",
+    "howToImages": [
+      "images/ficus-benghalensis/medium1.jpg",
+      "images/ficus-benghalensis/medium2.jpg"
+    ],
+    "tips": [
+      "Amend soil with organic matter before planting.",
+      "Ensure good drainage to avoid waterlogging."
+    ]
+  },
+  "propagation": {
+    "description": "Propagated through seed or aerial root cuttings.",
+    "detail": "Propagation of Ficus benghalensis is commonly achieved by seed, though it is slow. A more practical method involves planting aerial roots or stem cuttings. Aerial roots that reach the soil naturally grow into new trunks, allowing the tree to spread and form expansive groves.",
+    "tips": [
+      "Use fresh seeds for higher germination rates.",
+      "Support aerial roots until they establish in the soil."
+    ],
+    "howToImages": [
+      "images/ficus-benghalensis/prop1.jpg",
+      "images/ficus-benghalensis/prop2.jpg"
+    ]
+  },
+  "issues": {
+    "description": "Common issues include invasive roots and susceptibility to pests like scale insects.",
+    "image": [
+      "images/ficus-benghalensis/issue1.jpg",
+      "images/ficus-benghalensis/issue2.jpg"
+    ],
+    "tips": [
+      "Monitor aerial root growth to prevent structural damage near buildings."
+    ]
+  },
+  "toxicity": {
+    "description": "The sap of Ficus benghalensis may cause skin irritation and is mildly toxic if ingested, leading to stomach discomfort."
+  }
+}

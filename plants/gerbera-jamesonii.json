@@ -1,0 +1,108 @@
+{
+  "id": "gerbera-jamesonii",
+  "scientificName": "Gerbera jamesonii",
+  "etymology": "Named after Traugott Gerber, a German botanist. The species name 'jamesonii' honors Robert Jameson, who collected the plant in South Africa.",
+  "history": "Native to South Africa, the Gerbera Daisy was first discovered in the late 19th century. It quickly became a popular cut flower and garden plant due to its vibrant, daisy-like blooms and long-lasting flowers. It is now cultivated and hybridized worldwide for its wide range of colors and forms.",
+  "commonNames": [
+    "Gerbera Daisy",
+    "Transvaal Daisy",
+    "Barberton Daisy"
+  ],
+  "image": "images/gerbera-jamesonii/jamesonii1.jpg",
+  "gallery": [
+    "images/gerbera-jamesonii/jamesonii1.jpg",
+    "images/gerbera-jamesonii/jamesonii2.jpg",
+    "images/gerbera-jamesonii/jamesonii3.jpg"
+  ],
+  "tags": [
+    "flowering",
+    "bright-light",
+    "heavy-feeder",
+    "perennial-annual",
+    "cut-flower",
+    "container-plant"
+  ],
+  "care": {
+    "description": "A beautiful flowering plant that requires consistent watering and full sun.",
+    "tips": [
+      "Deadhead spent flowers to encourage new blooms.",
+      "Avoid getting the crown of the plant wet to prevent rot."
+    ],
+    "issues": [
+      "<strong>No blooms:</strong> A sign of insufficient light. Move to a sunnier spot.",
+      "<strong>Yellowing leaves:</strong> Can be caused by overwatering or a lack of nutrients. Check soil and fertilize.",
+      "<strong>Crown rot:</strong> A common issue if the crown of the plant is kept wet. Water from the base."
+    ],
+    "detail": "Gerbera Daisies are a classic for their large, colorful blooms. They are a perennial in warmer climates but are often grown as an annual in cooler regions. The plant requires plenty of sun and consistently moist soil to thrive. It is a heavy feeder and will benefit from regular fertilization during the growing season. A key to success is to avoid getting the crown of the plant wet when watering, as this can lead to crown rot.",
+    "howToImages": [
+      "images/gerbera-jamesonii/jamesonii_care1.jpg",
+      "images/gerbera-jamesonii/jamesonii_care2.jpg"
+    ]
+  },
+  "watering": {
+    "description": "Keep soil consistently moist, but not soggy.",
+    "tips": [
+      "Water at the base of the plant, not over the leaves.",
+      "Let the top inch of soil dry out between waterings."
+    ],
+    "issues": [
+      "Overwatering is a major issue and can cause root and crown rot."
+    ],
+    "detail": "Gerbera Daisies prefer their soil to be kept consistently moist. Water deeply but be careful to avoid getting water on the crown of the plant, as this can cause it to rot. Let the top inch of soil dry out between waterings to prevent root rot. In winter, reduce watering frequency as the plant's growth slows down.",
+    "frequency": "Every 1-2 weeks, depending on light and temperature",
+    "howToImages": [
+      "images/gerbera-jamesonii/jamesonii_watering1.jpg",
+      "images/gerbera-jamesonii/jamesonii_watering2.jpg"
+    ]
+  },
+  "light": {
+    "description": "Requires full sun for best flowering.",
+    "idealHours": "6-8 hours",
+    "detail": "Gerbera Daisies need plenty of direct sunlight to produce a full show of blooms. A location with full sun for at least 6 hours a day is essential. In too little light, the plant will not flower and may become leggy. In very hot climates, some afternoon shade can be beneficial to prevent scorching.",
+    "howToImages": [
+      "images/gerbera-jamesonii/jamesonii_light1.jpg",
+      "images/gerbera-jamesonii/jamesonii_light2.jpg"
+    ],
+    "tips": [
+      "Full sun is crucial for a healthy, blooming plant.",
+      "Consider an east-facing location for morning sun and afternoon shade."
+    ]
+  },
+  "medium": {
+    "description": "A well-draining, rich potting mix.",
+    "detail": "Use a high-quality potting mix that is rich in organic matter and has good drainage. A standard potting mix amended with some compost and perlite is a great choice. The soil should be light and airy, as heavy, compacted soil can lead to root rot.",
+    "howToImages": [
+      "images/gerbera-jamesonii/jamesonii_medium1.jpg",
+      "images/gerbera-jamesonii/jamesonii_medium2.jpg"
+    ],
+    "tips": [
+      "Ensure the pot has good drainage holes.",
+      "Repot every 1-2 years to refresh the soil."
+    ]
+  },
+  "propagation": {
+    "description": "Propagated by division or from seeds.",
+    "detail": "The easiest way to propagate Gerbera Daisies is by dividing the plant. When you are repotting, gently separate the plant into smaller clumps, ensuring each clump has a healthy root system. You can then plant these clumps in new pots. You can also grow them from seeds, but it is a more challenging process and the resulting plants may not be true to the parent.",
+    "tips": [
+      "Divide the plant in the spring before the new growing season.",
+      "Seeds should be sown in a sterile seed-starting mix."
+    ],
+    "howToImages": [
+      "images/gerbera-jamesonii/jamesonii_prop1.jpg",
+      "images/gerbera-jamesonii/jamesonii_prop2.jpg"
+    ]
+  },
+  "issues": {
+    "description": "The most common issue is crown rot, caused by overwatering or getting the crown wet.",
+    "image": [
+      "images/gerbera-jamesonii/jamesonii_rot.jpg",
+      "images/gerbera-jamesonii/jamesonii_yellow.jpg"
+    ],
+    "tips": [
+      "Water from the base of the plant to prevent crown rot."
+    ]
+  },
+  "toxicity": {
+    "description": "Non-toxic and safe for cats, dogs, and humans."
+  }
+}

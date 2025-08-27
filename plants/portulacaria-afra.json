@@ -1,0 +1,108 @@
+{
+  "id": "portulacaria-afra",
+  "scientificName": "Portulacaria afra",
+  "etymology": "The genus name 'Portulacaria' is a nod to its resemblance to the genus Portulaca (purslane), and 'afra' means 'from Africa'.",
+  "history": "Native to arid regions of South Africa, Portulacaria afra is a resilient succulent known for its ability to withstand drought. In its native habitat, it is a key food source for elephants, which has earned it the common name 'Elephant Bush.' It has long been cultivated as a bonsai subject and a decorative succulent.",
+  "commonNames": [
+    "Elephant Bush",
+    "Dwarf Jade",
+    "Spekboom"
+  ],
+  "image": "images/portulacaria-afra/portulacaria-afra1.jpg",
+  "gallery": [
+    "images/portulacaria-afra/portulacaria-afra1.jpg",
+    "images/portulacaria-afra/portulacaria-afra2.jpg",
+    "images/portulacaria-afra/portulacaria-afra3.jpg"
+  ],
+  "care": {
+    "description": "An incredibly tough, drought-tolerant succulent that thrives with plenty of sun.",
+    "tips": [
+      "Treat it like a succulent: when in doubt, don't water.",
+      "This plant loves being outdoors in summer."
+    ],
+    "issues": [
+      "<strong>Soft or yellowing leaves:</strong> Classic signs of overwatering. Reduce watering frequency.",
+      "<strong>Wrinkled or shriveled leaves:</strong> The plant is thirsty. Give it a good soak.",
+      "<strong>Leaf drop:</strong> Can be caused by a sudden change in temperature or light, or by overwatering."
+    ],
+    "detail": "Portulacaria afra is a tough and resilient succulent that's perfect for beginners. Its care is very similar to that of a Jade plant. It thrives in bright, direct sunlight, and is very drought-tolerant. Its plump, coin-shaped leaves store water, so it's essential to let the soil dry out completely between waterings to prevent root rot. This plant is a fantastic addition to sunny windowsills, and its woody stems make it a popular choice for bonsai enthusiasts. It can also be a fast grower, so don't be afraid to prune it to maintain its desired shape and size.",
+    "howToImages": [
+      "images/portulacaria-afra/afra_watering.jpg",
+      "images/portulacaria-afra/afra_light.jpg"
+    ]
+  },
+  "watering": {
+    "description": "Water sparingly, allowing the soil to dry out completely.",
+    "tips": [
+      "Water less in winter months when growth slows down.",
+      "Check for dryness by pushing your finger deep into the soil."
+    ],
+    "issues": [
+      "Overwatering is the primary cause of death. The leaves will become soft and yellow, and the stems will get mushy."
+    ],
+    "detail": "As a succulent, Portulacaria afra is very sensitive to overwatering. Water thoroughly, but only when the soil has completely dried out. In summer, this might be every few weeks, but in winter, it could be once a month or even less. The plant's leaves will start to shrivel slightly when it's thirsty, which is a good indicator that it's time to water.",
+    "frequency": "Every 2\u00e2\u20ac\u201c4 weeks, depending on light",
+    "howToImages": [
+      "images/portulacaria-afra/afra_drysoil.jpg",
+      "images/portulacaria-afra/afra_soaking.jpg"
+    ]
+  },
+  "light": {
+    "description": "Loves bright, direct sunlight.",
+    "idealHours": "6-8 hours",
+    "detail": "Portulacaria afra performs best in full sun. Place it in your brightest window, such as a south-facing one. It can tolerate some indirect light, but its growth will become leggy and the leaves will be less dense. If you can, move it outdoors in the summer to a sunny spot for incredible growth.",
+    "howToImages": [
+      "images/portulacaria-afra/afra_sun.jpg",
+      "images/portulacaria-afra/afra_outdoors.jpg"
+    ],
+    "tips": [
+      "A lack of sun will cause stems to be weak and leaves to be spaced far apart.",
+      "Can adapt to less light, but thrives in full sun."
+    ]
+  },
+  "medium": {
+    "description": "Use a gritty, well-draining succulent or cactus mix.",
+    "detail": "The most important thing for this plant is drainage. Use a pre-mixed succulent or cactus soil, or create your own blend of potting soil, coarse sand, and perlite. The soil should be light and airy, allowing water to pass through quickly and prevent the roots from sitting in moisture.",
+    "howToImages": [
+      "images/portulacaria-afra/afra_medium1.jpg",
+      "images/portulacaria-afra/afra_medium2.jpg"
+    ],
+    "tips": [
+      "Avoid standard potting soil alone.",
+      "Ensure the pot has excellent drainage holes."
+    ]
+  },
+  "propagation": {
+    "description": "One of the easiest plants to propagate from stem cuttings.",
+    "detail": "Portulacaria afra propagation is incredibly easy. Simply snip a small stem and let the cut end callus over for a day or two. You can then stick it directly into dry, well-draining soil. Wait a week or two before giving it its first light watering. Roots will quickly form, and the plant will begin to grow.",
+    "tips": [
+      "Use a clean pair of shears for a clean cut.",
+      "Wait for the cutting to 'heal' before planting."
+    ],
+    "howToImages": [
+      "images/portulacaria-afra/afra_cut.jpg",
+      "images/portulacaria-afra/afra_prop.jpg"
+    ]
+  },
+  "issues": {
+    "description": "The most common issue is overwatering, which leads to mushy, yellowing leaves and stem rot.",
+    "image": [
+      "images/portulacaria-afra/afra_overwatered.jpg",
+      "images/portulacaria-afra/afra_underwatered.jpg"
+    ],
+    "tips": [
+      "When in doubt, always wait to water. The plant will tell you when it's thirsty."
+    ]
+  },
+  "toxicity": {
+    "description": "Non-toxic and safe for cats, dogs, and humans."
+  },
+  "tags": [
+    "succulent",
+    "drought-tolerant",
+    "full-sun",
+    "low-maintenance",
+    "edible",
+    "non-toxic"
+  ]
+}

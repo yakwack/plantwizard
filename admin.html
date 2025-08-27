@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Admin – Add Plant</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="navbar">
+    <h1 class="logo">🌿 Admin</h1>
+    <nav><a href="index.html">Back to Directory</a></nav>
+  </header>
+
+  <main class="container">
+    <h2>Add a New Plant</h2>
+    <form id="plant-form">
+      <label>Scientific Name:<br><input type="text" name="scientificName" required></label><br>
+      <label>Etymology:<br><textarea name="etymology"></textarea></label><br>
+      <label>Common Names (comma separated):<br><input type="text" name="commonNames"></label><br>
+      <label>Main Image:<br><input type="file" name="image" accept="image/*" required></label><br>
+
+      <h3>Battlecard Sections</h3>
+      <label>Care:<br><textarea name="care"></textarea></label><br>
+      <label>Watering:<br><textarea name="watering"></textarea></label><br>
+      <label>Light:<br><textarea name="light"></textarea></label><br>
+      <label>Growing Medium:<br><textarea name="medium"></textarea></label><br>
+      <label>Propagation:<br><textarea name="propagation"></textarea></label><br>
+
+      <h3>Gallery</h3>
+      <label>Gallery Images:<br><input type="file" name="gallery" accept="image/*" multiple></label><br>
+
+      <button type="submit">Save Plant</button>
+    </form>
+  </main>
+
+  <script>
+    document.getElementById("plant-form").addEventListener("submit", function(e) {
+      e.preventDefault();
+      alert("Form submitted — backend handling will be added later.");
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,106 @@
+{
+  "id": "peperomia-hope",
+  "scientificName": "Peperomia 'Hope'",
+  "etymology": "From Greek 'peperi' (pepper) and 'homoios' (resembling), as it is a member of the pepper family. 'Hope' is a cultivar name.",
+  "history": "A modern hybrid of two related species, Peperomia deppeana and Peperomia quadrifolia. It was bred to create a beautiful, trailing plant with succulent-like, coin-shaped leaves, making it a popular choice for hanging baskets and shelves.",
+  "commonNames": [
+    "Trailing Watermelon Peperomia"
+  ],
+  "image": "images/peperomia-hope/peperomia-hope1.jpg",
+  "gallery": [
+    "images/peperomia-hope/peperomia-hope1.jpg",
+    "images/peperomia-hope/peperomia-hope2.jpg",
+    "images/peperomia-hope/peperomia-hope3.jpg"
+  ],
+  "care": {
+    "description": "An easy-care plant with succulent-like leaves that needs to dry out between waterings.",
+    "tips": [
+      "Provide a support for climbing or let it trail from a shelf.",
+      "Avoid overwatering to prevent stem rot."
+    ],
+    "issues": [
+      "<strong>Mushy stems or leaves:</strong> A sign of overwatering. Reduce watering frequency immediately.",
+      "<strong>Drooping:</strong> Can indicate thirst, but also a symptom of root rot. Check the soil moisture carefully.",
+      "<strong>Loss of leaves:</strong> Can be caused by either overwatering or underwatering."
+    ],
+    "detail": "Peperomia 'Hope' is a low-maintenance plant that stores water in its thick leaves, behaving similarly to a succulent. Its care is simple: give it plenty of bright, indirect light and let the soil dry out completely between waterings. It's best to water from the bottom to prevent water from accumulating on the stems and causing rot. 'Hope' does not require high humidity and is perfect for a spot with filtered sunlight. It's a great choice for small spaces or shelves where its beautiful, trailing vines can hang freely.",
+    "howToImages": [
+      "images/peperomia-hope/hope_watering.jpg",
+      "images/peperomia-hope/hope_light.jpg"
+    ]
+  },
+  "watering": {
+    "description": "Water thoroughly when the soil is completely dry.",
+    "tips": [
+      "Check soil with a wooden skewer or finger before watering.",
+      "Can be watered from the bottom to prevent stem rot."
+    ],
+    "issues": [
+      "Overwatering is the most common issue and will cause stems to become mushy and rot."
+    ],
+    "detail": "Peperomia 'Hope' is highly susceptible to overwatering. Its succulent-like leaves store water, so it's essential to let the soil dry out entirely between waterings. When you do water, do it thoroughly, allowing excess water to drain from the bottom of the pot. In winter, reduce watering frequency significantly. A good indicator is when the leaves start to feel slightly less firm.",
+    "frequency": "Every 2\u00e2\u20ac\u201c3 weeks, depending on light and temperature",
+    "howToImages": [
+      "images/peperomia-hope/hope_watering_howto.jpg",
+      "images/peperomia-hope/hope_drysoil.jpg"
+    ]
+  },
+  "light": {
+    "description": "Bright, indirect light is ideal for healthy growth.",
+    "idealHours": "4-6 hours",
+    "detail": "Peperomia 'Hope' thrives in bright, indirect light. An east-facing window or a few feet back from a south- or west-facing window is a perfect spot. Too little light will cause the plant to become leggy and less full. Direct, harsh sun can scorch the leaves, so avoid placing it in a spot with unshaded afternoon sun.",
+    "howToImages": [
+      "images/peperomia-hope/hope_light1.jpg",
+      "images/peperomia-hope/hope_light2.jpg"
+    ],
+    "tips": [
+      "A north-facing window might be too dark.",
+      "Monitor for leaf scorching if placed near a bright window."
+    ]
+  },
+  "medium": {
+    "description": "A light, well-draining soil mix.",
+    "detail": "Use a standard, well-draining potting mix. A blend of potting soil, perlite, and a bit of coarse sand or orchid bark is ideal. This combination ensures proper aeration and prevents the soil from becoming waterlogged, which is crucial for preventing root rot.",
+    "howToImages": [
+      "images/peperomia-hope/hope_medium1.jpg",
+      "images/peperomia-hope/hope_medium2.jpg"
+    ],
+    "tips": [
+      "Make sure your pot has good drainage holes.",
+      "You can create your own mix with two parts potting soil, one part perlite, and one part sand."
+    ]
+  },
+  "propagation": {
+    "description": "Easy to propagate from stem cuttings.",
+    "detail": "Propagation is straightforward with stem cuttings. Simply snip a piece of a healthy vine with a few leaves. You can either place the cutting in a glass of water, or directly into a small pot with moist soil. Keep the cutting in a warm, bright spot. Roots should begin to form within a few weeks.",
+    "tips": [
+      "Ensure your cutting has at least one node.",
+      "Take multiple cuttings to create a fuller plant once they're rooted."
+    ],
+    "howToImages": [
+      "images/peperomia-hope/hope_cut.jpg",
+      "images/peperomia-hope/hope_root.jpg"
+    ]
+  },
+  "issues": {
+    "description": "Overwatering is the biggest risk, leading to mushy stems and leaves.",
+    "image": [
+      "images/peperomia-hope/hope_drooping.jpg",
+      "images/peperomia-hope/hope_rot.jpg"
+    ],
+    "tips": [
+      "Always check soil moisture before watering and lean towards underwatering."
+    ]
+  },
+  "toxicity": {
+    "description": "Non-toxic and safe for pets and children."
+  },
+  "tags": [
+    "trailing",
+    "succulent-like",
+    "easy-care",
+    "bright-indirect",
+    "non-toxic",
+    "compact"
+  ]
+}

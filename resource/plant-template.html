@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Plant Profile</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="navbar">
+    <h1 class="logo">🌿 Plant Library</h1>
+    <nav><a href="index.html">Back to Directory</a></nav>
+  </header>
+
+  <main id="plant-profile" class="container"></main>
+
+  <script>
+    async function loadPlant() {
+      const params = new URLSearchParams(window.location.search);
+      const plantId = params.get("id");
+
+      const response = await fetch("plants.json");
+      const plants = await response.json();
+      const plant = plants.find(p => p.id === plantId);
+
+      if (!plant) {
+        document.getElementById("plant-profile").innerHTML = "<p>Plant not found.</p>";
+        return;
+      }
+
+      document.getElementById("plant-profile").innerHTML = `
+        <div class="profile-header">
+          <h2>${plant.scientificName}</h2>
+          <div class="gallery">
+            ${plant.images.map(img => `<img src="${img}" alt="${plant.scientificName}">`).join("")}
+          </div>
+        </div>
+
+        <section><h3>Common Names</h3><p>${plant.commonNames.join(", ")}</p></section>
+        <section><h3>Care</h3><p>${plant.care}</p></section>
+        <section><h3>Propagation</h3><p>${plant.propagation}</p></section>
+        <section><h3>Planting Medium</h3><p>${plant.medium}</p></section>
+        <section><h3>Watering</h3><p>${plant.watering}</p></section>
+        <section><h3>Light</h3><p>${plant.light}</p></section>
+      `;
+    }
+    loadPlant();
+  </script>
+</body>
+</html>
+  <footer>
+    <p>&copy; 2024 Plant Library</p>
+  </footer>

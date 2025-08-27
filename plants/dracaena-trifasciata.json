@@ -1,0 +1,108 @@
+{
+  "id": "dracaena-trifasciata",
+  "scientificName": "Dracaena trifasciata",
+  "etymology": "Formerly known as Sansevieria trifasciata, its new genus name 'Dracaena' comes from the Greek 'drakaina' meaning female dragon, referring to the red sap of some species. 'Trifasciata' means 'three bundles', describing the three-banded pattern on its leaves.",
+  "history": "Native to tropical West Africa, this plant has been a popular indoor houseplant for decades due to its striking, upright leaves and its incredible hardiness. It is well-known for its air-purifying qualities, as highlighted by a famous NASA study, and is often found in homes and offices with low-light conditions.",
+  "commonNames": [
+    "Snake Plant",
+    "Mother-in-Law's Tongue",
+    "Viper's Bowstring Hemp"
+  ],
+  "image": "images/dracaena-trifasciata/trifasciata1.jpg",
+  "gallery": [
+    "images/dracaena-trifasciata/trifasciata1.jpg",
+    "images/dracaena-trifasciata/trifasciata2.jpg",
+    "images/dracaena-trifasciata/trifasciata3.jpg"
+  ],
+  "tags": [
+    "succulent",
+    "drought-tolerant",
+    "low-light-tolerant",
+    "easy-care",
+    "air-purifying",
+    "upright-growth"
+  ],
+  "care": {
+    "description": "An incredibly tough, low-maintenance plant that thrives on neglect.",
+    "tips": [
+      "Avoid overwatering to prevent root rot.",
+      "Dust the leaves occasionally to help with photosynthesis."
+    ],
+    "issues": [
+      "<strong>Mushy, yellowing leaves:</strong> A classic sign of overwatering. Let the soil dry out completely between waterings.",
+      "<strong>Wrinkled or shriveled leaves:</strong> The plant is very thirsty. Give it a good watering.",
+      "<strong>Brown tips:</strong> Can be caused by inconsistent watering or a buildup of salts in the soil. Flush the soil with water occasionally."
+    ],
+    "detail": "The Dracaena trifasciata is a perfect plant for beginners or those who travel frequently. Its thick, succulent-like leaves store water, making it extremely drought-tolerant and forgiving of neglect. It can thrive in a variety of light conditions, from low to bright, indirect light, but its growth will be faster and its colors more vibrant in a brighter spot. Overwatering is the most common mistake made with this plant and is often fatal. When in doubt, it is always better to underwater than to overwater.",
+    "howToImages": [
+      "images/dracaena-trifasciata/trifasciata_care1.jpg",
+      "images/dracaena-trifasciata/trifasciata_care2.jpg"
+    ]
+  },
+  "watering": {
+    "description": "Water sparingly, allowing the soil to dry out completely.",
+    "tips": [
+      "Check the soil moisture with your finger before watering.",
+      "Water even less in the winter months."
+    ],
+    "issues": [
+      "Overwatering is the primary cause of death. The leaves will become soft and mushy from root rot."
+    ],
+    "detail": "Water your Snake Plant thoroughly, but only when the soil has completely dried out. The frequency will depend on the light and temperature of your home. In a low-light spot, this could be once a month or less. In a brighter spot, it may need water every few weeks. The plant is very tolerant of being underwatered and will show signs of thirst by having wrinkled leaves.",
+    "frequency": "Every 2\u00e2\u20ac\u201c4 weeks, depending on light",
+    "howToImages": [
+      "images/dracaena-trifasciata/trifasciata_watering1.jpg",
+      "images/dracaena-trifasciata/trifasciata_watering2.jpg"
+    ]
+  },
+  "light": {
+    "description": "Tolerates a wide range of light, from low to bright, indirect.",
+    "idealHours": "4-6 hours",
+    "detail": "Dracaena trifasciata is famously tolerant of low-light conditions, which is why it is so popular for offices and darker rooms. However, for a healthier plant and faster growth, it prefers bright, indirect light. It can even tolerate some direct morning sun. Too much direct sun can scorch the leaves, so avoid placing it in a spot with harsh afternoon sun.",
+    "howToImages": [
+      "images/dracaena-trifasciata/trifasciata_light1.jpg",
+      "images/dracaena-trifasciata/trifasciata_light2.jpg"
+    ],
+    "tips": [
+      "The plant's vibrant colors will be more pronounced in brighter light.",
+      "Rotate the plant periodically for even growth."
+    ]
+  },
+  "medium": {
+    "description": "A gritty, well-draining succulent or cactus mix.",
+    "detail": "Use a soil mix that drains very well to prevent root rot. A pre-mixed succulent or cactus soil is an excellent choice. You can also create your own mix by adding perlite, coarse sand, or pumice to a standard potting soil. The key is to have a mix that is airy and does not retain a lot of moisture.",
+    "howToImages": [
+      "images/dracaena-trifasciata/trifasciata_medium1.jpg",
+      "images/dracaena-trifasciata/trifasciata_medium2.jpg"
+    ],
+    "tips": [
+      "Always use a pot with good drainage holes.",
+      "Avoid standard potting soil alone, as it is too heavy."
+    ]
+  },
+  "propagation": {
+    "description": "Easily propagated from leaf cuttings or by division.",
+    "detail": "Dracaena trifasciata is one of the easiest plants to propagate. You can simply cut a leaf into segments and place them in moist soil. New roots will form, and a new plant will grow from the base. You can also propagate by division, which is a faster method. When repotting, simply separate the plant into smaller clumps and pot them individually.",
+    "tips": [
+      "Allow leaf cuttings to callus over for a few days before planting.",
+      "Ensure the cutting is planted right side up for best results."
+    ],
+    "howToImages": [
+      "images/dracaena-trifasciata/trifasciata_cut.jpg",
+      "images/dracaena-trifasciata/trifasciata_prop.jpg"
+    ]
+  },
+  "issues": {
+    "description": "The main issue is overwatering, which causes mushy leaves and root rot.",
+    "image": [
+      "images/dracaena-trifasciata/trifasciata_rot.jpg",
+      "images/dracaena-trifasciata/trifasciata_yellowing.jpg"
+    ],
+    "tips": [
+      "The plant is more likely to recover from underwatering than overwatering."
+    ]
+  },
+  "toxicity": {
+    "description": "Toxic to cats and dogs if ingested. It can cause nausea, vomiting, and diarrhea."
+  }
+}

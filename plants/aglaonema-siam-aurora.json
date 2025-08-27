@@ -1,0 +1,107 @@
+{
+  "id": "aglaonema-siam-aurora",
+  "scientificName": "Aglaonema 'Siam Aurora'",
+  "etymology": "The name 'Aglaonema' is from the Greek words 'aglaos' (shining) and 'nema' (thread), referring to its prominent stamens. 'Siam Aurora' is a cultivar name.",
+  "history": "Aglaonema species are native to tropical and subtropical regions of Asia. 'Siam Aurora' is a popular hybrid known for its striking foliage with vibrant red or pink edges on its green leaves. Its hardiness and ability to thrive in low-light conditions have made it a favorite in homes and offices.",
+  "commonNames": [
+    "Chinese Evergreen",
+    "Red Aglaonema"
+  ],
+  "image": "images/aglaonema-siam-aurora/aurora1.jpg",
+  "gallery": [
+    "images/aglaonema-siam-aurora/aurora1.jpg",
+    "images/aglaonema-siam-aurora/aurora2.jpg",
+    "images/aglaonema-siam-aurora/aurora3.jpg"
+  ],
+  "tags": [
+    "tropical",
+    "colorful-foliage",
+    "low-light-tolerant",
+    "easy-care",
+    "air-purifying",
+    "slow-grower"
+  ],
+  "care": {
+    "description": "An attractive, low-maintenance plant with vibrant, colorful foliage.",
+    "tips": [
+      "Wipe the leaves with a damp cloth to keep them clean and shiny.",
+      "Avoid cold drafts and sudden temperature changes."
+    ],
+    "issues": [
+      "<strong>Yellowing leaves:</strong> A classic sign of overwatering. Let the soil dry out more between waterings.",
+      "<strong>Brown, crispy tips:</strong> Caused by low humidity or inconsistent watering. Mist the leaves regularly.",
+      "<strong>Fading color:</strong> If the red on the leaves starts to fade, it's a sign of insufficient light. Move to a brighter spot."
+    ],
+    "detail": "Aglaonema 'Siam Aurora' is a stunning plant that adds a pop of color to any room. It is very forgiving and thrives in a wide range of light conditions, from low to bright, indirect light. For the best color, it is recommended to give it some bright, indirect light. The plant prefers its soil to be kept consistently moist but not soggy. It is sensitive to cold, so keep it in a warm room away from drafts.",
+    "howToImages": [
+      "images/aglaonema-siam-aurora/aurora_care1.jpg",
+      "images/aglaonema-siam-aurora/aurora_care2.jpg"
+    ]
+  },
+  "watering": {
+    "description": "Keep soil evenly moist, but not soggy.",
+    "tips": [
+      "Allow the top 1-2 inches of soil to dry out before watering.",
+      "Use a pot with good drainage to prevent root rot."
+    ],
+    "issues": [
+      "Overwatering is the biggest threat and will cause the stems to become mushy."
+    ],
+    "detail": "Water your Aglaonema when the top inch or two of soil feels dry to the touch. The plant is prone to root rot if the soil stays waterlogged, so it is crucial to avoid overwatering. In the winter, reduce watering frequency. The plant will tolerate being underwatered better than it will tolerate being overwatered.",
+    "frequency": "Every 1-2 weeks, depending on light",
+    "howToImages": [
+      "images/aglaonema-siam-aurora/aurora_watering1.jpg",
+      "images/aglaonema-siam-aurora/aurora_watering2.jpg"
+    ]
+  },
+  "light": {
+    "description": "Tolerates low light, but prefers bright, indirect light.",
+    "idealHours": "4-6 hours",
+    "detail": "Aglaonema 'Siam Aurora' can survive in low-light conditions, but its colors will be most vibrant in bright, indirect light. Place it near an east- or north-facing window for best results. Avoid any direct, harsh sunlight, as this will scorch the leaves. If the plant's colors start to fade, it's a sign that it needs more light.",
+    "howToImages": [
+      "images/aglaonema-siam-aurora/aurora_light1.jpg",
+      "images/aglaonema-siam-aurora/aurora_light2.jpg"
+    ],
+    "tips": [
+      "Lower light will cause the plant to grow slower.",
+      "A little bit of morning sun is fine, but avoid afternoon sun."
+    ]
+  },
+  "medium": {
+    "description": "A well-draining, slightly acidic potting mix.",
+    "detail": "Use a standard, well-draining potting mix that retains a bit of moisture. A mix with peat moss, perlite, and sand is a good choice. This combination provides the right balance of moisture retention and drainage, which is crucial for this plant's health.",
+    "howToImages": [
+      "images/aglaonema-siam-aurora/aurora_medium1.jpg",
+      "images/aglaonema-siam-aurora/aurora_medium2.jpg"
+    ],
+    "tips": [
+      "Repot every 2-3 years to refresh the soil.",
+      "Ensure the pot has good drainage holes."
+    ]
+  },
+  "propagation": {
+    "description": "Propagated by division or by stem cuttings.",
+    "detail": "Aglaonema 'Siam Aurora' can be propagated by dividing the plant at its root ball when you repot it. Alternatively, you can take stem cuttings. Cut a stem with at least 2-3 leaves and a node, and place it in a jar of water or in moist soil. The cutting will take root within a few weeks. The plant is a slow grower, so be patient.",
+    "tips": [
+      "Take stem cuttings in the spring.",
+      "Rooting hormone can help increase the success rate."
+    ],
+    "howToImages": [
+      "images/aglaonema-siam-aurora/aurora_cut.jpg",
+      "images/aglaonema-siam-aurora/aurora_root.jpg"
+    ]
+  },
+  "issues": {
+    "description": "The most common issue is overwatering, which causes the leaves to yellow and the stems to rot.",
+    "image": [
+      "images/aglaonema-siam-aurora/aurora_yellowing.jpg",
+      "images/aglaonema-siam-aurora/aurora_browning.jpg"
+    ],
+    "tips": [
+      "Always check the soil before watering to prevent root rot."
+    ]
+  },
+  "toxicity": {
+    "description": "Toxic to cats, dogs, and humans if ingested. Can cause mouth and throat irritation."
+  }
+}

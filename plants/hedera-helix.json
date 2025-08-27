@@ -1,0 +1,107 @@
+{
+  "id": "hedera-helix",
+  "scientificName": "Hedera helix",
+  "etymology": "From Latin 'hedera' meaning ivy, and 'helix' meaning spiral, referring to its climbing, winding nature.",
+  "history": "Native to Europe and Western Asia, English Ivy has been a part of human history for centuries, symbolizing immortality and fidelity. It has long been cultivated for ornamental purposes, used to cover walls and as ground cover, and has become a popular, resilient houseplant worldwide.",
+  "commonNames": [
+    "English Ivy",
+    "Common Ivy"
+  ],
+  "image": "images/hedera-helix/helix1.jpg",
+  "gallery": [
+    "images/hedera-helix/helix1.jpg",
+    "images/hedera-helix/helix2.jpg",
+    "images/hedera-helix/helix3.jpg"
+  ],
+  "tags": [
+    "vining",
+    "climbing",
+    "low-light-tolerant",
+    "easy-care",
+    "air-purifying",
+    "evergreen"
+  ],
+  "care": {
+    "description": "A versatile, vining plant that is easy to care for and can tolerate a wide range of conditions.",
+    "tips": [
+      "Wipe leaves to prevent dust buildup and pest infestations.",
+      "Prune regularly to encourage a fuller, bushier plant."
+    ],
+    "issues": [
+      "<strong>Brown, crispy leaves:</strong> A sign of underwatering or low humidity. Increase watering and mist the leaves regularly.",
+      "<strong>Yellowing leaves:</strong> Usually from overwatering. Let the soil dry out more between waterings.",
+      "<strong>Pests:</strong> Can be susceptible to spider mites and mealybugs. Check the leaves regularly."
+    ],
+    "detail": "English Ivy is a very adaptable plant that can be grown in many ways: as a trailing plant from a hanging basket, a climbing plant on a moss pole, or as ground cover. It prefers bright, indirect light but can tolerate low light. The plant likes to be kept consistently moist but not soggy, as it is prone to root rot. High humidity is a plus, but it is not essential. It's a great choice for beginners due to its forgiving nature.",
+    "howToImages": [
+      "images/hedera-helix/helix_care1.jpg",
+      "images/hedera-helix/helix_care2.jpg"
+    ]
+  },
+  "watering": {
+    "description": "Keep soil evenly moist, but not soggy.",
+    "tips": [
+      "Allow the top inch of soil to dry out before watering again.",
+      "The plant is very sensitive to overwatering."
+    ],
+    "issues": [
+      "Overwatering is the biggest threat and can lead to root rot."
+    ],
+    "detail": "Water your English Ivy when the top inch of soil is dry to the touch. The plant prefers to be kept consistently moist but can tolerate a bit of drying out. It's much more sensitive to overwatering than underwatering, which can cause root rot and lead to yellow leaves. In winter, reduce watering frequency as the plant's growth slows down.",
+    "frequency": "Once a week, depending on light and temperature",
+    "howToImages": [
+      "images/hedera-helix/helix_watering1.jpg",
+      "images/hedera-helix/helix_watering2.jpg"
+    ]
+  },
+  "light": {
+    "description": "Thrives in bright, indirect light.",
+    "idealHours": "4-6 hours",
+    "detail": "English Ivy prefers bright, indirect light. A spot near an east- or north-facing window is ideal. It can tolerate lower light, but its growth will slow down and the variegation on some varieties may fade. Avoid direct, harsh afternoon sun, which can scorch the leaves.",
+    "howToImages": [
+      "images/hedera-helix/helix_light1.jpg",
+      "images/hedera-helix/helix_light2.jpg"
+    ],
+    "tips": [
+      "Too little light can cause leggy growth.",
+      "The plant will thrive under fluorescent lights, making it a great office plant."
+    ]
+  },
+  "medium": {
+    "description": "A standard, well-draining potting mix.",
+    "detail": "English Ivy is not particular about its soil, as long as it is well-draining. A standard potting mix is perfectly suitable. You can add a bit of perlite or sand to improve drainage, which is crucial for preventing root rot.",
+    "howToImages": [
+      "images/hedera-helix/helix_medium1.jpg",
+      "images/hedera-helix/helix_medium2.jpg"
+    ],
+    "tips": [
+      "Ensure the pot has good drainage holes.",
+      "This plant is very adaptable and doesn't require a special mix."
+    ]
+  },
+  "propagation": {
+    "description": "Easily propagated from stem cuttings in water or soil.",
+    "detail": "Propagation is very easy. Simply take a stem cutting that has at least one node and a few leaves. Remove the lower leaves and place the cutting in a glass of water. Roots will form within a few weeks. Once the roots are a couple of inches long, you can plant the cutting in a pot with moist soil. You can also plant the cutting directly in soil and keep it moist until it takes root.",
+    "tips": [
+      "Change the water in the propagation jar every few days.",
+      "Take multiple cuttings to create a new, full plant."
+    ],
+    "howToImages": [
+      "images/hedera-helix/helix_cut.jpg",
+      "images/hedera-helix/helix_root.jpg"
+    ]
+  },
+  "issues": {
+    "description": "The most common issue is spider mites, especially in dry environments.",
+    "image": [
+      "images/hedera-helix/helix_brown.jpg",
+      "images/hedera-helix/helix_yellow.jpg"
+    ],
+    "tips": [
+      "Regularly check the underside of the leaves for pests."
+    ]
+  },
+  "toxicity": {
+    "description": "Toxic to cats, dogs, and humans if ingested. It can cause skin irritation upon contact."
+  }
+}

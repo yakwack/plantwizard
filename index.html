@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+<title>Plant Wizard</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Homenaje&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="navbar">
+    <h1 class="logo"><img src="images/wiz_logo.png" height="64px"></i> Plant Wizard</h1>
+  </header>
+  <main class="container">
+    <h2>Plant Directory</h2>
+    <div id="plant-list" class="grid"></div>
+  </main>
+
+  <script>
+    async function loadPlants() {
+      const res = await fetch("plants-index.json");
+      const plants = await res.json();
+      const list = document.getElementById("plant-list");
+
+      list.innerHTML = plants.map(p => `
+        <a href="plant.html?id=${p.id}" class="card">
+          <img src="${p.thumbnail}" alt="${p.scientificName}">
+          <h3>${p.scientificName}</h3>
+          <p class="common-names">${p.commonNames.join(", ")}</p>
+          <div class="tags-container">
+            ${p.tags.map(tag => `<span class="tag">${tag}</span>`).join("")}
+          </div>
+        </a>
+      `).join("");
+    }
+    loadPlants();
+  </script>
+</body>
+</html>
