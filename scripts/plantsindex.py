@@ -1,7 +1,8 @@
 import json
 import os
 
-def create_plant_index(input_dir='plants', output_filename='plants-index.json'):
+# Creates a plants-index.json file from individual plant files in the plants/ directory
+def create_plant_index(input_dir='../plants', output_filename='../plants-index.json'):
     """
     Reads individual plant JSON files from a directory and compiles them
     into a single, structured index file.

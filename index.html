@@ -12,22 +12,36 @@
 </head>
 <body>
   <header class="navbar">
-    <h1 class="logo"><img src="images/wiz_logo.png" height="64px"></i> Plant Wizard</h1>
+    <h1 class="logo"><img src="images/wiz_logo32.png" height="32px"></i> Plant Wizard</h1>
   </header>
   <main class="container">
-    <h2>Plant Directory</h2>
+   <!-- <h2>Plant Directory</h2> -->
+    <div class="search-container">
+      <input type="text" id="plant-search" placeholder="Search for plants or tags...">
+      <div class="popular-tags"></div>
+    </div>
     <div id="plant-list" class="grid"></div>
   </main>
 
-  <script>
-    async function loadPlants() {
-      const res = await fetch("plants-index.json");
-      const plants = await res.json();
-      const list = document.getElementById("plant-list");
+<script>
+    let allPlants = [];
 
+    async function loadPlants() {
+      const res = await fetch("plants.json");
+      allPlants = await res.json();
+      displayPlants(allPlants);
+      setupPopularTags();
+    }
+
+    function displayPlants(plants) {
+      const list = document.getElementById("plant-list");
+      if (plants.length === 0) {
+        list.innerHTML = `<p class="no-results">No plants found matching your search.</p>`;
+        return;
+      }
       list.innerHTML = plants.map(p => `
         <a href="plant.html?id=${p.id}" class="card">
-          <img src="${p.thumbnail}" alt="${p.scientificName}">
+          <img src="${p.image}" alt="${p.scientificName}">
           <h3>${p.scientificName}</h3>
           <p class="common-names">${p.commonNames.join(", ")}</p>
           <div class="tags-container">
@@ -36,7 +50,59 @@
         </a>
       `).join("");
     }
-    loadPlants();
+
+    function handleSearch(searchTerm) {
+      const normalizedSearchTerms = searchTerm.toLowerCase().split(/\s+/).filter(term => term.length > 0);
+      
+      if (normalizedSearchTerms.length === 0) {
+        displayPlants(allPlants);
+        return;
+      }
+
+      const filteredPlants = allPlants.filter(p => {
+        const searchableText = [
+          p.scientificName,
+          ...p.commonNames,
+          ...p.tags
+        ].map(text => text.toLowerCase());
+
+        return normalizedSearchTerms.every(term => {
+          return searchableText.some(text => text.includes(term));
+        });
+      });
+      displayPlants(filteredPlants);
+    }
+    
+    function setupPopularTags() {
+      const tagCounts = {};
+      allPlants.forEach(plant => {
+        plant.tags.forEach(tag => {
+          const lowerTag = tag.toLowerCase();
+          tagCounts[lowerTag] = (tagCounts[lowerTag] || 0) + 1;
+        });
+      });
+
+      const sortedTags = Object.keys(tagCounts).sort((a, b) => tagCounts[b] - tagCounts[a]);
+      const popularTagsContainer = document.querySelector(".popular-tags");
+      popularTagsContainer.innerHTML = sortedTags.slice(0, 5).map(tag => 
+        `<span class="tag" data-tag="${tag}">${tag}</span>`
+      ).join("");
+
+      popularTagsContainer.addEventListener("click", (event) => {
+        if (event.target.classList.contains("tag")) {
+          const selectedTag = event.target.getAttribute("data-tag");
+          const searchInput = document.getElementById("plant-search");
+          searchInput.value = selectedTag;
+          handleSearch(selectedTag);
+        }
+      });
+    }
+
+    document.addEventListener("DOMContentLoaded", () => {
+      loadPlants();
+      const searchInput = document.getElementById("plant-search");
+      searchInput.addEventListener("input", (event) => handleSearch(event.target.value));
+    });
   </script>
 </body>
 </html>

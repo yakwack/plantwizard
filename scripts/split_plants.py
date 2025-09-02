@@ -1,7 +1,8 @@
 import json
 import os
 
-def split_json_file(input_filename='plants.json', output_dir='plants'):
+# Opens plants.json and splits it into individual files in the plants/ directory
+def split_json_file(input_filename='../plants.json', output_dir='../plants'):
     """
     Reads a single JSON file containing an array of plant objects and
     writes each object to a separate JSON file.
@@ -57,4 +58,4 @@ def split_json_file(input_filename='plants.json', output_dir='plants'):
 # Example usage: Run the function
 if __name__ == "__main__":
     # Assuming your master file is called 'plants.json'
-    split_json_file(input_filename='plants.json')
+    split_json_file(input_filename='../plants.json')

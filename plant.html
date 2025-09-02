@@ -93,6 +93,9 @@
             <h3>Plant Care</h3>
             <div class="care-section">
               <h4>Essential Care Overview</h4>
+              <div class="how-to-gallery">
+                ${Array.isArray(plant.care.howToImages) ? plant.care.howToImages.map(img => `<img src="${img}" alt="Common plant issues">`).join("") : ''}
+              </div>
               <p>${plant.care.detail}</p>
             </div>
 
@@ -100,10 +103,7 @@
 
             <div class="care-section common-issues">
               <h4>Common Issues & Solutions</h4>
-              <p>Identifying issues with your plant early is key to a long, happy life.</p>
-              <div class="how-to-gallery">
-                ${Array.isArray(plant.care.howToImages) ? plant.care.howToImages.map(img => `<img src="${img}" alt="Common plant issues">`).join("") : ''}
-              </div>
+              <br>
               <div class="issue-list">
                 <ul>
                   ${plant.care.issues.map(t => `<li>${t}</li>`).join("")}
