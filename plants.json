@@ -122,7 +122,10 @@
     "gallery": [
       "images/goldenpothos/pothos1.jpg",
       "images/goldenpothos/pothos2.jpg",
-      "images/goldenpothos/pothos3.jpg"
+      "images/goldenpothos/pothos3.jpg",
+      "images/golgenpothos/pothos4.jpg",
+      "images/goldenpothos/pothos5.jpg",
+      "images/goldenpothos/pothos6.jpg"
     ],
     "care": {
       "description": "A very forgiving plant that tolerates a wide range of conditions, making it perfect for beginners.",
@@ -139,12 +142,9 @@
       ],
       "detail": "Golden Pothos is known as 'Devil's Ivy' because it's nearly impossible to kill and stays green even in the dark. It is an incredibly low-maintenance plant that is perfect for beginners. The Pothos can tolerate a variety of light conditions from low to bright, indirect light, but for the best growth and variegation, aim for bright, indirect light. Water only when the soil is completely dry. Overwatering is the most common cause of issues with this plant. Pothos are also excellent air purifiers, making them a great addition to any home. They are fast-growing and can be easily propagated from stem cuttings to share with friends or create a fuller plant.",
       "howToImages": [
-        "images/goldenpothos/pothos1.jpg",
-        "images/goldenpothos/pothos2.jpg",
-        "images/goldenpothos/pothos3.jpg",
-        "images/goldenpothos/pothos4.jpg",
-        "images/goldenpothos/pothos5.jpg",
-        "images/goldenpothos/pothos6.jpg"
+        "images/goldenpothos/care1.jpg",
+        "images/goldenpothos/care2.jpg",
+        "images/goldenpothos/care3.jpg"
       ]
     },
     "watering": {
@@ -1716,7 +1716,7 @@
     "etymology": "Named after Traugott Gerber, a German botanist. The species name 'jamesonii' honors Robert Jameson, who collected the plant in South Africa.",
     "history": "Native to South Africa, the Gerbera Daisy was first discovered in the late 19th century. It quickly became a popular cut flower and garden plant due to its vibrant, daisy-like blooms and long-lasting flowers. It is now cultivated and hybridized worldwide for its wide range of colors and forms.",
     "commonNames": ["Gerbera Daisy", "Transvaal Daisy", "Barberton Daisy"],
-    "image": "images/gerbera-jamesonii/jamesonii1.jpg",
+    "image": "images/gerbera-jamesonii/main.jpg",
     "gallery": [
       "images/gerbera-jamesonii/jamesonii1.jpg",
       "images/gerbera-jamesonii/jamesonii2.jpg",
@@ -1743,8 +1743,8 @@
       ],
       "detail": "Gerbera Daisies are a classic for their large, colorful blooms. They are a perennial in warmer climates but are often grown as an annual in cooler regions. The plant requires plenty of sun and consistently moist soil to thrive. It is a heavy feeder and will benefit from regular fertilization during the growing season. A key to success is to avoid getting the crown of the plant wet when watering, as this can lead to crown rot.",
       "howToImages": [
-        "images/gerbera-jamesonii/jamesonii_care1.jpg",
-        "images/gerbera-jamesonii/jamesonii_care2.jpg"
+        "images/gerbera-jamesonii/care1.jpg",
+        "images/gerbera-jamesonii/care2.jpg"
       ]
     },
     "watering": {
@@ -1759,8 +1759,8 @@
       "detail": "Gerbera Daisies prefer their soil to be kept consistently moist. Water deeply but be careful to avoid getting water on the crown of the plant, as this can cause it to rot. Let the top inch of soil dry out between waterings to prevent root rot. In winter, reduce watering frequency as the plant's growth slows down.",
       "frequency": "Every 1-2 weeks, depending on light and temperature",
       "howToImages": [
-        "images/gerbera-jamesonii/jamesonii_watering1.jpg",
-        "images/gerbera-jamesonii/jamesonii_watering2.jpg"
+        "images/gerbera-jamesonii/watering1.jpg",
+        "images/gerbera-jamesonii/watering2.jpg"
       ]
     },
     "light": {
@@ -1768,8 +1768,8 @@
       "idealHours": "6-8 hours",
       "detail": "Gerbera Daisies need plenty of direct sunlight to produce a full show of blooms. A location with full sun for at least 6 hours a day is essential. In too little light, the plant will not flower and may become leggy. In very hot climates, some afternoon shade can be beneficial to prevent scorching.",
       "howToImages": [
-        "images/gerbera-jamesonii/jamesonii_light1.jpg",
-        "images/gerbera-jamesonii/jamesonii_light2.jpg"
+        "images/gerbera-jamesonii/light1.jpg",
+        "images/gerbera-jamesonii/light2.jpg"
       ],
       "tips": [
         "Full sun is crucial for a healthy, blooming plant.",
@@ -1780,8 +1780,8 @@
       "description": "A well-draining, rich potting mix.",
       "detail": "Use a high-quality potting mix that is rich in organic matter and has good drainage. A standard potting mix amended with some compost and perlite is a great choice. The soil should be light and airy, as heavy, compacted soil can lead to root rot.",
       "howToImages": [
-        "images/gerbera-jamesonii/jamesonii_medium1.jpg",
-        "images/gerbera-jamesonii/jamesonii_medium2.jpg"
+        "images/gerbera-jamesonii/medium1.jpg",
+        "images/gerbera-jamesonii/medium2.jpg"
       ],
       "tips": [
         "Ensure the pot has good drainage holes.",
@@ -1796,8 +1796,8 @@
         "Seeds should be sown in a sterile seed-starting mix."
       ],
       "howToImages": [
-        "images/gerbera-jamesonii/jamesonii_prop1.jpg",
-        "images/gerbera-jamesonii/jamesonii_prop2.jpg"
+        "images/gerbera-jamesonii/prop1.jpg",
+        "images/gerbera-jamesonii/prop2.jpg"
       ]
     },
     "issues": {
@@ -2078,5 +2078,114 @@
 "toxicity": {
 "description": "Ficus elastica is toxic to humans and pets if ingested, causing mouth and stomach irritation. Its milky sap may also cause skin irritation."
 }
+},
+{
+  "id": "aloe-vera",
+  "scientificName": "Aloe vera",
+  "etymology": "The genus name 'Aloe' is derived from the Arabic word 'alloeh,' meaning 'shining bitter substance,' referring to the bitter sap found in the leaves. 'Vera' is Latin for 'true,' suggesting it's the most authentic aloe.",
+  "history": "Native to the Arabian Peninsula, Aloe vera has been used for medicinal and cosmetic purposes for thousands of years by civilizations including the Egyptians, Greeks, and Romans. Its gel is famous for soothing skin ailments, and its resilient nature has made it a popular houseplant worldwide.",
+  "commonNames": [
+    "Aloe",
+    "Burn Plant",
+    "Medicine Plant"
+  ],
+  "image": "images/aloe-vera/main.jpg",
+  "gallery": [
+    "images/aloe-vera/aloe1.jpg",
+    "images/aloe-vera/aloe2.jpg",
+    "images/aloe-vera/aloe3.jpg"
+  ],
+  "tags": [
+    "succulent",
+    "medicinal",
+    "drought-tolerant",
+    "easy-care",
+    "bright-light",
+    "non-toxic"
+  ],
+  "care": {
+    "description": "A popular, low-maintenance succulent known for its medicinal properties and hardiness.",
+    "tips": [
+      "Keep away from cold drafts and frost, as it is a tropical plant.",
+      "The plant is more likely to thrive from underwatering than overwatering."
+    ],
+    "issues": [
+      "<strong>Mushy, brown leaves:</strong> A classic sign of overwatering. Let the soil dry out completely between waterings.",
+      "<strong>Drooping leaves:</strong> Can be caused by underwatering or lack of light. Check soil moisture and light levels.",
+      "<strong>Shriveled leaves:</strong> The plant is severely thirsty. Give it a thorough soak.",
+      "<strong>Pale or thin leaves:</strong> Indicates a lack of light. Move the plant to a brighter location."
+    ],
+    "detail": "Aloe vera is a versatile succulent that is incredibly easy to care for. It thrives in bright, indirect light and tolerates some direct sun, but too much can scorch its leaves. The plant stores water in its thick, fleshy leaves, making it very drought-tolerant and forgiving of neglect. The key to its care is proper watering: only water when the soil has completely dried out. It is a slow grower but will eventually produce 'pups,' which can be separated to create new plants.",
+    "howToImages": [
+      "images/aloe-vera/care1.jpg",
+      "images/aloe-vera/care2.jpg"
+    ]
+  },
+  "watering": {
+    "description": "Water sparingly, allowing the soil to dry out completely.",
+    "tips": [
+      "Always check soil moisture with your finger before watering.",
+      "Water less in the winter when the plant is dormant."
+    ],
+    "issues": [
+      "Overwatering is the number one threat and will cause the roots to rot and the leaves to turn brown and mushy."
+    ],
+    "detail": "Aloe vera is very sensitive to overwatering. The soil should be allowed to dry out completely between waterings. The plant will tell you it's thirsty by its leaves becoming slightly shriveled and thin. Water thoroughly but infrequently, and always ensure your pot has good drainage to prevent root rot. During the winter, the plant's growth slows down, and you should reduce watering significantly.",
+    "frequency": "Every 2–4 weeks, depending on light and temperature",
+    "howToImages": [
+      "images/aloe-vera/watering1.jpg",
+      "images/aloe-vera/watering2.jpg"
+    ]
+  },
+  "light": {
+    "description": "Prefers bright, indirect light.",
+    "idealHours": "6-8 hours",
+    "detail": "Aloe vera thrives in bright, indirect light. An east- or west-facing window is an ideal spot. It can tolerate some direct morning sun, but avoid harsh afternoon sun, which can burn its leaves and cause them to turn reddish-brown. If the leaves look thin and pale, it's a sign the plant needs more light.",
+    "howToImages": [
+      "images/aloe-vera/light1.jpg",
+      "images/aloe-vera/light2.jpg"
+    ],
+    "tips": [
+      "Too much sun can cause the leaves to turn reddish.",
+      "Rotate the plant periodically for even growth."
+    ]
+  },
+  "medium": {
+    "description": "A well-draining, gritty soil mix for succulents.",
+    "detail": "The most important thing for an Aloe vera is drainage. Use a pre-mixed succulent or cactus soil. A standard potting mix will retain too much moisture and can lead to root rot. You can also create your own mix with potting soil, coarse sand, and perlite to ensure the soil is airy and drains quickly.",
+    "howToImages": [
+      "images/aloe-vera/medium1.jpg",
+      "images/aloe-vera/medium2.jpg"
+    ],
+    "tips": [
+      "Ensure the pot has good drainage holes.",
+      "Avoid heavy clay soils that retain too much moisture."
+    ]
+  },
+  "propagation": {
+    "description": "Easily propagated from 'pups' or offsets that grow from the main plant.",
+    "detail": "The easiest way to propagate Aloe vera is by removing the 'pups' or offsets that grow from the base of the mother plant. When the pup is a few inches tall and has its own root system, you can gently separate it from the main plant with a clean knife. Let the cut end of the pup dry and callus over for a day before planting it in a pot with well-draining soil. The new plant will quickly establish itself and begin to grow.",
+    "tips": [
+      "Wait for the pup to be a few inches tall before separating it.",
+      "Allow the cut end to heal before planting."
+    ],
+    "howToImages": [
+      "images/aloe-vera/prop1.jpg",
+      "images/aloe-vera/prop2.jpg"
+    ]
+  },
+  "issues": {
+    "description": "The most common issue is overwatering, which causes the leaves to turn brown and mushy.",
+    "image": [
+      "images/aloe-vera/rot.jpg",
+      "images/aloe-vera/shriveled.jpg"
+    ],
+    "tips": [
+      "When in doubt, always wait to water. The plant will tell you when it's thirsty."
+    ]
+  },
+  "toxicity": {
+    "description": "The latex sap of the plant is toxic to cats and dogs and can cause gastrointestinal issues. The gel is generally safe, but supervision is recommended."
+  }
 }
 ]

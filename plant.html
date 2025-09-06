@@ -17,7 +17,7 @@
 
   <main id="plant-profile" class="container"></main>
 
-  <script>
+<script>
     async function loadPlant() {
       // Get the plant ID from the URL
       const params = new URLSearchParams(window.location.search);
@@ -53,7 +53,6 @@
             <img src="${plant.image}" alt="${plant.scientificName}">
           </div>
 
-          <!-- Top Cards -->
           <section class="battle-cards">
             <div class="card">
               <h3><i class="fa-solid fa-seedling"></i> Care</h3>
@@ -88,7 +87,6 @@
             </div>
           </section>
 
-          <!-- In-depth Sections -->
           <section id="care" class="card full-width">
             <h3>Plant Care</h3>
             <div class="care-section">
@@ -166,7 +164,6 @@
             </ul>
           </section>
 
-          <!-- Gallery of all images -->
           <section>
             <h3>Gallery</h3>
             <div class="gallery">
