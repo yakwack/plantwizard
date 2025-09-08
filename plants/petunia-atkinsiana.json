@@ -25,8 +25,8 @@
     ],
     "detail": "Petunias are a classic choice for vibrant, colorful displays. They are annuals, meaning they complete their life cycle in one year. They require at least 6-8 hours of direct sun per day to produce a full flush of flowers. Petunias are heavy feeders and will benefit from regular fertilization. Consistent watering is essential, as they do not like to dry out completely. To keep them looking their best, you must 'deadhead' spent flowers by pinching them off at the base. This encourages the plant to produce more blooms and prevents it from setting seed.",
     "howToImages": [
-      "images/petunia/petunia_deadhead.jpg",
-      "images/petunia/petunia_water.jpg"
+      "images/petunia/care1.jpg",
+      "images/petunia/care2.jpg"
     ]
   },
   "watering": {
@@ -41,8 +41,8 @@
     "detail": "Petunias do not like to dry out. In hot summer weather, they may need to be watered daily. It is best to water them deeply and consistently. Ensure the soil is moist but not soggy. A pot with good drainage is essential. A great sign of thirst is when the plant begins to droop, but it will quickly perk up after a good watering.",
     "frequency": "Daily in summer, otherwise every 2-3 days",
     "howToImages": [
-      "images/petunia/petunia_watering1.jpg",
-      "images/petunia/petunia_watering2.jpg"
+      "images/petunia/watering1.jpg",
+      "images/petunia/watering2.jpg"
     ]
   },
   "light": {
@@ -50,8 +50,8 @@
     "idealHours": "6-8 hours",
     "detail": "Petunias are sun-loving plants that need plenty of direct sunlight to thrive. A location with full sun for at least 6 hours a day is essential for a good show of blooms. If they do not receive enough sun, the stems will become long and leggy, and they will produce very few flowers.",
     "howToImages": [
-      "images/petunia/petunia_sun1.jpg",
-      "images/petunia/petunia_sun2.jpg"
+      "images/petunia/light1.jpg",
+      "images/petunia/light2.jpg"
     ],
     "tips": [
       "Plant in your sunniest spot.",
@@ -62,8 +62,8 @@
     "description": "A well-draining, rich potting mix is best.",
     "detail": "Use a high-quality potting mix that is rich in organic matter and has good drainage. A standard potting mix is usually sufficient. Since petunias are heavy feeders, a mix that contains some slow-release fertilizer can be beneficial. Avoid heavy clay soils that retain too much moisture.",
     "howToImages": [
-      "images/petunia/petunia_medium1.jpg",
-      "images/petunia/petunia_medium2.jpg"
+      "images/petunia/medium1.jpg",
+      "images/petunia/medium2.jpg"
     ],
     "tips": [
       "Add compost or manure to the soil for extra nutrients.",
@@ -78,15 +78,15 @@
       "Rooting hormone can help increase the success rate."
     ],
     "howToImages": [
-      "images/petunia/petunia_cutting.jpg",
-      "images/petunia/petunia_seed.jpg"
+      "images/petunia/cutting.jpg",
+      "images/petunia/seed.jpg"
     ]
   },
   "issues": {
     "description": "Common issues include leggy growth from lack of sun and yellowing leaves from overwatering.",
     "image": [
-      "images/petunia/petunia_drooping.jpg",
-      "images/petunia/petunia_yellow.jpg"
+      "images/petunia/drooping.jpg",
+      "images/petunia/yellow.jpg"
     ],
     "tips": [
       "If the plant looks sad, check for proper watering and sun exposure."

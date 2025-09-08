@@ -17,6 +17,24 @@
     ]
   },
   {
+    "id": "aloe-vera",
+    "scientificName": "Aloe vera",
+    "commonNames": [
+      "Aloe",
+      "Burn Plant",
+      "Medicine Plant"
+    ],
+    "thumbnail": "images/aloe-vera/aloe1.jpg",
+    "tags": [
+      "succulent",
+      "medicinal",
+      "drought-tolerant",
+      "easy-care",
+      "bright-light",
+      "non-toxic"
+    ]
+  },
+  {
     "id": "caladium-bicolor",
     "scientificName": "Caladium bicolor",
     "commonNames": [
