@@ -1,0 +1,103 @@
+{
+  "id": "pelargonium-crispum",
+  "scientificName": "Pelargonium crispum",
+  "etymology": "The genus name 'Pelargonium' is derived from the Greek word 'pelargos', meaning 'stork', due to the resemblance of the plant's seedpod to a stork's bill. 'Crispum' is a Latin word meaning 'curled' or 'wavy', referring to the crinkled edges of the leaves.",
+  "history": "Native to the Western and Eastern Cape provinces of South Africa, this plant was introduced to Europe in the 18th century. It became a popular ornamental plant, especially for its fragrant, lemon-scented leaves, which were used in perfumes and potpourri.",
+  "commonNames": [
+    "Lemon Scented Geranium",
+    "Scented Geranium"
+  ],
+  "image": "images/pelargonium-crispum/main.jpg",
+  "gallery": [
+    "images/pelargonium-crispum/plant1.jpg",
+    "images/pelargonium-crispum/plant2.jpg",
+    "images/pelargonium-crispum/plant3.jpg"
+  ],
+  "tags": [
+    "scented plant",
+    "drought tolerant",
+    "mediterranean"
+  ],
+  "care": {
+    "description": "A relatively easy-to-care-for plant that thrives in sunny, well-draining conditions.",
+    "tips": [
+      "Prune regularly to maintain a bushy shape.",
+      "Bring indoors or protect from frost in colder climates."
+    ],
+    "issues": [
+      "<strong>Leggy growth:</strong> Caused by insufficient light. Move to a sunnier location and prune to encourage bushier growth.",
+      "<strong>Yellowing leaves:</strong> Often due to overwatering or poor drainage. Reduce watering frequency and ensure the pot has drainage holes."
+    ],
+    "detail": "Pelargonium crispum is a sun-loving plant that prefers dry, Mediterranean-like conditions. It is relatively drought-tolerant and doesn't like to sit in wet soil, which can lead to root rot. Regular pruning will help keep the plant compact and encourage a fuller appearance. It can be grown outdoors in warmer climates and as a houseplant or in containers in cooler regions.",
+    "howToImages": [
+      "images/pelargonium-crispum/care1.jpg",
+      "images/pelargonium-crispum/care2.jpg"
+    ]
+  },
+  "watering": {
+    "description": "Water thoroughly, but allow the soil to dry out almost completely between waterings.",
+    "tips": [
+      "Water less frequently in winter when the plant's growth slows.",
+      "Check the soil moisture with your finger before watering."
+    ],
+    "issues": [
+      "Overwatering is the primary cause of issues, leading to root rot and fungal diseases."
+    ],
+    "detail": "As a plant adapted to arid environments, Pelargonium crispum prefers to be on the drier side. It is much more tolerant of underwatering than overwatering. Soggy soil is detrimental and will cause the roots to rot quickly. Water deeply when you do water, and then allow the soil to become quite dry before the next watering cycle.",
+    "frequency": "Every 1-2 weeks in summer, less in winter.",
+    "howToImages": [
+      "images/pelargonium-crispum/watering1.jpg",
+      "images/pelargonium-crispum/watering2.jpg"
+    ]
+  },
+  "light": {
+    "description": "Requires at least 6 hours of full sun daily.",
+    "idealHours": "6-8 hours of direct sunlight.",
+    "detail": "This plant thrives in full sun. Insufficient light will lead to weak, leggy stems and fewer fragrant leaves. When grown indoors, a south-facing window is ideal. It can also be placed outdoors in a sunny spot during the warmer months.",
+    "howToImages": [
+      "images/pelargonium-crispum/light1.jpg",
+      "images/pelargonium-crispum/light2.jpg"
+    ],
+    "tips": [
+      "Provide as much direct sun as possible.",
+      "Move the plant gradually if transitioning from a low-light to high-light environment."
+    ]
+  },
+  "medium": {
+    "description": "Prefers a well-draining potting mix.",
+    "detail": "A cactus or succulent mix is a great choice for this plant, as it provides the sharp drainage needed. A standard potting mix can be amended with perlite, coarse sand, or pumice to improve drainage and prevent the soil from becoming waterlogged.",
+    "howToImages": [
+      "images/pelargonium-crispum/medium1.jpg",
+      "images/pelargonium-crispum/medium2.jpg"
+    ],
+    "tips": [
+      "Ensure the pot has adequate drainage holes.",
+      "Avoid heavy clay-based soils."
+    ]
+  },
+  "propagation": {
+    "description": "Easily propagated by stem cuttings.",
+    "detail": "To propagate, take a 4-6 inch cutting from a healthy stem, just below a leaf node. Remove the lower leaves and allow the cut end to callus for a day or two before planting in a sterile, well-draining potting mix. Keep the soil lightly moist and place in a bright, warm location. Roots should form in a few weeks.",
+    "tips": [
+      "Use a rooting hormone to increase success rate.",
+      "Propagate in spring or early summer."
+    ],
+    "howToImages": [
+      "images/pelargonium-crispum/prop1.jpg",
+      "images/pelargonium-crispum/prop2.jpg"
+    ]
+  },
+  "issues": {
+    "description": "Fungal issues like botrytis and root rot are common in overly wet conditions. Pests can include whiteflies and aphids.",
+    "image": [
+      "images/pelargonium-crispum/issue1.jpg",
+      "images/pelargonium-crispum/issue2.jpg"
+    ],
+    "tips": [
+      "Ensure good air circulation and avoid overwatering to prevent fungal diseases."
+    ]
+  },
+  "toxicity": {
+    "description": "Toxic to cats and dogs if ingested, causing dermatitis, vomiting, and loss of appetite."
+  }
+}

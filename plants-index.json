@@ -104,6 +104,20 @@
     ]
   },
   {
+    "id": "dracaena-sanderiana",
+    "scientificName": "Dracaena sanderiana",
+    "commonNames": [
+      "Lucky Bamboo",
+      "Ribbon Dracaena"
+    ],
+    "thumbnail": "images/dracaena-sanderiana/plant1.jpg",
+    "tags": [
+      "indoor plant",
+      "easy care",
+      "feng shui"
+    ]
+  },
+  {
     "id": "dracaena-trifasciata",
     "scientificName": "Dracaena trifasciata",
     "commonNames": [
@@ -205,6 +219,21 @@
     ]
   },
   {
+    "id": "maranta-leuconeura",
+    "scientificName": "Maranta leuconeura",
+    "commonNames": [
+      "Prayer Plant",
+      "Herringbone Plant",
+      "Rabbit Tracks"
+    ],
+    "thumbnail": "images/maranta-leuconeura/plant1.jpg",
+    "tags": [
+      "indoor plant",
+      "tropical",
+      "low light"
+    ]
+  },
+  {
     "id": "monstera-adansonii",
     "scientificName": "Monstera adansonii",
     "commonNames": [
@@ -236,6 +265,20 @@
       "medium-care",
       "fenestrations",
       "air-purifying"
+    ]
+  },
+  {
+    "id": "pelargonium-crispum",
+    "scientificName": "Pelargonium crispum",
+    "commonNames": [
+      "Lemon Scented Geranium",
+      "Scented Geranium"
+    ],
+    "thumbnail": "images/pelargonium-crispum/plant1.jpg",
+    "tags": [
+      "scented plant",
+      "drought tolerant",
+      "mediterranean"
     ]
   },
   {

@@ -1,0 +1,103 @@
+{
+  "id": "dracaena-sanderiana",
+  "scientificName": "Dracaena sanderiana",
+  "etymology": "Named after Henry Frederick Conrad Sander, a German-born English orchidologist. The genus name 'Dracaena' comes from the Greek 'drakaina', meaning female dragon, referring to the red resin found in some species.",
+  "history": "Native to Central Africa, this plant is not a bamboo despite its appearance and common name. It has been cultivated for centuries in Asia and is a prominent part of Feng Shui, where arrangements are used to bring luck and prosperity.",
+  "commonNames": [
+    "Lucky Bamboo",
+    "Ribbon Dracaena"
+  ],
+  "image": "images/dracaena-sanderiana/main.jpg",
+  "gallery": [
+    "images/dracaena-sanderiana/plant1.jpg",
+    "images/dracaena-sanderiana/plant2.jpg",
+    "images/dracaena-sanderiana/plant3.jpg"
+  ],
+  "tags": [
+    "indoor plant",
+    "easy care",
+    "feng shui"
+  ],
+  "care": {
+    "description": "Lucky Bamboo is an incredibly resilient plant that thrives in water or soil with minimal attention.",
+    "tips": [
+      "Use distilled or filtered water to prevent leaf yellowing.",
+      "Keep away from direct sunlight and cold drafts."
+    ],
+    "issues": [
+      "<strong>Yellowing leaves:</strong> Caused by tap water with high fluoride or chlorine content. Switch to purified water.",
+      "<strong>Stem rot:</strong> An issue of overwatering in soil or standing water being stagnant. Ensure proper drainage and change water weekly."
+    ],
+    "detail": "Dracaena sanderiana is a versatile plant that can be grown in either water or soil. It is known for its tolerance of low light conditions and its ability to withstand some neglect. The most common issues arise from water quality or excessive sun exposure. Maintaining stable temperatures and avoiding harsh chemicals is key to its longevity.",
+    "howToImages": [
+      "images/dracaena-sanderiana/care1.jpg",
+      "images/dracaena-sanderiana/care2.jpg"
+    ]
+  },
+  "watering": {
+    "description": "If in water, keep the roots submerged and change the water weekly. If in soil, keep the soil lightly moist.",
+    "tips": [
+      "Change the water completely once a week to prevent bacteria and algae.",
+      "Never let the water level drop too low, as this can dry out the roots."
+    ],
+    "issues": [
+      "Brown tips or yellowing stems are often a sign of using tap water with too many minerals."
+    ],
+    "detail": "Lucky Bamboo can be grown hydroponically in just water, with the roots submerged in a container of filtered water. It's crucial to change the water weekly to keep it fresh and free of bacteria. If the plant is in soil, it prefers to be kept consistently moist but not soggy. Allow the top inch of soil to dry out before watering again to prevent root rot.",
+    "frequency": "Weekly water change for hydroponic plants; every 7-10 days for soil-based plants.",
+    "howToImages": [
+      "images/dracaena-sanderiana/watering1.jpg",
+      "images/dracaena-sanderiana/watering2.jpg"
+    ]
+  },
+  "light": {
+    "description": "Prefers bright, indirect light.",
+    "idealHours": "4-6 hours of indirect light per day.",
+    "detail": "While it can tolerate low light, its growth will be slower. Direct sunlight will scorch the leaves and can cause them to yellow. A location near a window with a sheer curtain or a spot a few feet away from a bright window is ideal.",
+    "howToImages": [
+      "images/dracaena-sanderiana/light1.jpg",
+      "images/dracaena-sanderiana/light2.jpg"
+    ],
+    "tips": [
+      "Avoid placing it in direct sunlight.",
+      "If growth seems leggy, move it to a slightly brighter spot."
+    ]
+  },
+  "medium": {
+    "description": "Can be grown in water or a well-draining soil mix.",
+    "detail": "For soil-based plants, a standard houseplant potting mix with good drainage is sufficient. You can add perlite or sand to improve aeration. For water-based plants, use pebbles or decorative stones to hold the stalks upright, but they are not required for the plant's health.",
+    "howToImages": [
+      "images/dracaena-sanderiana/medium1.jpg",
+      "images/dracaena-sanderiana/medium2.jpg"
+    ],
+    "tips": [
+      "If in soil, ensure the pot has drainage holes.",
+      "Rinse pebbles/stones when changing the water to remove algae buildup."
+    ]
+  },
+  "propagation": {
+    "description": "Propagates easily from stem cuttings.",
+    "detail": "To propagate, take a cutting from a healthy stalk, ensuring it has at least one node. Place the cutting in a container with water, ensuring the node is submerged. Roots will typically form within a few weeks. You can also place the cutting directly into moist soil.",
+    "tips": [
+      "Use a clean, sharp knife to make the cut.",
+      "Place the cutting in a warm, bright location."
+    ],
+    "howToImages": [
+      "images/dracaena-sanderiana/prop1.jpg",
+      "images/dracaena-sanderiana/prop2.jpg"
+    ]
+  },
+  "issues": {
+    "description": "The most common issues are related to water quality and improper lighting. Pests are rare but can include mealybugs.",
+    "image": [
+      "images/dracaena-sanderiana/issue1.jpg",
+      "images/dracaena-sanderiana/issue2.jpg"
+    ],
+    "tips": [
+      "Regularly check for pests, especially at the base of the stems, and treat with a cotton swab dipped in rubbing alcohol."
+    ]
+  },
+  "toxicity": {
+    "description": "Toxic to cats and dogs if ingested, causing symptoms like vomiting, diarrhea, and drooling."
+  }
+}
