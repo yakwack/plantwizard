@@ -24,6 +24,9 @@ def split_json_file(input_filename='../plants.json', output_dir='../plants'):
         if not isinstance(plants_data, list):
             plants_data = [plants_data]
 
+        # Get the absolute path to the project's root directory
+        project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+
         # Iterate through each plant object in the list
         for plant in plants_data:
             # Get the plant's ID to use as the filename
@@ -38,10 +41,12 @@ def split_json_file(input_filename='../plants.json', output_dir='../plants'):
             # Check if an 'image' field exists and create its directory
             image_path = plant.get('image')
             if image_path:
-                image_dir = os.path.dirname(image_path)
-                if image_dir and not os.path.exists(image_dir):
-                    print(f"Creating directory for image: '{image_dir}'")
-                    os.makedirs(image_dir)
+                image_dir_relative = os.path.dirname(image_path)
+                image_dir_absolute = os.path.join(project_root, image_dir_relative)
+                
+                if image_dir_relative and not os.path.exists(image_dir_absolute):
+                    print(f"Creating directory for image: '{image_dir_absolute}'")
+                    os.makedirs(image_dir_absolute)
 
             # Write the individual plant object to a new file
             with open(output_filename, 'w') as out_f:
