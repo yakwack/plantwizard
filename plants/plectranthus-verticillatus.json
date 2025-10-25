@@ -27,8 +27,14 @@
     ],
     "detail": "Plectranthus verticillatus is a beautiful and incredibly forgiving plant that is perfect for beginners. It has a charming vining habit and coin-shaped leaves that will trail gracefully from a hanging basket or shelf. It thrives in bright, indirect light and likes its soil to be kept slightly moist. It's a fast grower, and you can easily prune it back to maintain its shape and fullness. Its resilience to a variety of conditions makes it a fantastic addition to almost any home.",
     "howToImages": [
-      "images/plectranthus-verticillatus/verticillatus_care1.jpg",
-      "images/plectranthus-verticillatus/verticillatus_care2.jpg"
+      {
+        "path": "images/plectranthus-verticillatus/verticillatus_care1.jpg",
+        "caption": "Plant will flow over a pot and trail down beautifully."
+      },
+      {
+        "path": "images/plectranthus-verticillatus/verticillatus_care2.jpg",
+        "caption": "Pinching the tips to encourage bushier growth."
+      }
     ]
   },
   "watering": {
@@ -43,8 +49,18 @@
     "detail": "Plectranthus verticillatus prefers to be kept evenly moist but can tolerate a bit of drying out. Water it when the top inch of soil feels dry to the touch. It is crucial to avoid overwatering, as this can cause root rot. If the leaves start to yellow and the stems feel mushy, you are overwatering. Ensure your pot has drainage holes to allow excess water to escape.",
     "frequency": "Once a week, depending on light",
     "howToImages": [
-      "images/plectranthus-verticillatus/verticillatus_watering1.jpg",
-      "images/plectranthus-verticillatus/verticillatus_watering2.jpg"
+      {
+        "path": "images/plectranthus-verticillatus/verticillatus_watering1.jpg",
+        "caption": "Watering throughly and misting the leaves will create additional humidity."
+      },
+      {
+        "path": "images/plectranthus-verticillatus/verticillatus_watering2.jpg",
+        "caption": "Do not let water pool at the bottom of the pot or on tray. Ensure good drainage."
+      },
+      {
+        "path": "images/plectranthus-verticillatus/verticillatus_watering3.jpg",
+        "caption": "Overly dry soil showing loss of leaves and leggy growth."
+      }
     ]
   },
   "light": {
@@ -52,20 +68,36 @@
     "idealHours": "4-6 hours",
     "detail": "This plant prefers bright, indirect light. Placing it near a window that gets filtered light is a great option. It can survive in lower light, but its growth will become leggy and the leaves will be smaller. Too much direct sun can scorch the leaves and cause them to turn yellow or brown.",
     "howToImages": [
-      "images/plectranthus-verticillatus/verticillatus_light1.jpg",
-      "images/plectranthus-verticillatus/verticillatus_light2.jpg"
+      {
+        "path": "images/plectranthus-verticillatus/verticillatus_light1.jpg",
+        "caption": "Ideal placement near a bright, filtered window."
+      },
+      {
+        "path": "images/plectranthus-verticillatus/verticillatus_light2.jpg",
+        "caption": "Example of leggy growth from low light."
+      },
+      {
+        "path": "images/plectranthus-verticillatus/verticillatus_light3.jpg",
+        "caption": "Yellowing leaves and scorched tips from too much direct sun."
+      }
     ],
     "tips": [
       "A location with some morning sun is ideal.",
-      "Rotate the plant regularly to ensure even, full growth."
+      "The thin leaves can scorch easily in direct afternoon sun, ensure light is filtered through a sheer curtain. or angled blinds"
     ]
   },
   "medium": {
     "description": "A well-draining, standard potting mix.",
     "detail": "Any standard, well-draining potting mix will work for this plant. A blend of peat moss, perlite, and a bit of sand can improve aeration and drainage, which is key to preventing root rot. The soil should be light and airy, not dense or compacted.",
     "howToImages": [
-      "images/plectranthus-verticillatus/verticillatus_medium1.jpg",
-      "images/plectranthus-verticillatus/verticillatus_medium2.jpg"
+      {
+        "path": "images/plectranthus-verticillatus/verticillatus_medium1.jpg",
+        "caption": "Standard potting mix with some added perlite and bark for drainage."
+      },
+      {
+        "path": "images/plectranthus-verticillatus/verticillatus_medium2.jpg",
+        "caption": "A loamy soal drained well at the bottom will keep it moist and humid but not soggy."
+      }
     ],
     "tips": [
       "Ensure the pot has drainage holes.",
@@ -80,8 +112,14 @@
       "Take several cuttings to create a new, full plant."
     ],
     "howToImages": [
-      "images/plectranthus-verticillatus/verticillatus_cut.jpg",
-      "images/plectranthus-verticillatus/verticillatus_root.jpg"
+      {
+        "path": "images/plectranthus-verticillatus/verticillatus_cut.jpg",
+        "caption": "Taking a clean stem cutting, just below a leaf node"
+      },
+      {
+        "path": "images/plectranthus-verticillatus/verticillatus_root.jpg",
+        "caption": "Cuttings rooting quickly in water."
+      }
     ]
   },
   "issues": {

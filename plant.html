@@ -29,7 +29,7 @@
       }
 
       try {
-        // Fetch the specific JSON file for the plant
+        // Fetch the specific JSON file for the plant (assuming a file-per-plant setup, e.g., plants/monstera.json)
         const res = await fetch(`plants/${plantId}.json`);
         
         // Handle cases where the file doesn't exist
@@ -42,13 +42,17 @@
         const plant = await res.json();
         
         const profile = document.getElementById("plant-profile");
+        
+        // Use optional chaining (?.) to prevent crashes if a top-level object is missing
+        // This is the most effective way to prevent the "Cannot read properties of undefined" error.
+        
         profile.innerHTML = `
           <div class="profile-header">
             <div>
               <h2>${plant.scientificName}</h2>
               <p><strong><em>Etymology:</em></strong> ${plant.etymology}</p>
-              <p><strong><em>Common Names:</em></strong> ${plant.commonNames.join(", ")}</p>
-              <p><strong><em>History:</em></strong> ${plant.history}</p>
+              <p><strong><em>Common Names:</em></strong> ${plant.commonNames?.join(", ") || 'N/A'}</p>
+              <p><strong><em>History:</em>:</strong> ${plant.history}</p>
             </div>
             <img src="${plant.image}" alt="${plant.scientificName}">
           </div>
@@ -56,35 +60,43 @@
           <section class="battle-cards">
             <div class="card">
               <h3><i class="fa-solid fa-seedling"></i> Care</h3>
-              <p>${plant.care.description}</p>
+              <p>${plant.care?.description || 'N/A'}</p>
             </div>
 
             <div class="card">
               <h3><i class="fa-solid fa-hand-holding-droplet"></i> Watering</h3>
-              <p>${plant.watering.description}</p>
-              <small><strong>Frequency:</strong> ${plant.watering.frequency}</small>
+              <p>${plant.watering?.description || 'N/A'}</p>
+              <small><strong>Frequency:</strong> ${plant.watering?.frequency || 'N/A'}</small>
             </div>
 
             <div class="card">
               <h3><i class="fa-solid fa-sun"></i> Light</h3>
-              <p>${plant.light.description}</p>
-              <small><strong>Ideal:</strong> ${plant.light.idealHours}</small>
+              <p>${plant.light?.description || 'N/A'}</p>
+              <small><strong>Ideal:</strong> ${plant.light?.idealHours || 'N/A'}</small>
             </div>
 
             <div class="card">
               <h3><i class="fa-brands fa-pagelines"></i> Growing Medium</h3>
-              <p>${plant.medium.description}</p>
+              <p>${plant.medium?.description || 'N/A'}</p>
             </div>
 
             <div class="card">
               <h3><i class="fa-solid fa-leaf"></i> Propagation</h3>
-              <p>${plant.propagation.description}</p>
+              <p>${plant.propagation?.description || 'N/A'}</p>
             </div>
 
             <div class="card">
               <h3><i class="fa-solid fa-book-skull"></i> Toxicity</h3>
-              <p>${plant.toxicity.description}</p>
+              <p>${plant.toxicity?.description || 'N/A'}</p>
             </div>
+
+            <div class="card">
+              <h3><i class="fa-solid fa-temperature-half"></i> Temperature</h3>
+              <p>${plant.temperature?.description || 'N/A'}</p>
+              <small><strong>Ideal Range:</strong> ${plant.temperature?.idealRange || 'N/A'}</small>
+            </div>
+
+            
           </section>
 
           <section id="care" class="card full-width">
@@ -92,9 +104,14 @@
             <div class="care-section">
               <h4>Essential Care Overview</h4>
               <div class="how-to-gallery">
-                ${Array.isArray(plant.care.howToImages) ? plant.care.howToImages.map(img => `<img src="${img}" alt="Common plant issues">`).join("") : ''}
+                ${Array.isArray(plant.care?.howToImages) ? plant.care.howToImages.map(imgData => `
+                  <figure>
+                    <img src="${imgData.path}" alt="${imgData.caption}">
+                    <figcaption>${imgData.caption}</figcaption>
+                  </figure>
+                `).join("") : ''}
               </div>
-              <p>${plant.care.detail}</p>
+              <p>${plant.care?.detail || 'N/A'}</p>
             </div>
 
             <hr>
@@ -104,7 +121,7 @@
               <br>
               <div class="issue-list">
                 <ul>
-                  ${plant.care.issues.map(t => `<li>${t}</li>`).join("")}
+                  ${plant.care?.issues ? plant.care.issues.map(t => `<li>${t}</li>`).join("") : '<li>No common issues documented.</li>'}
                 </ul>
               </div>
             </div>
@@ -114,7 +131,7 @@
             <div class="care-section additional-tips">
               <h4>Pro Tips for Success</h4>
               <ul>
-                ${plant.care.tips.map(t => `<li>${t}</li>`).join("")}
+                ${plant.care?.tips ? plant.care.tips.map(t => `<li>${t}</li>`).join("") : '<li>No tips available.</li>'}
               </ul>
             </div>
           </section>
@@ -122,52 +139,74 @@
           <section id="watering" class="card full-width">
             <h3>Watering</h3>
             <h4>How and When to Water</h4>
-            <p>${plant.watering.detail}</p>
+            <p>${plant.watering?.detail || 'N/A'}</p>
             <div class="how-to-gallery">
-              ${plant.watering.howToImages.map(img => `<img src="${img}" alt="Watering step">`).join("")}
+              ${Array.isArray(plant.watering?.howToImages) ? plant.watering.howToImages.map(imgData => `
+                <figure>
+                  <img src="${imgData.path}" alt="${imgData.caption}">
+                  <figcaption>${imgData.caption}</figcaption>
+                </figure>
+              `).join("") : ''}
             </div>
           </section>
 
           <section id="light" class="card full-width">
             <h3>Light</h3>
             <h4>Providing the Right Light</h4>
-            <p>${plant.light.detail}</p>
+            <p>${plant.light?.detail || 'N/A'}</p>
             <div class="how-to-gallery">
-              ${plant.light.howToImages.map(img => `<img src="${img}" alt="Lighting guide">`).join("")}
+              ${Array.isArray(plant.light?.howToImages) ? plant.light.howToImages.map(imgData => `
+                <figure>
+                  <img src="${imgData.path}" alt="${imgData.caption}">
+                  <figcaption>${imgData.caption}</figcaption>
+                </figure>
+              `).join("") : ''}
             </div>
             <ul>
-              ${plant.light.tips.map(t => `<li>${t}</li>`).join("")}
+              ${plant.light?.tips ? plant.light.tips.map(t => `<li>${t}</li>`).join("") : '<li>No tips available.</li>'}
             </ul>
           </section>
 
           <section id="medium" class="card full-width">
             <h3>Growing Medium</h3>
             <h4>The Right Mix for Your Plant</h4>
-            <p>${plant.medium.detail}</p>
+            <p>${plant.medium?.detail || 'N/A'}</p>
             <div class="how-to-gallery">
-              ${plant.medium.howToImages.map(img => `<img src="${img}" alt="Soil mix guide">`).join("")}
+              ${Array.isArray(plant.medium?.howToImages) ? plant.medium.howToImages.map(imgData => `
+                <figure>
+                  <img src="${imgData.path}" alt="${imgData.caption}">
+                  <figcaption>${imgData.caption}</figcaption>
+                </figure>
+              `).join("") : ''}
             </div>
             <ul>
-              ${plant.medium.tips.map(t => `<li>${t}</li>`).join("")}
+              ${plant.medium?.tips ? plant.medium.tips.map(t => `<li>${t}</li>`).join("") : '<li>No tips available.</li>'}
             </ul>
           </section>
 
           <section id="propagation" class="card full-width">
             <h3>Propagation</h3>
             <h4>How to Propagate Your Plant</h4>
-            <p>${plant.propagation.detail}</p>
+            <p>${plant.propagation?.detail || 'N/A'}</p>
             <div class="how-to-gallery">
-              ${plant.propagation.howToImages.map(img => `<img src="${img}" alt="Propagation step">`).join("")}
+              ${Array.isArray(plant.propagation?.howToImages) ? plant.propagation.howToImages.map(imgData => `
+                <figure>
+                  <img src="${imgData.path}" alt="${imgData.caption}">
+                  <figcaption>${imgData.caption}</figcaption>
+                </figure>
+              `).join("") : ''}
             </div>
             <ul>
-              ${plant.propagation.tips.map(t => `<li>${t}</li>`).join("")}
+              ${plant.propagation?.tips ? plant.propagation.tips.map(t => `<li>${t}</li>`).join("") : '<li>No tips available.</li>'}
             </ul>
           </section>
 
           <section>
             <h3>Gallery</h3>
             <div class="gallery">
-              ${plant.gallery.map(img => `<img src="${img}" alt="Image of plant in different settings">`).join("")}
+              ${Array.isArray(plant.gallery) ? plant.gallery.map((img, index) => `
+                    <img src="${img}" alt="Image of plant in different settings">
+              `).join("") : 'No gallery photos available.'}
             </div>
           </section>
         `;

@@ -36,8 +36,14 @@
     ],
     "detail": "Colocasia esculenta is a tropical plant that loves heat, humidity, and water. It grows best in full sun but can tolerate partial shade. Its large, heart-shaped leaves give it the common name 'Elephant Ear' and make it a dramatic focal point in any garden or landscape. This plant is a heavy feeder and will benefit from regular fertilization during the growing season. While its corm is a staple food in many cultures, the leaves and stems are toxic if not prepared correctly, so they should not be eaten raw.",
     "howToImages": [
-      "images/colocasia-esculenta/esculenta_care1.jpg",
-      "images/colocasia-esculenta/esculenta_care2.jpg"
+      {
+        "path": "images/colocasia-esculenta/esculenta_care1.jpg",
+        "caption": "The dramatic, large foliage of the Colocasia."
+      },
+      {
+        "path": "images/colocasia-esculenta/esculenta_care2.jpg",
+        "caption": "Colocasia thriving near a pond or water feature."
+      }
     ]
   },
   "watering": {
@@ -52,8 +58,14 @@
     "detail": "Colocasia esculenta is a thirsty plant that requires a lot of water. The soil should be kept consistently moist to wet. In hot weather, it may need to be watered daily. If grown in a pot, you can place a saucer of water underneath it to keep it hydrated. It can also be grown in a pond or a boggy area of the garden where its roots have constant access to water.",
     "frequency": "Daily in hot weather, or when the top of the soil feels dry",
     "howToImages": [
-      "images/colocasia-esculenta/esculenta_watering1.jpg",
-      "images/colocasia-esculenta/esculenta_watering2.jpg"
+      {
+        "path": "images/colocasia-esculenta/esculenta_watering1.jpg",
+        "caption": "Ensuring the soil remains consistently wet."
+      },
+      {
+        "path": "images/colocasia-esculenta/esculenta_watering2.jpg",
+        "caption": "Plant placed in a saucer of water to maintain hydration."
+      }
     ]
   },
   "light": {
@@ -61,24 +73,28 @@
     "idealHours": "6-8 hours",
     "detail": "Colocasia esculenta thrives in full sun. Place it in a spot where it receives at least 6 to 8 hours of direct sunlight a day. It can tolerate partial shade, but in too little light, the leaves will be smaller and the plant's growth will be leggy. Too much shade can also make the plant susceptible to fungal diseases.",
     "howToImages": [
-      "images/colocasia-esculenta/esculenta_light1.jpg",
-      "images/colocasia-esculenta/esculenta_light2.jpg"
-    ],
-    "tips": [
-      "In very hot climates, a bit of afternoon shade can be beneficial.",
-      "Move the plant to a sunnier spot if the leaves look pale or small."
+      {
+        "path": "images/colocasia-esculenta/esculenta_light1.jpg",
+        "caption": "Colocasia placed in a full-sun location."
+      },
+      {
+        "path": "images/colocasia-esculenta/esculenta_light2.jpg",
+        "caption": "Plant in partial shade, leading to smaller leaves."
+      }
     ]
   },
   "medium": {
     "description": "A rich, loamy, and moisture-retentive soil.",
     "detail": "Colocasia esculenta prefers a rich, organic, and moisture-retentive soil mix. A standard potting mix amended with compost and peat moss is a great choice. You can also use a heavy, clay-based soil if you are growing it in a boggy area or a pond. The soil should never be allowed to dry out completely.",
     "howToImages": [
-      "images/colocasia-esculenta/esculenta_medium1.jpg",
-      "images/colocasia-esculenta/esculenta_medium2.jpg"
-    ],
-    "tips": [
-      "For container growing, ensure the pot has drainage holes, but you can place a water saucer underneath.",
-      "Heavy clay soils are not a problem for this plant."
+      {
+        "path": "images/colocasia-esculenta/esculenta_medium1.jpg",
+        "caption": "A rich, organic soil mix."
+      },
+      {
+        "path": "images/colocasia-esculenta/esculenta_medium2.jpg",
+        "caption": "Plant growing in a heavy, bog-like soil."
+      }
     ]
   },
   "propagation": {
@@ -89,8 +105,14 @@
       "Ensure each offset has at least one root node before planting."
     ],
     "howToImages": [
-      "images/colocasia-esculenta/esculenta_prop1.jpg",
-      "images/colocasia-esculenta/esculenta_prop2.jpg"
+      {
+        "path": "images/colocasia-esculenta/esculenta_prop1.jpg",
+        "caption": "Pups (offsets) growing from the main corm."
+      },
+      {
+        "path": "images/colocasia-esculenta/esculenta_prop2.jpg",
+        "caption": "Separated pup ready for planting."
+      }
     ]
   },
   "issues": {

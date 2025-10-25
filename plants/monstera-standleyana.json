@@ -1,0 +1,137 @@
+{
+  "id": "monstera-standleyana",
+  "scientificName": "Monstera standleyana",
+  "etymology": "The genus name 'Monstera' comes from the Latin 'monstrum' (monster), referring to its unusual, large leaves. The species name 'standleyana' honors Paul Carpenter Standley, a 20th-century American botanist.",
+  "history": "Native to the tropical regions of Central America, including Costa Rica, Panama, and Nicaragua, *M. standleyana* is a lesser-known cousin of the more famous *M. deliciosa*. It is an epiphytic vine that climbs up host trees. It has become a highly sought-after houseplant for its dark green, often heavily variegated, velvety leaves, and its compact, non-fenestrating habit.",
+  "commonNames": [
+    "Monstera Standleyana",
+    "Philodendron Cobra",
+    "Five Holes Plant (Mistaken Identity)"
+  ],
+  "image": "images/monstera-standleyana/main.jpg",
+  "gallery": [
+    "images/monstera-standleyana/plant1.jpg",
+    "images/monstera-standleyana/plant2.jpg",
+    "images/monstera-standleyana/plant3.jpg"
+  ],
+  "tags": [
+    "aroid",
+    "vining",
+    "variegated",
+    "medium-care",
+    "bright-indirect",
+    "epiphyte"
+  ],
+  "care": {
+    "description": "Requires consistent warmth, high humidity, and bright, indirect light.",
+    "tips": [
+      "Provide a climbing support (moss pole) to encourage larger leaf size.",
+      "Mist regularly or use a humidifier to maintain high humidity (above 60%)."
+    ],
+    "issues": [
+      "<strong>Brown leaf tips/edges:</strong> Indicates low humidity or underwatering. Increase humidity and check soil moisture.",
+      "<strong>Yellowing lower leaves:</strong> Typically a sign of overwatering. Allow the soil to dry out more between watering."
+    ],
+    "detail": "Monstera standleyana is a moderately easy houseplant that thrives in a stable, humid environment, mimicking its tropical origins. It prefers bright, indirect light; too little light will slow growth and cause the plant to stretch (become leggy), while direct sun will scorch the leaves. This plant is a hemi-epiphyte, meaning it benefits greatly from a climbing structure like a moss pole, which can help it mature and produce larger, healthier foliage. Consistency is key\u00e2\u20ac\u201davoiding sudden temperature drops or dry air is crucial for preventing leaf damage. Dust the leaves occasionally to maximize light absorption.",
+    "howToImages": [
+      {
+        "path": "images/monstera-standleyana/care1.jpg",
+        "caption": "The beautiful splash variegation on a healthy leaf."
+      },
+      {
+        "path": "images/monstera-standleyana/care2.jpg",
+        "caption": "Plant climbing a moss pole for stability and growth."
+      }
+    ]
+  },
+  "watering": {
+    "description": "Keep soil lightly and consistently moist, allowing the top layer to dry out.",
+    "tips": [
+      "Water when the top 1-2 inches of soil feel dry.",
+      "Avoid letting the pot sit in standing water to prevent root rot."
+    ],
+    "issues": [
+      "Overwatering is the biggest threat and will cause root rot, leading to yellow, mushy leaves."
+    ],
+    "detail": "Monstera standleyana prefers consistently moist, but not soggy, soil. The best time to water is when the top 1 to 2 inches of the potting medium have dried out. Since it is sensitive to root rot, ensure that your pot has excellent drainage and empty any excess water from the saucer promptly. Reduce watering frequency significantly during the cooler winter months when the plant's growth naturally slows down.",
+    "frequency": "Once every 7-10 days in summer, less in winter",
+    "howToImages": [
+      {
+        "path": "images/monstera-standleyana/watering1.jpg",
+        "caption": "Checking the soil moisture with a finger or stick."
+      },
+      {
+        "path": "images/monstera-standleyana/watering2.jpg",
+        "caption": "Thoroughly watering until it drains from the bottom."
+      }
+    ]
+  },
+  "light": {
+    "description": "Requires bright, indirect light.",
+    "idealHours": "6-8 hours of bright, filtered light",
+    "detail": "*M. standleyana* thrives best in bright light that is filtered or indirect. An east-facing window is ideal, providing gentle morning sun. A spot a few feet back from a south- or west-facing window is also suitable, as long as the direct, harsh afternoon sun is avoided. Sufficient bright light is necessary to maintain strong growth and the vibrancy of any white/yellow variegation.",
+    "howToImages": [
+      {
+        "path": "images/monstera-standleyana/light1.jpg",
+        "caption": "Plant placed near an east-facing window for morning sun."
+      },
+      {
+        "path": "images/monstera-standleyana/light2.jpg",
+        "caption": "Example of stretching (legginess) due to low light."
+      }
+    ],
+    "tips": [
+      "Rotate the plant periodically to ensure symmetrical growth.",
+      "Avoid moving the plant to a drastically different light spot quickly."
+    ]
+  },
+  "medium": {
+    "description": "A chunky, well-draining, and airy aroid mix.",
+    "detail": "As an epiphyte, this Monstera needs a mix that is airy and allows for quick drainage to prevent soggy roots. A suitable Aroid mix can be created with 40% standard potting soil, 30% orchid bark (or coco coir chips), and 30% perlite or pumice. This blend provides the ideal balance of moisture retention and superior aeration that its roots require.",
+    "howToImages": [
+      {
+        "path": "images/monstera-standleyana/medium1.jpg",
+        "caption": "Mixing coarse orchid bark and perlite into soil."
+      },
+      {
+        "path": "images/monstera-standleyana/medium2.jpg",
+        "caption": "The finished airy, chunky aroid mix."
+      }
+    ],
+    "tips": [
+      "Use a pot with excellent drainage.",
+      "Repot every 1\u00e2\u20ac\u201c2 years to refresh the soil and check root health."
+    ]
+  },
+  "propagation": {
+    "description": "Easily propagated from stem cuttings.",
+    "detail": "Propagation is straightforward using stem cuttings. Select a healthy vine section that includes at least one node and a leaf. Make a clean cut just below the node and root the cutting in water, sphagnum moss, or a moist aroid mix. Roots typically form within a few weeks in warm, high-humidity conditions. Once the roots are 1-2 inches long, the cutting is ready to be transferred to a pot.",
+    "tips": [
+      "Ensure your cutting has at least one aerial root or node.",
+      "Rooting in sphagnum moss or a sealed clear container increases humidity and speeds rooting."
+    ],
+    "howToImages": [
+      {
+        "path": "images/monstera-standleyana/prop1.jpg",
+        "caption": "Taking a clean stem cutting with a node."
+      },
+      {
+        "path": "images/monstera-standleyana/prop2.jpg",
+        "caption": "Cutting placed in water for quick rooting."
+      }
+    ]
+  },
+  "issues": {
+    "description": "Prone to root rot from overwatering and pests like spider mites and thrips.",
+    "image": [
+      "images/monstera-standleyana/issue1.jpg",
+      "images/monstera-standleyana/issue2.jpg"
+    ],
+    "tips": [
+      "Check the underside of the leaves weekly for pests, especially in dry environments."
+    ]
+  },
+  "toxicity": {
+    "description": "Toxic to cats, dogs, and humans if ingested, due to insoluble calcium oxalate crystals which cause oral irritation and swelling."
+  }
+}

@@ -33,8 +33,14 @@
     ],
     "detail": "Sweet William is a beautiful and fragrant plant that is a fantastic addition to any garden. It thrives in full sun and well-draining soil. It is a biennial plant, meaning it will grow foliage in its first year and then produce a profusion of colorful, fragrant blooms in its second year. The plant is easy to care for and is a great choice for a border or a cottage garden. Regular deadheading of spent blooms will encourage the plant to produce more flowers and extend its blooming period.",
     "howToImages": [
-      "images/dianthus-barbatus/barbatus_care1.jpg",
-      "images/dianthus-barbatus/barbatus_care2.jpg"
+      {
+        "path": "images/dianthus-barbatus/barbatus_care1.jpg",
+        "caption": "A healthy cluster of Sweet William blooms."
+      },
+      {
+        "path": "images/dianthus-barbatus/barbatus_care2.jpg",
+        "caption": "Deadheading spent flowers to encourage new buds."
+      }
     ]
   },
   "watering": {
@@ -49,33 +55,43 @@
     "detail": "Sweet William prefers its soil to be kept evenly moist. Water deeply but infrequently, allowing the top of the soil to dry out between waterings. Once established, the plant is quite drought-tolerant. It is important to avoid overhead watering, which can lead to fungal diseases like rust and powdery mildew.",
     "frequency": "Once a week, or when soil feels dry",
     "howToImages": [
-      "images/dianthus-barbatus/barbatus_watering1.jpg",
-      "images/dianthus-barbatus/barbatus_watering2.jpg"
+      {
+        "path": "images/dianthus-barbatus/barbatus_watering1.jpg",
+        "caption": "Checking for dry soil between waterings."
+      },
+      {
+        "path": "images/dianthus-barbatus/barbatus_watering2.jpg",
+        "caption": "Watering at the base to keep foliage dry."
+      }
     ]
   },
   "light": {
     "description": "Requires at least 6 hours of full sun per day.",
     "idealHours": "6-8 hours",
-    "detail": "Sweet William is a sun-loving plant that needs plenty of direct sunlight to thrive and produce a full show of blooms. A location with full sun for at least 6 hours a day is ideal. It can tolerate some partial shade, but too little sun will result in leggy growth and fewer flowers.",
+    "detail": "Sweet William is a sun-loving plant that needs plenty of direct sunlight to thrive and produce a full show of blooms. A location with full sun for at least 6 hours a day is essential. It can tolerate some partial shade, but too little sun will result in leggy growth and fewer flowers.",
     "howToImages": [
-      "images/dianthus-barbatus/barbatus_light1.jpg",
-      "images/dianthus-barbatus/barbatus_light2.jpg"
-    ],
-    "tips": [
-      "Full sun is crucial for blooming.",
-      "The plant will not flower in a shady spot."
+      {
+        "path": "images/dianthus-barbatus/barbatus_light1.jpg",
+        "caption": "Sweet William planted in a full-sun border."
+      },
+      {
+        "path": "images/dianthus-barbatus/barbatus_light2.jpg",
+        "caption": "Example of a location receiving 6+ hours of direct sun."
+      }
     ]
   },
   "medium": {
     "description": "A well-draining, slightly alkaline soil.",
     "detail": "Sweet William prefers a well-draining, slightly alkaline soil. A standard garden soil with good drainage is usually sufficient. You can amend the soil with some lime to increase the pH if it is too acidic. Avoid heavy clay soils that retain too much moisture.",
     "howToImages": [
-      "images/dianthus-barbatus/barbatus_medium1.jpg",
-      "images/dianthus-barbatus/barbatus_medium2.jpg"
-    ],
-    "tips": [
-      "Ensure the soil drains well to prevent root rot.",
-      "A mix of garden soil, compost, and sand is a great blend."
+      {
+        "path": "images/dianthus-barbatus/barbatus_medium1.jpg",
+        "caption": "Example of well-draining garden soil."
+      },
+      {
+        "path": "images/dianthus-barbatus/barbatus_medium2.jpg",
+        "caption": "Amending soil with lime to increase alkalinity."
+      }
     ]
   },
   "propagation": {
@@ -86,8 +102,14 @@
       "Cuttings should be taken from non-flowering stems."
     ],
     "howToImages": [
-      "images/dianthus-barbatus/barbatus_seed.jpg",
-      "images/dianthus-barbatus/barbatus_cut.jpg"
+      {
+        "path": "images/dianthus-barbatus/barbatus_seed.jpg",
+        "caption": "Sowing seeds directly into the garden soil."
+      },
+      {
+        "path": "images/dianthus-barbatus/barbatus_cut.jpg",
+        "caption": "Planting a stem cutting in a pot with moist soil."
+      }
     ]
   },
   "issues": {

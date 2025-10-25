@@ -35,8 +35,14 @@
     ],
     "detail": "Schlumbergera truncata, commonly called the Thanksgiving or Christmas Cactus, is a unique, segmented succulent that thrives in cool, humid environments. It is not a desert cactus and should not be treated as one. To ensure it blooms each year, it needs a period of short days and cool temperatures in the fall. Its care is simple: give it bright, indirect light, and water when the top few inches of soil are dry. Avoid placing it near heat vents or drafts, which can cause its buds to drop. This plant is a festive addition to any home, offering beautiful blooms when most other plants are dormant.",
     "howToImages": [
-      "images/schlumbergera-truncata/truncata_care1.jpg",
-      "images/schlumbergera-truncata/truncata_care2.jpg"
+      {
+        "path": "images/schlumbergera-truncata/truncata_care1.jpg",
+        "caption": "The segmented, flattened stem structure."
+      },
+      {
+        "path": "images/schlumbergera-truncata/truncata_care2.jpg",
+        "caption": "A plant covered in vibrant holiday blooms."
+      }
     ]
   },
   "watering": {
@@ -51,8 +57,14 @@
     "detail": "Unlike desert cacti, Schlumbergera truncata prefers to be kept consistently moist during its blooming cycle, but not soggy. Allow the top inch or two of soil to dry out before watering again. During the fall, as you're encouraging blooms, water lightly. Once the plant has finished flowering, reduce watering significantly until spring. Ensure the pot has good drainage to prevent root rot.",
     "frequency": "Every 1-2 weeks during blooming season, less in winter",
     "howToImages": [
-      "images/schlumbergera-truncata/truncata_watering1.jpg",
-      "images/schlumbergera-truncata/truncata_watering2.jpg"
+      {
+        "path": "images/schlumbergera-truncata/truncata_watering1.jpg",
+        "caption": "Checking the top few inches of soil for dryness."
+      },
+      {
+        "path": "images/schlumbergera-truncata/truncata_watering2.jpg",
+        "caption": "Thoroughly watering the plant during the blooming period."
+      }
     ]
   },
   "light": {
@@ -60,8 +72,14 @@
     "idealHours": "4-6 hours",
     "detail": "This plant thrives in bright, indirect light. A spot near an east-facing window is ideal, where it can get some gentle morning sun. Direct, harsh afternoon sun can burn the leaves. In the fall, to stimulate blooming, the plant requires a period of 12-14 hours of complete darkness per day for about six weeks. Place it in a room that is not used in the evening, or cover it with a box.",
     "howToImages": [
-      "images/schlumbergera-truncata/truncata_light1.jpg",
-      "images/schlumbergera-truncata/truncata_light2.jpg"
+      {
+        "path": "images/schlumbergera-truncata/truncata_light1.jpg",
+        "caption": "Plant placed near an east-facing window for ideal light."
+      },
+      {
+        "path": "images/schlumbergera-truncata/truncata_light2.jpg",
+        "caption": "A plant placed under a box for the required fall darkness."
+      }
     ],
     "tips": [
       "Too much sun can cause the leaves to turn a reddish color.",
@@ -72,8 +90,14 @@
     "description": "A well-draining, chunky soil mix.",
     "detail": "Use a well-draining soil mix that is specifically designed for cacti and succulents. You can also create your own blend of standard potting soil with perlite and sand to improve drainage. This plant is an epiphyte, so it needs an airy soil mix that does not hold too much water.",
     "howToImages": [
-      "images/schlumbergera-truncata/truncata_medium1.jpg",
-      "images/schlumbergera-truncata/truncata_medium2.jpg"
+      {
+        "path": "images/schlumbergera-truncata/truncata_medium1.jpg",
+        "caption": "A suitable cactus and succulent soil mix."
+      },
+      {
+        "path": "images/schlumbergera-truncata/truncata_medium2.jpg",
+        "caption": "Amending soil with chunky materials for aeration."
+      }
     ],
     "tips": [
       "A mix with orchid bark or coco coir will help with aeration.",
@@ -88,8 +112,14 @@
       "A small pot is best for a single cutting."
     ],
     "howToImages": [
-      "images/schlumbergera-truncata/truncata_cut.jpg",
-      "images/schlumbergera-truncata/truncata_prop.jpg"
+      {
+        "path": "images/schlumbergera-truncata/truncata_cut.jpg",
+        "caption": "Gently twisting off a stem segment for a cutting."
+      },
+      {
+        "path": "images/schlumbergera-truncata/truncata_prop.jpg",
+        "caption": "Segment placed in soil after callousing."
+      }
     ]
   },
   "issues": {

@@ -2,7 +2,7 @@
   "id": "monstera",
   "scientificName": "Monstera deliciosa",
   "etymology": "From Latin 'monstrum' (monster) referring to its unusually perforated leaves, and 'deliciosa' meaning delicious, describing its edible fruit.",
-  "history": "Native to tropical forests of southern Mexico, Monstera deliciosa has been cultivated as a houseplant worldwide since the 19th century due to its striking foliage and ease of care.",
+  "history": "Native to tropical forests of southern Mexico, Monstera deliciosa has been cultivated as a houseplant worldwide since the 1990s due to its striking foliage and ease of care.",
   "commonNames": [
     "Swiss Cheese Plant",
     "Mexican Breadfruit",
@@ -29,8 +29,14 @@
     ],
     "detail": "The Monstera deliciosa is a relatively low-maintenance houseplant that thrives with consistent, attentive care. It flourishes in a spot with bright, indirect light, which is crucial for the development of its signature split leaves. Water your Monstera thoroughly when the top two inches of soil feel dry to the touch, and be careful to avoid overwatering, as it can quickly lead to root rot. A well-draining soil mix that mimics its natural, chunky environment is ideal, and it will appreciate higher humidity levels, which you can provide by misting or using a humidifier. During the growing season, a regular feeding schedule with a balanced liquid fertilizer will support its vigorous growth. Pruning is beneficial to manage its size and encourage bushier growth; simply cut just below a node. Propagation is straightforward through stem cuttings, which can be rooted in water or soil. Keep an eye out for common issues such as yellowing leaves from overwatering or brown edges due to low humidity, and adjust care accordingly to keep your Monstera thriving.",
     "howToImages": [
-      "images/monstera/browning.jpg",
-      "images/monstera/yellowing.jpg"
+      {
+        "path": "images/monstera/browning.jpg",
+        "caption": "Brown edges, indicating a need for more humidity."
+      },
+      {
+        "path": "images/monstera/yellowing.jpg",
+        "caption": "Yellowing leaves, often caused by overwatering."
+      }
     ]
   },
   "watering": {
@@ -45,8 +51,14 @@
     "detail": "Water your Monstera deliciosa thoroughly when the top two inches of soil feel dry to the touch. Use room temperature water and ensure that the pot has adequate drainage holes to prevent water from sitting at the bottom, which can lead to root rot. During the growing season (spring and summer), you may need to water more frequently, while in the dormant season (fall and winter), reduce watering frequency. Always check the soil moisture before watering to avoid overwatering.",
     "frequency": "Every 1\u00e2\u20ac\u201c2 weeks depending on humidity",
     "howToImages": [
-      "images/watering_step1.jpg",
-      "images/watering_step2.jpg"
+      {
+        "path": "images/watering_step1.jpg",
+        "caption": "Use your finger to check the soil depth."
+      },
+      {
+        "path": "images/watering_step2.jpg",
+        "caption": "Allowing water to thoroughly drain from the bottom."
+      }
     ]
   },
   "light": {
@@ -54,8 +66,14 @@
     "idealHours": "6-8 hours",
     "detail": "Monsteras thrive in bright, indirect light. Placing them near a window with a sheer curtain is perfect. Direct sun can scorch their leaves, while too little light will result in leggy growth and smaller leaves without their iconic fenestrations.",
     "howToImages": [
-      "images/light_step1.jpg",
-      "images/light_step2.jpg"
+      {
+        "path": "images/light_step1.jpg",
+        "caption": "Bright, indirect light near a window."
+      },
+      {
+        "path": "images/light_step2.jpg",
+        "caption": "The effect of light on leaf fenestration (splitting)."
+      }
     ],
     "tips": [
       "Rotate the plant periodically for even growth.",
@@ -66,8 +84,14 @@
     "description": "A well-draining, chunky soil mix.",
     "detail": "Use a soil mix that is well-draining and airy to prevent root rot. A good mix includes potting soil, perlite, and a coarse material like orchid bark or coco coir. This mimics their natural environment as epiphytes. <em>epiphytes - a plant that grows on another plant but is not parasitic, such as the numerous ferns, bromeliads, air plants, and orchids growing on tree trunks in tropical rainforests.</em>Ensure the pot has drainage holes to allow excess water to escape.",
     "howToImages": [
-      "images/medium_step1.jpg",
-      "images/medium_step2.jpg"
+      {
+        "path": "images/medium_step1.jpg",
+        "caption": "Example of a chunky, well-draining soil mix."
+      },
+      {
+        "path": "images/medium_step2.jpg",
+        "caption": "Mixing in perlite and orchid bark for aeration."
+      }
     ],
     "tips": [
       "Always use a pot with drainage holes.",
@@ -82,8 +106,14 @@
       "Keep cuttings in a warm, humid environment"
     ],
     "howToImages": [
-      "images/monstera_cut.jpg",
-      "images/monstera_root.jpg"
+      {
+        "path": "images/monstera_cut.jpg",
+        "caption": "Making a clean cut just below the node."
+      },
+      {
+        "path": "images/monstera_root.jpg",
+        "caption": "Node submerged in water for rooting."
+      }
     ]
   },
   "issues": {

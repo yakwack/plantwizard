@@ -26,8 +26,14 @@
     ],
     "detail": "Monstera adansonii is a beautiful vining plant known for its unique 'holey' leaves. It is a faster grower than its larger cousin, Monstera deliciosa, and will thrive in a warm, humid environment with plenty of bright, indirect light. A chunky, well-draining soil mix is essential to prevent root rot. You can let the vines trail from a hanging basket, or for a more impressive plant with larger leaves, provide a moss pole or trellis for it to climb. It's a great choice for adding a touch of the jungle to your home.",
     "howToImages": [
-      "images/monstera-adansonii/adansonii_watering.jpg",
-      "images/monstera-adansonii/adansonii_light.jpg"
+      {
+        "path": "images/monstera-adansonii/adansonii_watering.jpg",
+        "caption": "Checking the top layer of soil for dryness."
+      },
+      {
+        "path": "images/monstera-adansonii/adansonii_light.jpg",
+        "caption": "The distinctive fenestrations (holes) on the leaves."
+      }
     ]
   },
   "watering": {
@@ -42,8 +48,14 @@
     "detail": "Water your Monstera adansonii when the top inch or two of soil has dried out. It's important to let the soil dry out a bit between waterings to prevent root rot. In the summer, you may need to water more frequently, while in the winter months, you can cut back. The plant will show signs of thirst by having slightly drooping leaves, and it will quickly perk up after a good watering.",
     "frequency": "Every 1\u00e2\u20ac\u201c2 weeks, depending on humidity and light",
     "howToImages": [
-      "images/monstera-adansonii/adansonii_drysoil.jpg",
-      "images/monstera-adansonii/adansonii_soak.jpg"
+      {
+        "path": "images/monstera-adansonii/adansonii_drysoil.jpg",
+        "caption": "Soil that is dry to the touch on the surface."
+      },
+      {
+        "path": "images/monstera-adansonii/adansonii_soak.jpg",
+        "caption": "Thoroughly soaking the soil until water runs through."
+      }
     ]
   },
   "light": {
@@ -51,8 +63,14 @@
     "idealHours": "6-8 hours",
     "detail": "Monstera adansonii thrives in bright, indirect light. Placing it near a window that gets filtered light is a perfect location. Avoid direct sunlight, as it can burn the delicate leaves. In too little light, the plant's growth will slow, and its leaves will not develop their signature holes and may be smaller than normal.",
     "howToImages": [
-      "images/monstera-adansonii/adansonii_light1.jpg",
-      "images/monstera-adansonii/adansonii_light2.jpg"
+      {
+        "path": "images/monstera-adansonii/adansonii_light1.jpg",
+        "caption": "Plant placed near a bright, indirect light source."
+      },
+      {
+        "path": "images/monstera-adansonii/adansonii_light2.jpg",
+        "caption": "Vines climbing a moss pole for larger leaf growth."
+      }
     ],
     "tips": [
       "Rotate the plant regularly for even growth.",
@@ -63,8 +81,14 @@
     "description": "A chunky, airy, and well-draining soil mix.",
     "detail": "A well-draining, airy soil mix is essential for a Monstera adansonii. A mix of potting soil, perlite, and a coarse material like orchid bark or coco coir will work best. This mimics its natural environment and helps prevent the roots from becoming waterlogged. Ensure your pot has good drainage holes.",
     "howToImages": [
-      "images/monstera-adansonii/adansonii_medium1.jpg",
-      "images/monstera-adansonii/adansonii_medium2.jpg"
+      {
+        "path": "images/monstera-adansonii/adansonii_medium1.jpg",
+        "caption": "A chunky soil mix with orchid bark and perlite."
+      },
+      {
+        "path": "images/monstera-adansonii/adansonii_medium2.jpg",
+        "caption": "Ensuring the pot has good drainage holes."
+      }
     ],
     "tips": [
       "A soil mix that is too dense can lead to root rot.",
@@ -79,8 +103,14 @@
       "A propagation box or bag can help maintain humidity for faster rooting."
     ],
     "howToImages": [
-      "images/monstera-adansonii/adansonii_cut.jpg",
-      "images/monstera-adansonii/adansonii_root.jpg"
+      {
+        "path": "images/monstera-adansonii/adansonii_cut.jpg",
+        "caption": "Making a cut just below a healthy node."
+      },
+      {
+        "path": "images/monstera-adansonii/adansonii_root.jpg",
+        "caption": "Rooting a cutting in water."
+      }
     ]
   },
   "issues": {

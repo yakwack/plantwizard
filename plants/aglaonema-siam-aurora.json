@@ -34,8 +34,14 @@
     ],
     "detail": "Aglaonema 'Siam Aurora' is a stunning plant that adds a pop of color to any room. It is very forgiving and thrives in a wide range of light conditions, from low to bright, indirect light. For the best color, it is recommended to give it some bright, indirect light. The plant prefers its soil to be kept consistently moist but not soggy. It is sensitive to cold, so keep it in a warm room away from drafts.",
     "howToImages": [
-      "images/aglaonema-siam-aurora/aurora_care1.jpg",
-      "images/aglaonema-siam-aurora/aurora_care2.jpg"
+      {
+        "path": "images/aglaonema-siam-aurora/aurora_care1.jpg",
+        "caption": "The vibrant red and pink margins on the leaves."
+      },
+      {
+        "path": "images/aglaonema-siam-aurora/aurora_care2.jpg",
+        "caption": "Wiping the leaves to maintain shine."
+      }
     ]
   },
   "watering": {
@@ -50,8 +56,14 @@
     "detail": "Water your Aglaonema when the top inch or two of soil feels dry to the touch. The plant is prone to root rot if the soil stays waterlogged, so it is crucial to avoid overwatering. In the winter, reduce watering frequency. The plant will tolerate being underwatered better than it will tolerate being overwatered.",
     "frequency": "Every 1-2 weeks, depending on light",
     "howToImages": [
-      "images/aglaonema-siam-aurora/aurora_watering1.jpg",
-      "images/aglaonema-siam-aurora/aurora_watering2.jpg"
+      {
+        "path": "images/aglaonema-siam-aurora/aurora_watering1.jpg",
+        "caption": "Checking the soil moisture before watering."
+      },
+      {
+        "path": "images/aglaonema-siam-aurora/aurora_watering2.jpg",
+        "caption": "Watering until the soil is evenly moist."
+      }
     ]
   },
   "light": {
@@ -59,24 +71,28 @@
     "idealHours": "4-6 hours",
     "detail": "Aglaonema 'Siam Aurora' can survive in low-light conditions, but its colors will be most vibrant in bright, indirect light. Place it near an east- or north-facing window for best results. Avoid any direct, harsh sunlight, as this will scorch the leaves. If the plant's colors start to fade, it's a sign that it needs more light.",
     "howToImages": [
-      "images/aglaonema-siam-aurora/aurora_light1.jpg",
-      "images/aglaonema-siam-aurora/aurora_light2.jpg"
-    ],
-    "tips": [
-      "Lower light will cause the plant to grow slower.",
-      "A little bit of morning sun is fine, but avoid afternoon sun."
+      {
+        "path": "images/aglaonema-siam-aurora/aurora_light1.jpg",
+        "caption": "Placed in a bright, indirect light spot."
+      },
+      {
+        "path": "images/aglaonema-siam-aurora/aurora_light2.jpg",
+        "caption": "The colors are less vibrant in a low-light setting."
+      }
     ]
   },
   "medium": {
     "description": "A well-draining, slightly acidic potting mix.",
     "detail": "Use a standard, well-draining potting mix that retains a bit of moisture. A mix with peat moss, perlite, and sand is a good choice. This combination provides the right balance of moisture retention and drainage, which is crucial for this plant's health.",
     "howToImages": [
-      "images/aglaonema-siam-aurora/aurora_medium1.jpg",
-      "images/aglaonema-siam-aurora/aurora_medium2.jpg"
-    ],
-    "tips": [
-      "Repot every 2-3 years to refresh the soil.",
-      "Ensure the pot has good drainage holes."
+      {
+        "path": "images/aglaonema-siam-aurora/aurora_medium1.jpg",
+        "caption": "A well-draining potting mix with moisture retention."
+      },
+      {
+        "path": "images/aglaonema-siam-aurora/aurora_medium2.jpg",
+        "caption": "Checking the soil to ensure it is not too compacted."
+      }
     ]
   },
   "propagation": {
@@ -87,8 +103,14 @@
       "Rooting hormone can help increase the success rate."
     ],
     "howToImages": [
-      "images/aglaonema-siam-aurora/aurora_cut.jpg",
-      "images/aglaonema-siam-aurora/aurora_root.jpg"
+      {
+        "path": "images/aglaonema-siam-aurora/aurora_cut.jpg",
+        "caption": "Taking a stem cutting with a node."
+      },
+      {
+        "path": "images/aglaonema-siam-aurora/aurora_root.jpg",
+        "caption": "Cutting rooting in a jar of water."
+      }
     ]
   },
   "issues": {

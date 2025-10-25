@@ -36,8 +36,14 @@
     ],
     "detail": "Aloe vera is a versatile succulent that is incredibly easy to care for. It thrives in bright, indirect light and tolerates some direct sun, but too much can scorch its leaves. The plant stores water in its thick, fleshy leaves, making it very drought-tolerant and forgiving of neglect. The key to its care is proper watering: only water when the soil has completely dried out. It is a slow grower but will eventually produce 'pups,' which can be separated to create new plants.",
     "howToImages": [
-      "images/aloe-vera/care1.jpg",
-      "images/aloe-vera/care2.jpg"
+      {
+        "path": "images/aloe-vera/care1.jpg",
+        "caption": "The fleshy, water-storing leaves of the Aloe."
+      },
+      {
+        "path": "images/aloe-vera/care2.jpg",
+        "caption": "Removing gel from a leaf for medicinal use."
+      }
     ]
   },
   "watering": {
@@ -52,8 +58,14 @@
     "detail": "Aloe vera is very sensitive to overwatering. The soil should be allowed to dry out completely between waterings. The plant will tell you it's thirsty by its leaves becoming slightly shriveled and thin. Water thoroughly but infrequently, and always ensure your pot has good drainage to prevent root rot. During the winter, the plant's growth slows down, and you should reduce watering significantly.",
     "frequency": "Every 2\u00e2\u20ac\u201c4 weeks, depending on light and temperature",
     "howToImages": [
-      "images/aloe-vera/watering1.jpg",
-      "images/aloe-vera/watering2.jpg"
+      {
+        "path": "images/aloe-vera/watering1.jpg",
+        "caption": "Checking the soil deep inside the pot for dryness."
+      },
+      {
+        "path": "images/aloe-vera/watering2.jpg",
+        "caption": "Watering deeply but infrequently."
+      }
     ]
   },
   "light": {
@@ -61,8 +73,14 @@
     "idealHours": "6-8 hours",
     "detail": "Aloe vera thrives in bright, indirect light. An east- or west-facing window is an ideal spot. It can tolerate some direct morning sun, but avoid harsh afternoon sun, which can burn its leaves and cause them to turn reddish-brown. If the leaves look thin and pale, it's a sign the plant needs more light.",
     "howToImages": [
-      "images/aloe-vera/light1.jpg",
-      "images/aloe-vera/light2.jpg"
+      {
+        "path": "images/aloe-vera/light1.jpg",
+        "caption": "Aloe placed near a bright, east-facing window."
+      },
+      {
+        "path": "images/aloe-vera/light2.jpg",
+        "caption": "Example of leaves turning reddish from too much sun."
+      }
     ],
     "tips": [
       "Too much sun can cause the leaves to turn reddish.",
@@ -73,8 +91,14 @@
     "description": "A well-draining, gritty soil mix for succulents.",
     "detail": "The most important thing for an Aloe vera is drainage. Use a pre-mixed succulent or cactus soil. A standard potting mix will retain too much moisture and can lead to root rot. You can also create your own mix with potting soil, coarse sand, and perlite to ensure the soil is airy and drains quickly.",
     "howToImages": [
-      "images/aloe-vera/medium1.jpg",
-      "images/aloe-vera/medium2.jpg"
+      {
+        "path": "images/aloe-vera/medium1.jpg",
+        "caption": "A gritty succulent and cactus soil mix."
+      },
+      {
+        "path": "images/aloe-vera/medium2.jpg",
+        "caption": "Potting mix amended with perlite and sand."
+      }
     ],
     "tips": [
       "Ensure the pot has good drainage holes.",
@@ -89,8 +113,14 @@
       "Allow the cut end to heal before planting."
     ],
     "howToImages": [
-      "images/aloe-vera/prop1.jpg",
-      "images/aloe-vera/prop2.jpg"
+      {
+        "path": "images/aloe-vera/prop1.jpg",
+        "caption": "A small pup being separated from the mother plant."
+      },
+      {
+        "path": "images/aloe-vera/prop2.jpg",
+        "caption": "Pup planted in its own small pot."
+      }
     ]
   },
   "issues": {

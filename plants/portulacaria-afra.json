@@ -27,8 +27,14 @@
     ],
     "detail": "Portulacaria afra is a tough and resilient succulent that's perfect for beginners. Its care is very similar to that of a Jade plant. It thrives in bright, direct sunlight, and is very drought-tolerant. Its plump, coin-shaped leaves store water, so it's essential to let the soil dry out completely between waterings to prevent root rot. This plant is a fantastic addition to sunny windowsills, and its woody stems make it a popular choice for bonsai enthusiasts. It can also be a fast grower, so don't be afraid to prune it to maintain its desired shape and size.",
     "howToImages": [
-      "images/portulacaria-afra/afra_watering.jpg",
-      "images/portulacaria-afra/afra_light.jpg"
+      {
+        "path": "images/portulacaria-afra/afra_watering.jpg",
+        "caption": "The plump, water-storing leaves of the Elephant Bush."
+      },
+      {
+        "path": "images/portulacaria-afra/afra_light.jpg",
+        "caption": "Its woody stems make it ideal for bonsai shaping."
+      }
     ]
   },
   "watering": {
@@ -43,8 +49,14 @@
     "detail": "As a succulent, Portulacaria afra is very sensitive to overwatering. Water thoroughly, but only when the soil has completely dried out. In summer, this might be every few weeks, but in winter, it could be once a month or even less. The plant's leaves will start to shrivel slightly when it's thirsty, which is a good indicator that it's time to water.",
     "frequency": "Every 2\u00e2\u20ac\u201c4 weeks, depending on light",
     "howToImages": [
-      "images/portulacaria-afra/afra_drysoil.jpg",
-      "images/portulacaria-afra/afra_soaking.jpg"
+      {
+        "path": "images/portulacaria-afra/afra_drysoil.jpg",
+        "caption": "Confirming the soil is bone dry before watering."
+      },
+      {
+        "path": "images/portulacaria-afra/afra_soaking.jpg",
+        "caption": "Thoroughly soaking the soil once it is dry."
+      }
     ]
   },
   "light": {
@@ -52,8 +64,14 @@
     "idealHours": "6-8 hours",
     "detail": "Portulacaria afra performs best in full sun. Place it in your brightest window, such as a south-facing one. It can tolerate some indirect light, but its growth will become leggy and the leaves will be less dense. If you can, move it outdoors in the summer to a sunny spot for incredible growth.",
     "howToImages": [
-      "images/portulacaria-afra/afra_sun.jpg",
-      "images/portulacaria-afra/afra_outdoors.jpg"
+      {
+        "path": "images/portulacaria-afra/afra_sun.jpg",
+        "caption": "Thriving in a bright, sunny window spot."
+      },
+      {
+        "path": "images/portulacaria-afra/afra_outdoors.jpg",
+        "caption": "Placed outdoors in full sun for vigorous growth."
+      }
     ],
     "tips": [
       "A lack of sun will cause stems to be weak and leaves to be spaced far apart.",
@@ -64,8 +82,14 @@
     "description": "Use a gritty, well-draining succulent or cactus mix.",
     "detail": "The most important thing for this plant is drainage. Use a pre-mixed succulent or cactus soil, or create your own blend of potting soil, coarse sand, and perlite. The soil should be light and airy, allowing water to pass through quickly and prevent the roots from sitting in moisture.",
     "howToImages": [
-      "images/portulacaria-afra/afra_medium1.jpg",
-      "images/portulacaria-afra/afra_medium2.jpg"
+      {
+        "path": "images/portulacaria-afra/afra_medium1.jpg",
+        "caption": "Pre-mixed gritty succulent and cactus soil."
+      },
+      {
+        "path": "images/portulacaria-afra/afra_medium2.jpg",
+        "caption": "Amending soil with coarse material for drainage."
+      }
     ],
     "tips": [
       "Avoid standard potting soil alone.",
@@ -80,8 +104,14 @@
       "Wait for the cutting to 'heal' before planting."
     ],
     "howToImages": [
-      "images/portulacaria-afra/afra_cut.jpg",
-      "images/portulacaria-afra/afra_prop.jpg"
+      {
+        "path": "images/portulacaria-afra/afra_cut.jpg",
+        "caption": "Taking a stem cutting to propagate."
+      },
+      {
+        "path": "images/portulacaria-afra/afra_prop.jpg",
+        "caption": "Cutting placed directly in dry, well-draining soil."
+      }
     ]
   },
   "issues": {

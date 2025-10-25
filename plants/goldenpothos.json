@@ -13,15 +13,16 @@
     "images/goldenpothos/pothos1.jpg",
     "images/goldenpothos/pothos2.jpg",
     "images/goldenpothos/pothos3.jpg",
-    "images/goldenpothos/pothos4.jpg",
+    "images/golgenpothos/pothos4.jpg",
     "images/goldenpothos/pothos5.jpg",
     "images/goldenpothos/pothos6.jpg"
   ],
   "care": {
     "description": "A very forgiving plant that tolerates a wide range of conditions, making it perfect for beginners.",
     "tips": [
-      "Dust the leaves occasionally to help them absorb light better.",
-      "Trim back vines to encourage a bushier appearance."
+      "Does well in a standard potting mix with SOME orchid or cactus mix to create a moist but airy environment.",
+      "Dust the leaves occasionally to help them absorb light better, or try and water leaves and soil simultaneously.",
+      "Trim back vines, root them in water and replant in the same pot to create a fuller plant."
     ],
     "issues": [
       "<strong>Yellowing leaves:</strong> Usually a sign of overwatering. Allow the soil to dry out more between waterings.",
@@ -32,10 +33,22 @@
     ],
     "detail": "Golden Pothos is known as 'Devil's Ivy' because it's nearly impossible to kill and stays green even in the dark. It is an incredibly low-maintenance plant that is perfect for beginners. The Pothos can tolerate a variety of light conditions from low to bright, indirect light, but for the best growth and variegation, aim for bright, indirect light. Water only when the soil is completely dry. Overwatering is the most common cause of issues with this plant. Pothos are also excellent air purifiers, making them a great addition to any home. They are fast-growing and can be easily propagated from stem cuttings to share with friends or create a fuller plant.",
     "howToImages": [
-      "images/goldenpothos/care1.jpg",
-      "images/goldenpothos/care2.jpg",
-      "images/goldenpothos/care3.jpg",
-      "images/goldenpothos/care4.jpg"
+      {
+        "path": "images/goldenpothos/care1.jpg",
+        "caption": "Healthy Golden Pothos foliage and vines"
+      },
+      {
+        "path": "images/goldenpothos/care2.jpg",
+        "caption": "Pothos cutting rooted in a deep pot"
+      },
+      {
+        "path": "images/goldenpothos/care3.jpg",
+        "caption": "Close-up of the characteristic golden variegation"
+      },
+      {
+        "path": "images/goldenpothos/care4.jpg",
+        "caption": "Example of yellowing leaves from lack of sunlight"
+      }
     ]
   },
   "watering": {
@@ -50,8 +63,14 @@
     "detail": "Golden Pothos prefer to have their soil dry out completely before being watered again. A good rule of thumb is to check the soil with your finger; if it feels dry up to the first knuckle, it's time to water. They are quite forgiving if you forget to water them, but too much water will cause root rot, which is often fatal. Water less frequently in the winter months when the plant's growth slows down.",
     "frequency": "Every 2-4 weeks, depending on light",
     "howToImages": [
-      "images/goldenpothos/dry.jpg",
-      "images/goldenpothos/soak.jpg"
+      {
+        "path": "images/goldenpothos/dry.jpg",
+        "caption": "Checking soil moisture: Wait until the soil is fully dry"
+      },
+      {
+        "path": "images/goldenpothos/soak.jpg",
+        "caption": "Water should reach the bottom of the pot and moisten the soil evenly"
+      }
     ]
   },
   "light": {
@@ -59,8 +78,14 @@
     "idealHours": "4-6 hours",
     "detail": "Golden Pothos are famously tolerant of low light conditions, which is why they are a great choice for less-than-ideal spots. However, for a healthier plant and to maintain its vibrant gold and yellow variegation, bright, indirect light is best. Too much direct sun can scorch the leaves, while very low light may cause the golden splashes to fade, and the plant will grow slower.",
     "howToImages": [
-      "images/goldenpothos/light1.jpg",
-      "images/goldenpothos/light2.jpg"
+      {
+        "path": "images/goldenpothos/light1.jpg",
+        "caption": "Ideal placement: near a bright window with shaded indirect light"
+      },
+      {
+        "path": "images/goldenpothos/light2.jpg",
+        "caption": "example of burning on leaves from direct sun exposure"
+      }
     ],
     "tips": [
       "Place near a north- or east-facing window.",
@@ -71,8 +96,14 @@
     "description": "Any standard well-draining potting mix.",
     "detail": "Golden Pothos are not picky about their soil. Any standard, well-draining potting mix will work just fine. You can add a bit of perlite to ensure extra drainage, which is a key factor in preventing overwatering. They do not require a specialized, chunky mix like other plants.",
     "howToImages": [
-      "images/goldenpothos/medium1.jpg",
-      "images/goldenpothos/medium2.jpg"
+      {
+        "path": "images/goldenpothos/medium1.jpg",
+        "caption": "Well draining potting mix with bark and perlite"
+      },
+      {
+        "path": "images/goldenpothos/medium2.jpg",
+        "caption": "Water should drain freely from the bottom of the pot, and not pool at the top or bottom."
+      }
     ],
     "tips": [
       "Ensure your pot has a drainage hole.",
@@ -87,9 +118,18 @@
       "You can root multiple cuttings in one glass for a fuller plant."
     ],
     "howToImages": [
-      "images/goldenpothos/node.jpg",
-      "images/goldenpothos/root.jpg",
-      "images/goldenpothos/root2.jpg"
+      {
+        "path": "images/goldenpothos/node.jpg",
+        "caption": "Examples of several nodes along a main stem, cut just below one node"
+      },
+      {
+        "path": "images/goldenpothos/root.jpg",
+        "caption": "Developed roots ready for planting in soil "
+      },
+      {
+        "path": "images/goldenpothos/root2.jpg",
+        "caption": "Rooting the stem cutting in a glass of water"
+      }
     ]
   },
   "issues": {

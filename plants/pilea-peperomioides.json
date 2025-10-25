@@ -29,8 +29,14 @@
     ],
     "detail": "The Pilea peperomioides is a fun and easy-to-care-for plant. It loves bright, indirect light, which helps it maintain its compact shape and vibrant green color. Water your Pilea when the top inch of soil is dry, but be careful not to overwater, as it is prone to root rot. One of its most endearing qualities is its ability to produce 'pups,' or baby plants, from its roots. These can be easily separated to share with friends, which is how the plant earned its 'Friendship Plant' nickname.",
     "howToImages": [
-      "images/pilea/pilea_watering.jpg",
-      "images/pilea/pilea_light.jpg"
+      {
+        "path": "images/pilea/pilea_watering.jpg",
+        "caption": "Checking the top inch of soil for dryness."
+      },
+      {
+        "path": "images/pilea/pilea_light.jpg",
+        "caption": "Pilea's unique, coin-shaped leaves."
+      }
     ]
   },
   "watering": {
@@ -45,8 +51,14 @@
     "detail": "It's best to let the top inch or two of soil dry out before watering your Pilea. Give it a good soak, allowing excess water to drain from the bottom of the pot. In winter, reduce watering frequency as the plant's growth slows down. The Pilea's leaves can tell you a lot about its watering needs; if they start to droop slightly, it's a good sign that it's thirsty.",
     "frequency": "Every 1-2 weeks, depending on light",
     "howToImages": [
-      "images/pilea/pilea_drysoil.jpg",
-      "images/pilea/pilea_soaking.jpg"
+      {
+        "path": "images/pilea/pilea_drysoil.jpg",
+        "caption": "The soil looks and feels dry to the touch."
+      },
+      {
+        "path": "images/pilea/pilea_soaking.jpg",
+        "caption": "Soaking the soil thoroughly until water runs out."
+      }
     ]
   },
   "light": {
@@ -54,8 +66,14 @@
     "idealHours": "4-6 hours",
     "detail": "Pilea peperomioides loves bright, indirect light. Placing it near a window with a sheer curtain is a great option. If the leaves start to curl inward like a taco, it's a sign of too much direct sunlight. On the other hand, if the leaves are growing large and flat, it might need more light. Rotating the plant regularly will help it maintain a symmetrical shape.",
     "howToImages": [
-      "images/pilea/pilea_light1.jpg",
-      "images/pilea/pilea_light2.jpg"
+      {
+        "path": "images/pilea/pilea_light1.jpg",
+        "caption": "Pilea placed near a window with sheer curtains."
+      },
+      {
+        "path": "images/pilea/pilea_light2.jpg",
+        "caption": "Rotating the plant weekly for even growth."
+      }
     ],
     "tips": [
       "Leaves will turn pale green in low light.",
@@ -66,8 +84,14 @@
     "description": "A well-draining, airy potting mix.",
     "detail": "A standard potting mix is usually sufficient for a Pilea, but it's important to ensure it drains well. You can mix in perlite to improve drainage and aeration. This will help prevent water from sitting at the bottom of the pot, which is a common cause of root rot. The soil should be light and fluffy, not compacted.",
     "howToImages": [
-      "images/pilea/pilea_medium1.jpg",
-      "images/pilea/pilea_medium2.jpg"
+      {
+        "path": "images/pilea/pilea_medium1.jpg",
+        "caption": "Amending soil with perlite for better drainage."
+      },
+      {
+        "path": "images/pilea/pilea_medium2.jpg",
+        "caption": "Loose, well-aerated soil mix ready for planting."
+      }
     ],
     "tips": [
       "A mix of potting soil, perlite, and sand is a great homemade blend.",
@@ -82,8 +106,14 @@
       "Allow the cut on the mother plant to dry for a day before watering again."
     ],
     "howToImages": [
-      "images/pilea/pilea_prop1.jpg",
-      "images/pilea/pilea_prop2.jpg"
+      {
+        "path": "images/pilea/pilea_prop1.jpg",
+        "caption": "Separating a 'pup' from the mother plant's root system."
+      },
+      {
+        "path": "images/pilea/pilea_prop2.jpg",
+        "caption": "Pups potted in their own containers."
+      }
     ]
   },
   "issues": {

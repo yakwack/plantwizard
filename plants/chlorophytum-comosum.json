@@ -29,8 +29,14 @@
     ],
     "detail": "The Spider Plant is a classic houseplant for a reason: it's incredibly tough and easy to care for. It thrives in bright, indirect light and tolerates a wide range of light conditions, though it will not do well in direct sun. It's a great choice for hanging baskets, as its long, arching leaves and baby plantlets (pups) create a beautiful, cascading effect. The plant is known for its ability to produce many of these pups, which can be easily rooted in water or soil to create new plants. This makes it a great plant for sharing with friends.",
     "howToImages": [
-      "images/chlorophytum-comosum/comosum_watering.jpg",
-      "images/chlorophytum-comosum/comosum_light.jpg"
+      {
+        "path": "images/chlorophytum-comosum/comosum1.jpg",
+        "caption": "The arching foliage of a mature Spider Plant."
+      },
+      {
+        "path": "images/chlorophytum-comosum/comosum2.jpg",
+        "caption": "Plantlets (pups) forming on the end of a stem."
+      }
     ]
   },
   "watering": {
@@ -43,10 +49,16 @@
       "Overwatering is a common problem and can lead to root rot."
     ],
     "detail": "Spider Plants are fairly tolerant of a watering schedule, but they prefer their soil to be kept lightly moist. Water thoroughly when the top inch of soil feels dry. One of the most common issues is brown tips on the leaves, which is often caused by the fluoride and salts found in tap water. If you notice this, try watering with distilled, filtered, or rainwater instead. Water less frequently in the winter months when the plant's growth slows down.",
-    "frequency": "Every 1-2 weeks, depending on humidity and light",
+    "frequency": "Every 1\u00e2\u20ac\u201c2 weeks, depending on humidity and light",
     "howToImages": [
-      "images/chlorophytum-comosum/comosum_drysoil.jpg",
-      "images/chlorophytum-comosum/comosum_soak.jpg"
+      {
+        "path": "images/chlorophytum-comosum/comosum_drysoil.jpg",
+        "caption": "Checking for dry soil before watering."
+      },
+      {
+        "path": "images/chlorophytum-comosum/comosum_watering.jpg",
+        "caption": "Watering with filtered water to prevent brown tips."
+      }
     ]
   },
   "light": {
@@ -54,8 +66,14 @@
     "idealHours": "4-6 hours",
     "detail": "Spider Plants thrive in bright, indirect light. Placing them a few feet away from a sunny window or in an east- or west-facing window is ideal. They can tolerate some low light, but their growth will slow, and the variegation may fade. Avoid any direct, harsh sunlight, which will scorch their leaves and turn them brown.",
     "howToImages": [
-      "images/chlorophytum-comosum/comosum_light1.jpg",
-      "images/chlorophytum-comosum/comosum_light2.jpg"
+      {
+        "path": "images/chlorophytum-comosum/comosum_light1.jpg",
+        "caption": "Ideal placement near a bright window."
+      },
+      {
+        "path": "images/chlorophytum-comosum/comosum_light2.jpg",
+        "caption": "Leaves in direct sun, risking scorch."
+      }
     ],
     "tips": [
       "A location with too little light can cause the leaves to lose their stripes.",
@@ -66,12 +84,14 @@
     "description": "A standard, well-draining potting mix.",
     "detail": "A standard indoor potting mix is perfectly suitable for a Spider Plant. It's important to use a mix that has good drainage to prevent the roots from becoming waterlogged. You can add perlite to a standard mix to improve aeration, which is crucial for preventing root rot.",
     "howToImages": [
-      "images/chlorophytum-comosum/comosum_medium1.jpg",
-      "images/chlorophytum-comosum/comosum_medium2.jpg"
-    ],
-    "tips": [
-      "Ensure the pot has adequate drainage holes.",
-      "A mix of potting soil and perlite is a great, simple combination."
+      {
+        "path": "images/chlorophytum-comosum/comosum_medium1.jpg",
+        "caption": "Standard potting mix with added perlite."
+      },
+      {
+        "path": "images/chlorophytum-comosum/comosum_medium2.jpg",
+        "caption": "Ensuring the pot has proper drainage."
+      }
     ]
   },
   "propagation": {
@@ -82,8 +102,14 @@
       "Propagating multiple pups at once will create a fuller plant."
     ],
     "howToImages": [
-      "images/chlorophytum-comosum/comosum_prop1.jpg",
-      "images/chlorophytum-comosum/comosum_prop2.jpg"
+      {
+        "path": "images/chlorophytum-comosum/comosum_roots.jpg",
+        "caption": "The thick roots that retain water for the plant."
+      },
+      {
+        "path": "images/chlorophytum-comosum/comosum_prop2.jpg",
+        "caption": "Plantlet ready for planting in soil."
+      }
     ]
   },
   "issues": {

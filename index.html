@@ -27,7 +27,7 @@
     let allPlants = [];
 
     async function loadPlants() {
-      const res = await fetch("plants.json");
+      const res = await fetch("https://plant-wizard-api.onrender.com/api/plants");
       allPlants = await res.json();
       displayPlants(allPlants);
       setupPopularTags();

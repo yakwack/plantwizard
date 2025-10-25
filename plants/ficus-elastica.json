@@ -27,12 +27,18 @@
     ],
     "issues": [
       "<strong>Leaf yellowing:</strong> caused by overwatering, allow soil to dry between waterings.",
-      "<strong>Leaf drop:</strong> caused by low light or sudden changes in temperature, move plant to a brighter, stable environment."
+      "<strong>Leaf drop:</strong> caused by low light or sudden changes in temperature, maintain stable conditions."
     ],
     "detail": "Ficus elastica is a low-maintenance houseplant that thrives indoors in bright, indirect light but can also tolerate lower light conditions. It requires minimal pruning and is relatively pest-resistant. Its large, glossy leaves make it a striking decorative plant, and with proper care, it can live for many years.",
     "howToImages": [
-      "images/ficus-elastica/care1.jpg",
-      "images/ficus-elastica/care2.jpg"
+      {
+        "path": "images/ficus-elastica/care1.jpg",
+        "caption": "Wiping down the large, glossy leaves with a damp cloth."
+      },
+      {
+        "path": "images/ficus-elastica/care2.jpg",
+        "caption": "A Rubber Plant thriving in bright, indirect light."
+      }
     ]
   },
   "watering": {
@@ -47,8 +53,14 @@
     "detail": "Ficus elastica thrives on a careful balance of moisture. The soil should be allowed to partially dry out between watering sessions to avoid soggy conditions that can damage roots. During the active growing season (spring and summer), more frequent watering may be necessary, while in winter, watering should be reduced.",
     "frequency": "Every 1\u00e2\u20ac\u201c2 weeks during growing season; every 2\u00e2\u20ac\u201c3 weeks in winter.",
     "howToImages": [
-      "images/ficus-elastica/watering1.jpg",
-      "images/ficus-elastica/watering2.jpg"
+      {
+        "path": "images/ficus-elastica/watering1.jpg",
+        "caption": "Checking the top few inches of soil for dryness."
+      },
+      {
+        "path": "images/ficus-elastica/watering2.jpg",
+        "caption": "Watering deeply until it drains from the bottom."
+      }
     ]
   },
   "light": {
@@ -56,8 +68,14 @@
     "idealHours": "6\u00e2\u20ac\u201c8 hours of indirect light daily.",
     "detail": "Ficus elastica grows best in bright, indirect sunlight, which enhances the deep green and sometimes variegated foliage. While it can adapt to lower light conditions, growth may slow, and leaves may lose vibrancy. Direct sunlight can scorch the leaves, so filtered light is ideal.",
     "howToImages": [
-      "images/ficus-elastica/light1.jpg",
-      "images/ficus-elastica/light2.jpg"
+      {
+        "path": "images/ficus-elastica/light1.jpg",
+        "caption": "Rubber Plant placed in bright, indirect light."
+      },
+      {
+        "path": "images/ficus-elastica/light2.jpg",
+        "caption": "A variegated variety in moderate light."
+      }
     ],
     "tips": [
       "Avoid harsh afternoon sun to prevent leaf burn.",
@@ -68,8 +86,14 @@
     "description": "Prefers well-draining, fertile potting soil.",
     "detail": "Ficus elastica thrives in a soil mix that balances moisture retention with good aeration. A peat-based potting mix combined with perlite or coarse sand ensures adequate drainage while keeping roots healthy. Heavy soils that retain too much water should be avoided.",
     "howToImages": [
-      "images/ficus-elastica/medium1.jpg",
-      "images/ficus-elastica/medium2.jpg"
+      {
+        "path": "images/ficus-elastica/medium1.jpg",
+        "caption": "Well-draining, fertile potting mix."
+      },
+      {
+        "path": "images/ficus-elastica/medium2.jpg",
+        "caption": "Adding perlite to improve drainage and aeration."
+      }
     ],
     "tips": [
       "Use a well-draining indoor potting mix.",
@@ -84,8 +108,14 @@
       "Propagate in spring or early summer for best results."
     ],
     "howToImages": [
-      "images/ficus-elastica/prop1.jpg",
-      "images/ficus-elastica/prop2.jpg"
+      {
+        "path": "images/ficus-elastica/prop1.jpg",
+        "caption": "A stem cutting prepared for rooting."
+      },
+      {
+        "path": "images/ficus-elastica/prop2.jpg",
+        "caption": "Air layering technique on a stem."
+      }
     ]
   },
   "issues": {

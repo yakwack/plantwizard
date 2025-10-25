@@ -35,8 +35,14 @@
     ],
     "detail": "Gerbera Daisies are a classic for their large, colorful blooms. They are a perennial in warmer climates but are often grown as an annual in cooler regions. The plant requires plenty of sun and consistently moist soil to thrive. It is a heavy feeder and will benefit from regular fertilization during the growing season. A key to success is to avoid getting the crown of the plant wet when watering, as this can lead to crown rot.",
     "howToImages": [
-      "images/gerbera-jamesonii/care1.jpg",
-      "images/gerbera-jamesonii/care2.jpg"
+      {
+        "path": "images/gerbera-jamesonii/care1.jpg",
+        "caption": "Gerbera Daisies in a full-sun container garden."
+      },
+      {
+        "path": "images/gerbera-jamesonii/care2.jpg",
+        "caption": "Deadheading a spent flower at the base of the stem."
+      }
     ]
   },
   "watering": {
@@ -51,10 +57,22 @@
     "detail": "Gerbera Daisies prefer their soil to be kept consistently moist. Water deeply but be careful to avoid getting water on the crown of the plant, as this can cause it to rot. Let the top inch of soil dry out between waterings to prevent root rot. In winter, reduce watering frequency as the plant's growth slows down.",
     "frequency": "Every 1-2 weeks, depending on light and temperature",
     "howToImages": [
-      "images/gerbera-jamesonii/dry1.jpg",
-      "images/gerbera-jamesonii/dry2.jpg",
-      "images/gerbera-jamesonii/watering1.jpg",
-      "images/gerbera-jamesonii/watering2.jpg"
+      {
+        "path": "images/gerbera-jamesonii/dry1.jpg",
+        "caption": "Checking the top inch of soil for dryness."
+      },
+      {
+        "path": "images/gerbera-jamesonii/dry2.jpg",
+        "caption": "Gerbera Daisy wilting slightly, indicating thirst."
+      },
+      {
+        "path": "images/gerbera-jamesonii/watering1.jpg",
+        "caption": "Watering from the base of the plant."
+      },
+      {
+        "path": "images/gerbera-jamesonii/watering2.jpg",
+        "caption": "Example of crown rot from overhead watering."
+      }
     ]
   },
   "light": {
@@ -62,24 +80,28 @@
     "idealHours": "6-8 hours",
     "detail": "Gerbera Daisies need plenty of direct sunlight to produce a full show of blooms. A location with full sun for at least 6 hours a day is essential. In too little light, the plant will not flower and may become leggy. In very hot climates, some afternoon shade can be beneficial to prevent scorching.",
     "howToImages": [
-      "images/gerbera-jamesonii/light1.jpg",
-      "images/gerbera-jamesonii/light2.jpg"
-    ],
-    "tips": [
-      "Full sun is crucial for a healthy, blooming plant.",
-      "Consider an east-facing location for morning sun and afternoon shade."
+      {
+        "path": "images/gerbera-jamesonii/light1.jpg",
+        "caption": "Gerbera Daisies thriving in a full-sun garden bed."
+      },
+      {
+        "path": "images/gerbera-jamesonii/light2.jpg",
+        "caption": "Plant in too much shade, leading to poor blooming."
+      }
     ]
   },
   "medium": {
     "description": "A well-draining, rich potting mix.",
     "detail": "Use a high-quality potting mix that is rich in organic matter and has good drainage. A standard potting mix amended with some compost and perlite is a great choice. The soil should be light and airy, as heavy, compacted soil can lead to root rot.",
     "howToImages": [
-      "images/gerbera-jamesonii/medium1.jpg",
-      "images/gerbera-jamesonii/medium2.jpg"
-    ],
-    "tips": [
-      "Ensure the pot has good drainage holes.",
-      "Repot every 1-2 years to refresh the soil."
+      {
+        "path": "images/gerbera-jamesonii/medium1.jpg",
+        "caption": "A rich, well-draining potting mix for heavy feeders."
+      },
+      {
+        "path": "images/gerbera-jamesonii/medium2.jpg",
+        "caption": "Repotting into a container with fresh soil."
+      }
     ]
   },
   "propagation": {
@@ -90,8 +112,14 @@
       "Seeds should be sown in a sterile seed-starting mix."
     ],
     "howToImages": [
-      "images/gerbera-jamesonii/prop1.jpg",
-      "images/gerbera-jamesonii/prop2.jpg"
+      {
+        "path": "images/gerbera-jamesonii/prop1.jpg",
+        "caption": "Dividing the plant's root ball in the spring."
+      },
+      {
+        "path": "images/gerbera-jamesonii/prop2.jpg",
+        "caption": "Planting a separated clump in a new pot."
+      }
     ]
   },
   "issues": {

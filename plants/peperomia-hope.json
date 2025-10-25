@@ -25,8 +25,14 @@
     ],
     "detail": "Peperomia 'Hope' is a low-maintenance plant that stores water in its thick leaves, behaving similarly to a succulent. Its care is simple: give it plenty of bright, indirect light and let the soil dry out completely between waterings. It's best to water from the bottom to prevent water from accumulating on the stems and causing rot. 'Hope' does not require high humidity and is perfect for a spot with filtered sunlight. It's a great choice for small spaces or shelves where its beautiful, trailing vines can hang freely.",
     "howToImages": [
-      "images/peperomia-hope/hope_watering.jpg",
-      "images/peperomia-hope/hope_light.jpg"
+      {
+        "path": "images/peperomia-hope/hope_watering.jpg",
+        "caption": "The compact, coin-shaped foliage of Peperomia 'Hope'."
+      },
+      {
+        "path": "images/peperomia-hope/hope_light.jpg",
+        "caption": "Trailing habit perfect for shelves or hanging baskets."
+      }
     ]
   },
   "watering": {
@@ -41,8 +47,14 @@
     "detail": "Peperomia 'Hope' is highly susceptible to overwatering. Its succulent-like leaves store water, so it's essential to let the soil dry out entirely between waterings. When you do water, do it thoroughly, allowing excess water to drain from the bottom of the pot. In winter, reduce watering frequency significantly. A good indicator is when the leaves start to feel slightly less firm.",
     "frequency": "Every 2\u00e2\u20ac\u201c3 weeks, depending on light and temperature",
     "howToImages": [
-      "images/peperomia-hope/hope_watering_howto.jpg",
-      "images/peperomia-hope/hope_drysoil.jpg"
+      {
+        "path": "images/peperomia-hope/hope_watering_howto.jpg",
+        "caption": "Bottom watering method to prevent stem rot."
+      },
+      {
+        "path": "images/peperomia-hope/hope_drysoil.jpg",
+        "caption": "Using a finger to check if the soil is fully dry."
+      }
     ]
   },
   "light": {
@@ -50,8 +62,14 @@
     "idealHours": "4-6 hours",
     "detail": "Peperomia 'Hope' thrives in bright, indirect light. An east-facing window or a few feet back from a south- or west-facing window is a perfect spot. Too little light will cause the plant to become leggy and less full. Direct, harsh sun can scorch the leaves, so avoid placing it in a spot with unshaded afternoon sun.",
     "howToImages": [
-      "images/peperomia-hope/hope_light1.jpg",
-      "images/peperomia-hope/hope_light2.jpg"
+      {
+        "path": "images/peperomia-hope/hope_light1.jpg",
+        "caption": "Placement near a bright window with filtered light."
+      },
+      {
+        "path": "images/peperomia-hope/hope_light2.jpg",
+        "caption": "Checking leaves for signs of scorching from direct sun."
+      }
     ],
     "tips": [
       "A north-facing window might be too dark.",
@@ -62,8 +80,14 @@
     "description": "A light, well-draining soil mix.",
     "detail": "Use a standard, well-draining potting mix. A blend of potting soil, perlite, and a bit of coarse sand or orchid bark is ideal. This combination ensures proper aeration and prevents the soil from becoming waterlogged, which is crucial for preventing root rot.",
     "howToImages": [
-      "images/peperomia-hope/hope_medium1.jpg",
-      "images/peperomia-hope/hope_medium2.jpg"
+      {
+        "path": "images/peperomia-hope/hope_medium1.jpg",
+        "caption": "Example of a light, airy soil mix for Peperomia."
+      },
+      {
+        "path": "images/peperomia-hope/hope_medium2.jpg",
+        "caption": "Mixing in perlite for improved drainage."
+      }
     ],
     "tips": [
       "Make sure your pot has good drainage holes.",
@@ -78,8 +102,14 @@
       "Take multiple cuttings to create a fuller plant once they're rooted."
     ],
     "howToImages": [
-      "images/peperomia-hope/hope_cut.jpg",
-      "images/peperomia-hope/hope_root.jpg"
+      {
+        "path": "images/peperomia-hope/hope_cut.jpg",
+        "caption": "Taking a clean stem cutting with a node."
+      },
+      {
+        "path": "images/peperomia-hope/hope_root.jpg",
+        "caption": "Cutting successfully rooting in water."
+      }
     ]
   },
   "issues": {

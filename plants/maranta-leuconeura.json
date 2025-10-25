@@ -31,8 +31,14 @@
     ],
     "detail": "Maranta leuconeura, or the Prayer Plant, is a tropical plant that needs a stable, warm environment. It is sensitive to cold drafts and low humidity, which can cause leaf curling and browning. Maintaining a consistently moist soil (but not soggy) and providing high humidity is crucial for its health. This plant is known for its nyctinasty, where the leaves fold up at night, resembling hands in prayer.",
     "howToImages": [
-      "images/maranta-leuconeura/care1.jpg",
-      "images/maranta-leuconeura/care2.jpg"
+      {
+        "path": "images/maranta-leuconeura/care1.jpg",
+        "caption": "The distinctive leaf pattern of the Prayer Plant."
+      },
+      {
+        "path": "images/maranta-leuconeura/care2.jpg",
+        "caption": "Leaves folding upward at night (nyctinasty)."
+      }
     ]
   },
   "watering": {
@@ -47,8 +53,14 @@
     "detail": "Prayer plants are sensitive to both over and underwatering. The soil should remain consistently moist, but not waterlogged. Allowing the top layer of soil to dry out slightly between waterings is a good practice. It's particularly sensitive to the chemicals and salts often found in tap water, so using purified water is highly recommended to maintain healthy leaves and prevent unsightly brown tips.",
     "frequency": "Once or twice a week, depending on conditions.",
     "howToImages": [
-      "images/maranta-leuconeura/watering1.jpg",
-      "images/maranta-leuconeura/watering2.jpg"
+      {
+        "path": "images/maranta-leuconeura/watering1.jpg",
+        "caption": "Using filtered water to avoid brown leaf tips."
+      },
+      {
+        "path": "images/maranta-leuconeura/watering2.jpg",
+        "caption": "Checking for soil moisture with a finger."
+      }
     ]
   },
   "light": {
@@ -56,8 +68,14 @@
     "idealHours": "6-8 hours of indirect light per day.",
     "detail": "Direct sunlight will scorch the leaves and cause the vibrant colors to fade. A north- or east-facing window is ideal. It can tolerate low light conditions, but growth may slow and the leaf patterns may become less pronounced.",
     "howToImages": [
-      "images/maranta-leuconeura/light1.jpg",
-      "images/maranta-leuconeura/light2.jpg"
+      {
+        "path": "images/maranta-leuconeura/light1.jpg",
+        "caption": "Plant placed in a bright, indirect light spot."
+      },
+      {
+        "path": "images/maranta-leuconeura/light2.jpg",
+        "caption": "Leaves showing signs of fading color from too much sun."
+      }
     ],
     "tips": [
       "Avoid placing it in direct sun.",
@@ -68,8 +86,14 @@
     "description": "Requires a well-draining, moisture-retentive potting mix.",
     "detail": "A good soil mix for Maranta leuconeura should contain a blend of peat moss or coco coir for moisture retention, perlite or coarse sand for drainage, and a small amount of compost for nutrients. This combination provides a slightly acidic, airy environment for the roots.",
     "howToImages": [
-      "images/maranta-leuconeura/medium1.jpg",
-      "images/maranta-leuconeura/medium2.jpg"
+      {
+        "path": "images/maranta-leuconeura/medium1.jpg",
+        "caption": "Soil mix with peat moss and perlite."
+      },
+      {
+        "path": "images/maranta-leuconeura/medium2.jpg",
+        "caption": "Repotting into a container with good drainage."
+      }
     ],
     "tips": [
       "Repot every 1-2 years during spring.",
@@ -84,8 +108,14 @@
       "Maintain high humidity for the cutting."
     ],
     "howToImages": [
-      "images/maranta-leuconeura/prop1.jpg",
-      "images/maranta-leuconeura/prop2.jpg"
+      {
+        "path": "images/maranta-leuconeura/prop1.jpg",
+        "caption": "Stem cutting placed in water to root."
+      },
+      {
+        "path": "images/maranta-leuconeura/prop2.jpg",
+        "caption": "Dividing the root ball during repotting."
+      }
     ]
   },
   "issues": {

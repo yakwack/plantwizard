@@ -27,8 +27,14 @@
     ],
     "detail": "The ZZ Plant is a true survivor, thriving in conditions that would kill most other houseplants. It's best to treat it as a succulent, as its large, potato-like rhizomes store water. The plant does best in medium to low, indirect light. It's incredibly forgiving and can tolerate very low light, but it will grow much faster and be healthier in a brighter spot. Its care is simple: water only when the soil is completely dry, and then water thoroughly. Avoid frequent small sips of water. The ZZ Plant is perfect for a dark corner, an office desk, or any spot that needs a touch of green without a lot of fuss.",
     "howToImages": [
-      "images/zz-plant/zz_watering.jpg",
-      "images/zz-plant/zz_light.jpg"
+      {
+        "path": "images/zz-plant/zz_watering.jpg",
+        "caption": "Checking the soil deeply to confirm dryness."
+      },
+      {
+        "path": "images/zz-plant/zz_light.jpg",
+        "caption": "Its glossy, upright foliage thrives even in low light."
+      }
     ]
   },
   "watering": {
@@ -43,8 +49,14 @@
     "detail": "ZZ plants are highly susceptible to root rot. They have a natural ability to store water in their rhizomes, so they can go for weeks or even months without water. Only water when the soil is dry all the way down to the bottom of the pot. When you do water, soak it thoroughly and let the excess drain away. If the stems and leaves start to feel soft and mushy, it is a sign of rot from overwatering. In this case, stop watering immediately.",
     "frequency": "Every 2\u00e2\u20ac\u201c4 weeks, but depends on light and temperature",
     "howToImages": [
-      "images/zz-plant/zz_drysoil.jpg",
-      "images/zz-plant/zz_thorough_soak.jpg"
+      {
+        "path": "images/zz-plant/zz_drysoil.jpg",
+        "caption": "Confirming the soil is completely dry down to the roots."
+      },
+      {
+        "path": "images/zz-plant/zz_thorough_soak.jpg",
+        "caption": "Giving the plant a full, thorough soak."
+      }
     ]
   },
   "light": {
@@ -52,8 +64,14 @@
     "idealHours": "4-6 hours",
     "detail": "While the ZZ plant is famous for surviving in low-light conditions, it will thrive in medium to bright, indirect light. A spot near a north- or east-facing window is ideal. Too much direct sun will scorch the leaves, while very low light will cause slow growth. It's a great choice for darker rooms or offices where other plants might not survive.",
     "howToImages": [
-      "images/zz-plant/zz_light1.jpg",
-      "images/zz-plant/zz_light2.jpg"
+      {
+        "path": "images/zz-plant/zz_light1.jpg",
+        "caption": "Thriving in a medium-light office setting."
+      },
+      {
+        "path": "images/zz-plant/zz_light2.jpg",
+        "caption": "Example of ZZ plant in a very low-light corner."
+      }
     ],
     "tips": [
       "Consider moving it to a brighter spot if you want faster growth.",
@@ -64,8 +82,14 @@
     "description": "A well-draining, standard potting mix.",
     "detail": "Any well-draining potting soil will work for a ZZ plant. It's important that the soil does not retain too much moisture, as this can lead to root rot. You can amend a standard potting mix with perlite or coarse sand to improve drainage and aeration, but a basic blend is usually sufficient.",
     "howToImages": [
-      "images/zz-plant/zz_medium1.jpg",
-      "images/zz-plant/zz_medium2.jpg"
+      {
+        "path": "images/zz-plant/zz_medium1.jpg",
+        "caption": "Amending standard soil mix with perlite for drainage."
+      },
+      {
+        "path": "images/zz-plant/zz_medium2.jpg",
+        "caption": "The large, water-storing rhizomes (tuber-like roots)."
+      }
     ],
     "tips": [
       "A standard blend of peat, perlite, and pine bark is a good mix.",
@@ -80,8 +104,14 @@
       "Leaf cuttings can take up to a year to produce new plants."
     ],
     "howToImages": [
-      "images/zz-plant/zz_leaf_cutting.jpg",
-      "images/zz-plant/zz_rhizome.jpg"
+      {
+        "path": "images/zz-plant/zz_leaf_cutting.jpg",
+        "caption": "A single leaf cutting ready for propagation."
+      },
+      {
+        "path": "images/zz-plant/zz_rhizome.jpg",
+        "caption": "New rhizome growth forming from the base of the leaf."
+      }
     ]
   },
   "issues": {
@@ -95,7 +125,7 @@
     ]
   },
   "toxicity": {
-    "description": "All parts of the ZZ plant are toxic if ingested due to the presence of calcium oxalate crystals. Keep away from pets and children."
+    "description": "All parts of the ZZ Plant are toxic if ingested due to the presence of calcium oxalate crystals. Keep away from pets and children."
   },
   "tags": [
     "drought-tolerant",

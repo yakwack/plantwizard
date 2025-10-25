@@ -35,8 +35,14 @@
     ],
     "detail": "The Dracaena trifasciata is a perfect plant for beginners or those who travel frequently. Its thick, succulent-like leaves store water, making it extremely drought-tolerant and forgiving of neglect. It can thrive in a variety of light conditions, from low to bright, indirect light, but its growth will be faster and its colors more vibrant in a brighter spot. Overwatering is the most common mistake made with this plant and is often fatal. When in doubt, it is always better to underwater than to overwater.",
     "howToImages": [
-      "images/dracaena-trifasciata/care1.jpg",
-      "images/dracaena-trifasciata/care2.jpg"
+      {
+        "path": "images/dracaena-trifasciata/care1.jpg",
+        "caption": "The upright, sword-like foliage of a healthy plant."
+      },
+      {
+        "path": "images/dracaena-trifasciata/care2.jpg",
+        "caption": "A cluster of pups (new shoots) growing from the base."
+      }
     ]
   },
   "watering": {
@@ -51,8 +57,14 @@
     "detail": "Water your Snake Plant thoroughly, but only when the soil has completely dried out. The frequency will depend on the light and temperature of your home. In a low-light spot, this could be once a month or less. In a brighter spot, it may need water every few weeks. The plant is very tolerant of being underwatered and will show signs of thirst by having wrinkled leaves.",
     "frequency": "Every 2-4 weeks, depending on light",
     "howToImages": [
-      "images/dracaena-trifasciata/watering1.jpg",
-      "images/dracaena-trifasciata/watering2.jpg"
+      {
+        "path": "images/dracaena-trifasciata/watering1.jpg",
+        "caption": "Checking the soil deep inside the pot for dryness."
+      },
+      {
+        "path": "images/dracaena-trifasciata/watering2.jpg",
+        "caption": "Watering sparingly, allowing all excess to drain."
+      }
     ]
   },
   "light": {
@@ -60,24 +72,28 @@
     "idealHours": "4-6 hours",
     "detail": "Dracaena trifasciata is famously tolerant of low-light conditions, which is why it is so popular for offices and darker rooms. However, for a healthier plant and faster growth, it prefers bright, indirect light. It can even tolerate some direct morning sun. Too much direct sun can scorch the leaves, so avoid placing it in a spot with harsh afternoon sun.",
     "howToImages": [
-      "images/dracaena-trifasciata/light1.jpg",
-      "images/dracaena-trifasciata/light2.jpg"
-    ],
-    "tips": [
-      "The plant's vibrant colors will be more pronounced in brighter light.",
-      "Rotate the plant periodically for even growth."
+      {
+        "path": "images/dracaena-trifasciata/light1.jpg",
+        "caption": "Snake Plant placed in a bright, indirect light spot."
+      },
+      {
+        "path": "images/dracaena-trifasciata/light2.jpg",
+        "caption": "Thriving in a low-light office setting."
+      }
     ]
   },
   "medium": {
     "description": "A gritty, well-draining succulent or cactus mix.",
     "detail": "Use a soil mix that drains very well to prevent root rot. A pre-mixed succulent or cactus soil is an excellent choice. You can also create your own mix by adding perlite, coarse sand, or pumice to a standard potting soil. The key is to have a mix that is airy and does not retain a lot of moisture.",
     "howToImages": [
-      "images/dracaena-trifasciata/medium1.jpg",
-      "images/dracaena-trifasciata/medium2.jpg"
-    ],
-    "tips": [
-      "Always use a pot with good drainage holes.",
-      "Avoid standard potting soil alone, as it is too heavy."
+      {
+        "path": "images/dracaena-trifasciata/medium1.jpg",
+        "caption": "A gritty, fast-draining succulent soil mix."
+      },
+      {
+        "path": "images/dracaena-trifasciata/medium2.jpg",
+        "caption": "Repotting into a container with proper drainage."
+      }
     ]
   },
   "propagation": {
@@ -88,9 +104,18 @@
       "Ensure the cutting is planted right side up for best results."
     ],
     "howToImages": [
-      "images/dracaena-trifasciata/cut.jpg",
-      "images/dracaena-trifasciata/prop1.jpg",
-      "images/dracaena-trifasciata/prop2.jpg"
+      {
+        "path": "images/dracaena-trifasciata/cut.jpg",
+        "caption": "Leaf segment cutting prepared for planting."
+      },
+      {
+        "path": "images/dracaena-trifasciata/prop1.jpg",
+        "caption": "Cuttings placed in well-draining soil."
+      },
+      {
+        "path": "images/dracaena-trifasciata/prop2.jpg",
+        "caption": "New plantlets growing from the base of the cutting."
+      }
     ]
   },
   "issues": {

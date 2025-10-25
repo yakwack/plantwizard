@@ -30,8 +30,14 @@
     ],
     "detail": "Dracaena sanderiana is a versatile plant that can be grown in either water or soil. It is known for its tolerance of low light conditions and its ability to withstand some neglect. The most common issues arise from water quality or excessive sun exposure. Maintaining stable temperatures and avoiding harsh chemicals is key to its longevity.",
     "howToImages": [
-      "images/dracaena-sanderiana/care1.jpg",
-      "images/dracaena-sanderiana/care2.jpg"
+      {
+        "path": "images/dracaena-sanderiana/care1.jpg",
+        "caption": "The stalks and leaves of a healthy Lucky Bamboo."
+      },
+      {
+        "path": "images/dracaena-sanderiana/care2.jpg",
+        "caption": "Lucky Bamboo stalks arranged in a traditional tiered design."
+      }
     ]
   },
   "watering": {
@@ -46,8 +52,14 @@
     "detail": "Lucky Bamboo can be grown hydroponically in just water, with the roots submerged in a container of filtered water. It's crucial to change the water weekly to keep it fresh and free of bacteria. If the plant is in soil, it prefers to be kept consistently moist but not soggy. Allow the top inch of soil to dry out before watering again to prevent root rot.",
     "frequency": "Weekly water change for hydroponic plants; every 7-10 days for soil-based plants.",
     "howToImages": [
-      "images/dracaena-sanderiana/watering1.jpg",
-      "images/dracaena-sanderiana/watering2.jpg"
+      {
+        "path": "images/dracaena-sanderiana/watering1.jpg",
+        "caption": "Roots submerged in water with a layer of decorative pebbles."
+      },
+      {
+        "path": "images/dracaena-sanderiana/watering2.jpg",
+        "caption": "Changing the water weekly to keep it fresh."
+      }
     ]
   },
   "light": {
@@ -55,24 +67,28 @@
     "idealHours": "4-6 hours of indirect light per day.",
     "detail": "While it can tolerate low light, its growth will be slower. Direct sunlight will scorch the leaves and can cause them to yellow. A location near a window with a sheer curtain or a spot a few feet away from a bright window is ideal.",
     "howToImages": [
-      "images/dracaena-sanderiana/light1.jpg",
-      "images/dracaena-sanderiana/light2.jpg"
-    ],
-    "tips": [
-      "Avoid placing it in direct sunlight.",
-      "If growth seems leggy, move it to a slightly brighter spot."
+      {
+        "path": "images/dracaena-sanderiana/light1.jpg",
+        "caption": "Plant placed near a bright window with filtered light."
+      },
+      {
+        "path": "images/dracaena-sanderiana/light2.jpg",
+        "caption": "A lucky bamboo arrangement in a moderate light setting."
+      }
     ]
   },
   "medium": {
     "description": "Can be grown in water or a well-draining soil mix.",
     "detail": "For soil-based plants, a standard houseplant potting mix with good drainage is sufficient. You can add perlite or sand to improve aeration. For water-based plants, use pebbles or decorative stones to hold the stalks upright, but they are not required for the plant's health.",
     "howToImages": [
-      "images/dracaena-sanderiana/medium1.jpg",
-      "images/dracaena-sanderiana/medium2.jpg"
-    ],
-    "tips": [
-      "If in soil, ensure the pot has drainage holes.",
-      "Rinse pebbles/stones when changing the water to remove algae buildup."
+      {
+        "path": "images/dracaena-sanderiana/medium1.jpg",
+        "caption": "Stalks growing in a simple container with water and pebbles."
+      },
+      {
+        "path": "images/dracaena-sanderiana/medium2.jpg",
+        "caption": "Plant growing in a standard, well-draining soil mix."
+      }
     ]
   },
   "propagation": {
@@ -83,8 +99,14 @@
       "Place the cutting in a warm, bright location."
     ],
     "howToImages": [
-      "images/dracaena-sanderiana/prop1.jpg",
-      "images/dracaena-sanderiana/prop2.jpg"
+      {
+        "path": "images/dracaena-sanderiana/prop1.jpg",
+        "caption": "Taking a cutting just above a node."
+      },
+      {
+        "path": "images/dracaena-sanderiana/prop2.jpg",
+        "caption": "Cuttings rooting in a water-filled container."
+      }
     ]
   },
   "issues": {

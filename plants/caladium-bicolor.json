@@ -31,8 +31,14 @@
     ],
     "detail": "Caladium bicolor thrives in tropical conditions with warm temperatures and high humidity. It is best suited for shaded areas, making it an excellent choice for indoor or outdoor decorative planting in filtered light. Regular care includes monitoring watering, keeping the soil moist but not soggy, and providing warmth during its growing season.",
     "howToImages": [
-      "images/caladium-bicolor/care1.jpg",
-      "images/caladium-bicolor/care2.jpg"
+      {
+        "path": "images/caladium-bicolor/care1.jpg",
+        "caption": "The vibrant, patterned leaves of a healthy Caladium."
+      },
+      {
+        "path": "images/caladium-bicolor/care2.jpg",
+        "caption": "Caladium thriving in a humid, shaded spot."
+      }
     ]
   },
   "watering": {
@@ -47,8 +53,14 @@
     "detail": "Caladium bicolor requires regular watering during its active growing season, ensuring the soil remains evenly moist. However, during dormancy in the cooler months, watering should be significantly reduced as the plant conserves energy in its tubers. Good drainage is essential to prevent rot.",
     "frequency": "Every 3\u00e2\u20ac\u201c4 days during growing season, less during dormancy.",
     "howToImages": [
-      "images/caladium-bicolor/watering1.jpg",
-      "images/caladium-bicolor/watering2.jpg"
+      {
+        "path": "images/caladium-bicolor/watering1.jpg",
+        "caption": "Checking the soil moisture frequently during the growing season."
+      },
+      {
+        "path": "images/caladium-bicolor/watering2.jpg",
+        "caption": "Watering until the soil is evenly moist."
+      }
     ]
   },
   "light": {
@@ -56,8 +68,14 @@
     "idealHours": "6\u00e2\u20ac\u201c8 hours of indirect light per day.",
     "detail": "Caladium bicolor thrives best in bright, filtered light conditions. Direct sunlight can scorch its delicate leaves, so it is important to position the plant where it receives diffused or indirect sunlight. Outdoors, it performs well under the canopy of taller plants or trees.",
     "howToImages": [
-      "images/caladium-bicolor/light1.jpg",
-      "images/caladium-bicolor/light2.jpg"
+      {
+        "path": "images/caladium-bicolor/light1.jpg",
+        "caption": "Caladium placed near a bright window with filtered light."
+      },
+      {
+        "path": "images/caladium-bicolor/light2.jpg",
+        "caption": "The appearance of leaf scorch from direct sun."
+      }
     ],
     "tips": [
       "Avoid direct midday sun.",
@@ -68,8 +86,14 @@
     "description": "Well-draining, rich, and slightly acidic soil mix.",
     "detail": "Caladium bicolor grows best in soil that is loose, well-aerated, and rich in organic matter. A mix of peat, perlite, and compost provides excellent drainage while maintaining the moisture needed for tuber health. Avoid compacted or heavy clay soils.",
     "howToImages": [
-      "images/caladium-bicolor/medium1.jpg",
-      "images/caladium-bicolor/medium2.jpg"
+      {
+        "path": "images/caladium-bicolor/medium1.jpg",
+        "caption": "Rich, loose soil mix with compost and perlite."
+      },
+      {
+        "path": "images/caladium-bicolor/medium2.jpg",
+        "caption": "Potted Caladium with good drainage."
+      }
     ],
     "tips": [
       "Use a peat-based potting mix.",
@@ -84,8 +108,14 @@
       "Dust cut sections with fungicide to prevent rot."
     ],
     "howToImages": [
-      "images/caladium-bicolor/prop1.jpg",
-      "images/caladium-bicolor/prop2.jpg"
+      {
+        "path": "images/caladium-bicolor/prop1.jpg",
+        "caption": "Dividing the tubers during the dormant season."
+      },
+      {
+        "path": "images/caladium-bicolor/prop2.jpg",
+        "caption": "A tuber section with a visible 'eye' ready for planting."
+      }
     ]
   },
   "issues": {

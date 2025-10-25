@@ -34,8 +34,14 @@
     ],
     "detail": "English Ivy is a very adaptable plant that can be grown in many ways: as a trailing plant from a hanging basket, a climbing plant on a moss pole, or as ground cover. It prefers bright, indirect light but can tolerate low light. The plant likes to be kept consistently moist but not soggy, as it is prone to root rot. High humidity is a plus, but it is not essential. It's a great choice for beginners due to its forgiving nature.",
     "howToImages": [
-      "images/hedera-helix/helix_care1.jpg",
-      "images/hedera-helix/helix_care2.jpg"
+      {
+        "path": "images/hedera-helix/helix_care1.jpg",
+        "caption": "Ivy growing as a full, bushy houseplant."
+      },
+      {
+        "path": "images/hedera-helix/helix_care2.jpg",
+        "caption": "Wiping down leaves to prevent pests."
+      }
     ]
   },
   "watering": {
@@ -50,8 +56,14 @@
     "detail": "Water your English Ivy when the top inch of soil is dry to the touch. The plant prefers to be kept consistently moist but can tolerate a bit of drying out. It's much more sensitive to overwatering than underwatering, which can cause root rot and lead to yellow leaves. In winter, reduce watering frequency as the plant's growth slows down.",
     "frequency": "Once a week, depending on light and temperature",
     "howToImages": [
-      "images/hedera-helix/helix_watering1.jpg",
-      "images/hedera-helix/helix_watering2.jpg"
+      {
+        "path": "images/hedera-helix/helix_watering1.jpg",
+        "caption": "Checking for dry soil before watering."
+      },
+      {
+        "path": "images/hedera-helix/helix_watering2.jpg",
+        "caption": "Watering until it is evenly moist."
+      }
     ]
   },
   "light": {
@@ -59,8 +71,14 @@
     "idealHours": "4-6 hours",
     "detail": "English Ivy prefers bright, indirect light. A spot near an east- or north-facing window is ideal. It can tolerate lower light, but its growth will slow down and the variegation on some varieties may fade. Avoid direct, harsh afternoon sun, which can scorch the leaves.",
     "howToImages": [
-      "images/hedera-helix/helix_light1.jpg",
-      "images/hedera-helix/helix_light2.jpg"
+      {
+        "path": "images/hedera-helix/helix_light1.jpg",
+        "caption": "Ivy placed in bright, indirect morning sun."
+      },
+      {
+        "path": "images/hedera-helix/helix_light2.jpg",
+        "caption": "Example of ivy trailing from a high shelf."
+      }
     ],
     "tips": [
       "Too little light can cause leggy growth.",
@@ -71,12 +89,14 @@
     "description": "A standard, well-draining potting mix.",
     "detail": "English Ivy is not particular about its soil, as long as it is well-draining. A standard potting mix is perfectly suitable. You can add a bit of perlite or sand to improve drainage, which is crucial for preventing root rot.",
     "howToImages": [
-      "images/hedera-helix/helix_medium1.jpg",
-      "images/hedera-helix/helix_medium2.jpg"
-    ],
-    "tips": [
-      "Ensure the pot has good drainage holes.",
-      "This plant is very adaptable and doesn't require a special mix."
+      {
+        "path": "images/hedera-helix/helix_medium1.jpg",
+        "caption": "Standard potting mix amended for better drainage."
+      },
+      {
+        "path": "images/hedera-helix/helix_medium2.jpg",
+        "caption": "Plant growing healthily in well-draining soil."
+      }
     ]
   },
   "propagation": {
@@ -87,8 +107,14 @@
       "Take multiple cuttings to create a new, full plant."
     ],
     "howToImages": [
-      "images/hedera-helix/helix_cut.jpg",
-      "images/hedera-helix/helix_root.jpg"
+      {
+        "path": "images/hedera-helix/helix_cut.jpg",
+        "caption": "Taking a clean stem cutting for propagation."
+      },
+      {
+        "path": "images/hedera-helix/helix_root.jpg",
+        "caption": "Cutting rooting in water."
+      }
     ]
   },
   "issues": {

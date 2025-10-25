@@ -30,8 +30,14 @@
     ],
     "detail": "Pelargonium crispum is a sun-loving plant that prefers dry, Mediterranean-like conditions. It is relatively drought-tolerant and doesn't like to sit in wet soil, which can lead to root rot. Regular pruning will help keep the plant compact and encourage a fuller appearance. It can be grown outdoors in warmer climates and as a houseplant or in containers in cooler regions.",
     "howToImages": [
-      "images/pelargonium-crispum/care1.jpg",
-      "images/pelargonium-crispum/care2.jpg"
+      {
+        "path": "images/pelargonium-crispum/care1.jpg",
+        "caption": "The fragrant, crinkled leaves of Pelargonium crispum."
+      },
+      {
+        "path": "images/pelargonium-crispum/care2.jpg",
+        "caption": "Pruning a stem to encourage bushier growth."
+      }
     ]
   },
   "watering": {
@@ -46,8 +52,14 @@
     "detail": "As a plant adapted to arid environments, Pelargonium crispum prefers to be on the drier side. It is much more tolerant of underwatering than overwatering. Soggy soil is detrimental and will cause the roots to rot quickly. Water deeply when you do water, and then allow the soil to become quite dry before the next watering cycle.",
     "frequency": "Every 1-2 weeks in summer, less in winter.",
     "howToImages": [
-      "images/pelargonium-crispum/watering1.jpg",
-      "images/pelargonium-crispum/watering2.jpg"
+      {
+        "path": "images/pelargonium-crispum/watering1.jpg",
+        "caption": "Checking for dry soil deep in the pot."
+      },
+      {
+        "path": "images/pelargonium-crispum/watering2.jpg",
+        "caption": "Watering deeply after the soil has fully dried out."
+      }
     ]
   },
   "light": {
@@ -55,24 +67,28 @@
     "idealHours": "6-8 hours of direct sunlight.",
     "detail": "This plant thrives in full sun. Insufficient light will lead to weak, leggy stems and fewer fragrant leaves. When grown indoors, a south-facing window is ideal. It can also be placed outdoors in a sunny spot during the warmer months.",
     "howToImages": [
-      "images/pelargonium-crispum/light1.jpg",
-      "images/pelargonium-crispum/light2.jpg"
-    ],
-    "tips": [
-      "Provide as much direct sun as possible.",
-      "Move the plant gradually if transitioning from a low-light to high-light environment."
+      {
+        "path": "images/pelargonium-crispum/light1.jpg",
+        "caption": "Plant placed in a full-sun, south-facing window."
+      },
+      {
+        "path": "images/pelargonium-crispum/light2.jpg",
+        "caption": "Example of leggy growth from low light."
+      }
     ]
   },
   "medium": {
     "description": "Prefers a well-draining potting mix.",
     "detail": "A cactus or succulent mix is a great choice for this plant, as it provides the sharp drainage needed. A standard potting mix can be amended with perlite, coarse sand, or pumice to improve drainage and prevent the soil from becoming waterlogged.",
     "howToImages": [
-      "images/pelargonium-crispum/medium1.jpg",
-      "images/pelargonium-crispum/medium2.jpg"
-    ],
-    "tips": [
-      "Ensure the pot has adequate drainage holes.",
-      "Avoid heavy clay-based soils."
+      {
+        "path": "images/pelargonium-crispum/medium1.jpg",
+        "caption": "A gritty succulent mix for fast drainage."
+      },
+      {
+        "path": "images/pelargonium-crispum/medium2.jpg",
+        "caption": "Amending soil with perlite or pumice."
+      }
     ]
   },
   "propagation": {
@@ -83,8 +99,14 @@
       "Propagate in spring or early summer."
     ],
     "howToImages": [
-      "images/pelargonium-crispum/prop1.jpg",
-      "images/pelargonium-crispum/prop2.jpg"
+      {
+        "path": "images/pelargonium-crispum/prop1.jpg",
+        "caption": "A stem cutting prepared for callousing."
+      },
+      {
+        "path": "images/pelargonium-crispum/prop2.jpg",
+        "caption": "Cutting planted in sterile, well-draining soil."
+      }
     ]
   },
   "issues": {

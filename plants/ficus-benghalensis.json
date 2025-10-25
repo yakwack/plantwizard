@@ -31,8 +31,14 @@
     ],
     "detail": "Ficus benghalensis is a hardy tree that thrives outdoors in tropical and subtropical regions. It requires very little maintenance once established, as its aerial roots and trunks allow it to adapt to a variety of conditions. Regular pruning in early years helps manage its spread, but in the wild it naturally grows into massive groves that can cover acres.",
     "howToImages": [
-      "images/ficus-benghalensis/care1.jpg",
-      "images/ficus-benghalensis/care2.jpg"
+      {
+        "path": "images/ficus-benghalensis/care1.jpg",
+        "caption": "The large, round leaves of the Banyan tree."
+      },
+      {
+        "path": "images/ficus-benghalensis/care2.jpg",
+        "caption": "Aerial roots growing down from the branches."
+      }
     ]
   },
   "watering": {
@@ -47,8 +53,14 @@
     "detail": "Young banyan trees benefit from consistent watering to establish strong root systems. Once mature, the tree becomes drought-tolerant and requires minimal supplemental watering. However, during extended dry periods, deep watering ensures optimal growth and prevents stress.",
     "frequency": "Weekly when young; occasional deep watering when mature.",
     "howToImages": [
-      "images/ficus-benghalensis/watering1.jpg",
-      "images/ficus-benghalensis/watering2.jpg"
+      {
+        "path": "images/ficus-benghalensis/watering1.jpg",
+        "caption": "Deep watering for a young Banyan tree."
+      },
+      {
+        "path": "images/ficus-benghalensis/watering2.jpg",
+        "caption": "Checking the soil moisture during a dry spell."
+      }
     ]
   },
   "light": {
@@ -56,8 +68,14 @@
     "idealHours": "6\u00e2\u20ac\u201c8 hours of direct sunlight daily.",
     "detail": "Ficus benghalensis grows best under full sun exposure, which supports its large canopy and robust growth. While it can tolerate partial shade, especially in its juvenile stage, it develops its iconic aerial roots and broad canopy most effectively under abundant sunlight.",
     "howToImages": [
-      "images/ficus-benghalensis/light1.jpg",
-      "images/ficus-benghalensis/light2.jpg"
+      {
+        "path": "images/ficus-benghalensis/light1.jpg",
+        "caption": "Banyan tree thriving in full sun."
+      },
+      {
+        "path": "images/ficus-benghalensis/light2.jpg",
+        "caption": "Aerial roots developing under bright light."
+      }
     ],
     "tips": [
       "Plant in an open area with maximum sun exposure.",
@@ -68,8 +86,14 @@
     "description": "Grows in a variety of soils but prefers well-draining loam.",
     "detail": "Ficus benghalensis adapts to different soil types, including sandy, loamy, and clay soils, as long as drainage is sufficient. It thrives in fertile, well-draining loam with organic content to support its expansive root system. Poor drainage can hinder growth and promote disease.",
     "howToImages": [
-      "images/ficus-benghalensis/medium1.jpg",
-      "images/ficus-benghalensis/medium2.jpg"
+      {
+        "path": "images/ficus-benghalensis/medium1.jpg",
+        "caption": "Well-draining, loamy soil suitable for Ficus benghalensis."
+      },
+      {
+        "path": "images/ficus-benghalensis/medium2.jpg",
+        "caption": "Amending heavy soil to improve drainage."
+      }
     ],
     "tips": [
       "Amend soil with organic matter before planting.",
@@ -84,8 +108,14 @@
       "Support aerial roots until they establish in the soil."
     ],
     "howToImages": [
-      "images/ficus-benghalensis/prop1.jpg",
-      "images/ficus-benghalensis/prop2.jpg"
+      {
+        "path": "images/ficus-benghalensis/prop1.jpg",
+        "caption": "An aerial root being guided toward the soil."
+      },
+      {
+        "path": "images/ficus-benghalensis/prop2.jpg",
+        "caption": "A cutting planted directly in moist soil."
+      }
     ]
   },
   "issues": {
