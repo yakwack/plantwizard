@@ -18,6 +18,7 @@ body {
     padding: 0 1rem;
 }
 
+
 /* Header and Hero Section */
 .navbar {
     display: flex;
@@ -33,9 +34,46 @@ body {
     text-decoration: none;
     font-weight: bold;
 }
+.social-icon {
+    font-size: 1.5rem;
+    margin-left: 15px;
+    color: #e0d8c9;
+    padding: 5px;
+}
+.footer {
+    background-color: #E1DFD9;
+    color: #F8F8F8;
+    padding: 1rem 2rem;
+}
+.footer {
+    text-align: center;
+    padding: 1.5rem 0;
+    position: relative;
+    overflow: hidden; /* Important for containing the slant */
+}
+.footer::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    /* Create a trapezoid shape with a slight skew */
+    /*background-color: rgba(0, 0, 0, 0.1); /* Slight darkening for the effect */
+    background-color: #2d4739; /* Match footer background color */
+    transform: skewY(0.5deg); /* Mild slant from left to right */
+    transform-origin: top left;
+}
+
+.footer p {
+    position: relative;
+    z-index: 2; /* Keep text above the slant effect */
+    margin: 0;
+    font-size: 0.9rem;
+}
 
 .logo {
-    width: 300px; /* Overridden from 300px logo width in general styling */
+    width: 300px;
     height: auto;
     margin-bottom: 5px;
     font-size: 2.5rem;
