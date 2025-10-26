@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Plant Profile</title>
   <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="..." crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -58,34 +59,34 @@
           </div>
 
           <section class="battle-cards">
-            <div class="card">
+            <a href="#care" class="card">
               <h3><i class="fa-solid fa-seedling"></i> Care</h3>
               <p>${plant.care?.description || 'N/A'}</p>
-            </div>
+            </a>
 
-            <div class="card">
+            <a href="#watering" class="card">
               <h3><i class="fa-solid fa-hand-holding-droplet"></i> Watering</h3>
               <p>${plant.watering?.description || 'N/A'}</p>
               <small><strong>Frequency:</strong> ${plant.watering?.frequency || 'N/A'}</small>
-            </div>
+            </a>
 
-            <div class="card">
+            <a href="#light" class="card">
               <h3><i class="fa-solid fa-sun"></i> Light</h3>
               <p>${plant.light?.description || 'N/A'}</p>
               <small><strong>Ideal:</strong> ${plant.light?.idealHours || 'N/A'}</small>
-            </div>
+            </a>
 
-            <div class="card">
+            <a href="#medium" class="card">
               <h3><i class="fa-brands fa-pagelines"></i> Growing Medium</h3>
               <p>${plant.medium?.description || 'N/A'}</p>
-            </div>
+            </a>
 
-            <div class="card">
+            <a href="#propagation" class="card">
               <h3><i class="fa-solid fa-leaf"></i> Propagation</h3>
               <p>${plant.propagation?.description || 'N/A'}</p>
             </div>
 
-            <div class="card">
+            <a href="#toxicity" class="card">
               <h3><i class="fa-solid fa-book-skull"></i> Toxicity</h3>
               <p>${plant.toxicity?.description || 'N/A'}</p>
             </div>

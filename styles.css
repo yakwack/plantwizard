@@ -1,166 +1,172 @@
+/* General Body and Main Container Styling */
 body {
-  font-family: Condensed, sans-serif;
-  margin: 0;
-  /*background: #f0f4f1;*/
-  background: #dad7d1;
-  color: #333;
-}
-
-.navbar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  background: #2d4739;
-  color: white;
-  padding: 1rem 2rem;
-}
-
-.navbar a {
-  color: white;
-  text-decoration: none;
-  font-weight: bold;
-}
-
-.logo {
-  font-size: 2.5rem;
-  font-weight: bold;
-  font-family: 'Homenaje', sans-serif;
+    background-color: #f7f3e9; /* Background */
+    font-family: 'Inter', sans-serif; /* Fallback to Inter or generic sans-serif */
+    color: #2b1b11; /* Logo Brown as general text color */
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background: #dad7d1; /* From plant page CSS, overriding previous background-color */
+    color: #333; /* From plant page CSS, overriding previous text color */
 }
 
 .container {
-  max-width: 960px;
-  margin: 2rem auto;
-  padding: 0 1rem;
+    max-width: 950px;
+    margin: 0 auto;
+    padding: 20px;
+    margin: 2rem auto;
+    padding: 0 1rem;
 }
 
+/* Header and Hero Section */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #2d4739;
+    color: white;
+    padding: 1rem 2rem;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.logo {
+    width: 300px; /* Overridden from 300px logo width in general styling */
+    height: auto;
+    margin-bottom: 5px;
+    font-size: 2.5rem;
+    font-weight: bold;
+    font-family: 'Homenaje', sans-serif;
+}
+
+/* --- LANDING PAGE SPECIFIC STYLES (from earlier turns) --- */
+.hero-section {
+    position: relative;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #f7f3e9;
+    background-image:
+        linear-gradient(rgba(180, 105, 59, 0.5),rgba(32, 18, 8, 0.5)),
+        url(img/riverscene.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.hero-content {
+    padding: 20px 40px;
+    border-radius: 15px;
+}
+
+.hero-section h1 {
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 2rem;
+    margin-bottom: 0;
+}
+
+/* Main Content Sections */
+.content-section {
+    background-color: #e0d8c9;
+    padding: 40px;
+    border: 1px solid #c0b299;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.separator-line {
+    width: 100%;
+    height: 1px;
+    background-color: #c0b299;
+    margin: 15px auto;
+}
+
+.section-title {
+    font-size: 2.5rem;
+    color: #2b1b11;
+    margin-top: 0;
+    text-align: center;
+}
+
+.cabin-sketch {
+    font-family: 'Cabin Sketch', cursive;
+}
+
+/* Button Styling */
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #2b1b11;
+    color: #f7f3e9;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: #55771a;
+}
+
+/* Video Section Specifics */
+.video-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.video-item {
+    flex: 1 1 300px;
+    max-width: 350px;
+    text-align: center;
+}
+
+.video-item iframe {
+    width: 100%;
+    height: 200px;
+    border-radius: 8px;
+}
+/* --- END LANDING PAGE SPECIFIC STYLES --- */
+
+
+/* --- Directory Grid Styles (index.html) --- */
 .grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 1rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
 }
-
 .card h3 {
-  font-family: 'Homenaje', sans-serif;
-  margin-top: 0.5rem;
-  font-size: 1.5rem;
+    font-family: 'Homenaje', sans-serif;
+    margin-top: 0.5rem;
+    font-size: 1.5rem;
 }
-
 .card {
-  background: white;
-  border-radius: 10px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-  text-align: center;
-  padding: 1rem;
-  text-decoration: none;
-  color: inherit;
-  transition: transform 0.2s;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    text-align: center;
+    padding: 1rem;
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.2s;
 }
-
 .card:hover {
-  transform: translateY(-4px);
+    transform: translateY(-4px);
 }
-
 .card img {
-  width: 100%;
-  height: 300px;
-  object-fit: cover;
-  border-radius: 8px;
-  position: center;
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 8px;
+    position: center;
 }
-
-.profile-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 1.5rem;
-  margin-bottom: 2rem;
-}
-
-.profile-header h2 {
-  margin: 0;
-  font-size: 3rem;
-  font-family: 'Homenaje', sans-serif;
-}
-
-.profile-header img {
-  width: 200px;
-  border-radius: 12px;
-  object-fit: cover;
-}
-
-.battle-cards {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 1rem;
-  margin: 2rem 0;
-}
-
-.battle-cards .card {
-  background: #fff;
-  border-radius: 12px;
-  padding: 1rem;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-}
-
-.full-width {
-  width: 100%;
-}
-
-ul {
-  display: inline-block;   
-  text-align: left;        
-  padding:0%;               
-  list-style-position: inside;
-  margin: 0 auto;          /* center ul in parent div */
-  list-style-type: square;
-}
-
-
-.how-to-gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 1rem;
-  margin: 1rem 0;
-  max-width: 900px;
-  margin: 1rem auto;
-}
-.how-to-gallery figure {
-  /* Ensure the figure takes up the full grid cell */
-  margin: 0; 
-  padding: 0;
-  display: flex;
-  flex-direction: column; /* Stacks the image and caption vertically */
-}
-
-
-.how-to-gallery img {
-  width: 100%; /* Image fills its figure container */
-  height: auto;
-  border-radius: 8px;
-  box-shadow: 0 1px 4px rgba(68, 43, 43, 0.2);
-}
-
-.how-to-gallery figcaption {
-  text-align: center;
-  margin-top: 5px;
-  font-size: 0.9em;
-  color: #555;
-  padding: 0 5px; /* Add slight horizontal padding */
-}
-
-.gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 0.5rem;
-  margin-top: 1rem;
-}
-
-.gallery img {
-  width: 100%;
-  border-radius: 6px;
-  object-fit: cover;
-}
-
 .tags-container {
     display: flex;
     flex-wrap: wrap;
@@ -168,7 +174,6 @@ ul {
     gap: 5px;
     margin-top: 10px;
 }
-
 .tag {
     background: #e6e6e6;
     color: #2d4739;
@@ -176,114 +181,266 @@ ul {
     border-radius: 20px;
     font-size: 0.8rem;
 }
-/* Styling for the search container to center the input */
 .search-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  margin: 20px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 20px 0;
 }
-
-/* Style the search input field */
 #plant-search {
-  width: 100%;
-  max-width: 500px;
-  padding: 12px 20px;
-  border: 2px solid #ddd;
-  border-radius: 25px;
-  font-size: 16px;
-  outline: none;
-  transition: border-color 0.3s ease-in-out;
+    width: 100%;
+    max-width: 500px;
+    padding: 12px 20px;
+    border: 2px solid #ddd;
+    border-radius: 25px;
+    font-size: 16px;
+    outline: none;
+    transition: border-color 0.3s ease-in-out;
 }
-
 #plant-search:focus {
-  border-color: #5cb85c;
+    border-color: #5cb85c;
 }
-
-/* Styles for the popular tags container */
 .popular-tags {
-  margin-top: 15px;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 10px;
+    margin-top: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
 }
-
-/* Individual tag style */
 .popular-tags .tag {
-  cursor: pointer;
-  background-color: #e9e9e9;
-  color: #555;
-  border-radius: 20px;
-  padding: 8px 15px;
-  font-size: 14px;
-  transition: background-color 0.3s ease-in-out, transform 0.2s ease-in-out;
+    cursor: pointer;
+    background-color: #e9e9e9;
+    color: #555;
+    border-radius: 20px;
+    padding: 8px 15px;
+    font-size: 14px;
+    transition: background-color 0.3s ease-in-out, transform 0.2s ease-in-out;
 }
-
 .popular-tags .tag:hover {
-  background-color: #ddd;
-  transform: translateY(-2px);
+    background-color: #ddd;
+    transform: translateY(-2px);
 }
 
-@media (max-width: 768px) {
-  /* Adjustments for the Navbar */
-  .navbar {
-    flex-direction: column;
-    padding: 1rem;
-    text-align: center;
-  }
+/* --- PLANT PROFILE SPECIFIC STYLES (plant.html) --- */
 
-  .navbar nav {
-    margin-top: 1rem;
-  }
-
-  /* Adjustments for the Main Container */
-  .container {
-    padding: 0 1rem;
-    margin: 1rem auto;
-  }
-
-  /* Adjustments for the Profile Header */
-  .profile-header {
-    flex-direction: column;
+.profile-header {
+    display: flex;
+    justify-content: space-between;
     align-items: center;
-    text-align: center;
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.profile-header h2 {
+    margin: 0;
+    font-size: 3rem;
+    font-family: 'Homenaje', sans-serif;
+}
+
+.profile-header img {
+    width: 200px;
+    border-radius: 12px;
+    object-fit: cover;
+}
+
+.battle-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap: 1rem;
-    margin-bottom: 1.5rem;
-  }
+    margin: 2rem 0;
+}
 
-  .profile-header h2 {
-    font-size: 2.5rem;
-  }
+.battle-cards .card {
+    background: #fff;
+    border-radius: 12px;
+    padding: 1rem;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
 
-  .profile-header img {
-    width: 300px; /* Makes the image more fluid on small screens */
+.full-width {
+    width: 100%;
+}
+
+ul {
+    display: inline-block; 	
+    text-align: left; 	
+    padding:0%; 		
+    list-style-position: inside;
+    margin: 0 auto; 	/* center ul in parent div */
+    list-style-type: square;
+}
+
+/* Styles for Floating Images (Image/Text Layout) */
+.content-wrapper {
+    /* REMOVED display: flex to allow floats to work */
+    overflow: auto; /* Contains the floats */
+    padding-bottom: 20px; /* Space below the content */
+    align-items: flex-start;
+    margin-top: 20px;
+    text-align: left;
+}
+
+.content-wrapper p {
+    /* REMOVED flex: 1; as it is no longer a flex item */
+    margin: 0;
+    font-size: 1.1rem;
+}
+
+.section-image {
+    float: left; 
+    margin-right: 20px;
+    max-width: 100%; 
+    width: 300px; 
+    height: auto; 
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.section-image-right {
+    float: right; 
+    margin-left: 20px;
+    max-width: 100%; 
+    width: 300px; 
+    height: auto; 
+    object-fit: cover;
+    border-radius: 8px; 
+}
+
+
+/* How-To Gallery (Small Images with Captions) */
+.how-to-gallery {
+    display: grid;
+    /* This setting allows a max of 3 columns (3 * 200px + gaps = ~650px) */
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    max-width: 900px;
+    margin: 1rem auto; /* Centers the whole gallery */
+}
+.how-to-gallery figure {
+    margin: 0; 
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+.how-to-gallery img {
+    width: 100%; 
     height: auto;
-  }
+    border-radius: 8px;
+    box-shadow: 0 1px 4px rgba(68, 43, 43, 0.2);
+}
+.how-to-gallery figcaption {
+    text-align: center;
+    margin-top: 5px;
+    font-size: 0.9em;
+    color: #555;
+    padding: 0 5px;
+}
 
-  /* Adjustments for the Battle Cards */
-  .battle-cards {
-    grid-template-columns: 1fr; /* Stacks cards on top of each other */
-    gap: 1rem;
-  }
+/* Main Gallery (Large Images) */
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 0.5rem;
+    margin-top: 1rem;
+}
+.gallery img {
+    width: 100%;
+    border-radius: 6px;
+    object-fit: cover;
+}
 
-  /* Adjustments for the in-depth sections */
-  .full-width {
-    padding: 1rem;
-    margin: 1rem 0;
-  }
+/* General Utilities */
+.section-icon {
+    width: 32px;
+    height: auto;
+}
+/* Ensure anchor links inside battle-cards act like blocks */
+.battle-cards a.card {
+    /* Set display to match the original div behavior */
+    display: block; 
+    /* Inherit/override link styles */
+    text-decoration: none;
+    color: inherit;
+}
 
-  .care-section .how-to-gallery {
-    flex-direction: column;
-    align-items: center;
-  }
-  
-  .care-section .how-to-gallery img {
-    width: 90%; /* Makes how-to images larger on mobile */
-  }
+/* ========================================================= */
+/* --- MOBILE OPTIMIZATION (Media Query) --- */
+/* ========================================================= */
+@media (max-width: 768px) {
+    /* 1. Global Readability & Spacing */
+    body {
+        font-size: 18px; /* Increased base font size */
+        background-color: #ece9e2;
+    }
+    .container {
+        padding: 0 15px; /* Increased horizontal space by reducing padding */
+        margin-top: 20px;
+    }
 
-  .gallery {
-    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
-  }
+    /* 2. Header Stacking */
+    .navbar {
+        flex-direction: column;
+        text-align: center;
+        padding: 1rem 15px;
+    }
+    .navbar nav {
+        margin-top: 10px;
+    }
+
+    /* 3. Profile Header Stacking (Main Image & Text) */
+    .profile-header {
+        flex-direction: column; /* Stack image and text */
+        align-items: center;
+        text-align: center;
+        gap: 1.5rem;
+    }
+    .profile-header h2 {
+        font-size: 2.5rem;
+    }
+    .profile-header img {
+        width: 100%; /* Image takes full container width */
+        max-width: 350px; /* Cap size on wider mobile screens */
+        height: auto;
+    }
+
+    /* 4. Detail Sections & Battle Cards Stacking */
+    .battle-cards {
+        grid-template-columns: 1fr; /* Stack into a single column */
+    }
+    .full-width {
+        padding: 20px 15px; /* Reduced vertical padding but generous horizontal space */
+    }
+    .full-width h3 {
+        font-size: 1.8rem;
+    }
+
+    /* 5. Floating Image Reset (Critical for Mobile Readability) */
+    .section-image,
+    .section-image-right {
+        float: none; /* Disables text wrap */
+        margin: 0 auto 20px auto; /* Centers the image */
+        width: 100%;
+        max-width: 350px; /* Max width for images */
+        height: auto; /* Allow height to flex */
+        display: block;
+    }
+
+    /* 6. Gallery Stacking */
+    .how-to-gallery,
+    .gallery {
+        grid-template-columns: 1fr; /* Forces all galleries to single column */
+        margin: 1rem auto;
+    }
+    .gallery img {
+        height: 250px; /* Smaller height for stacking consistency */
+    }
+    .grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 0.8rem; /* Tighter gap to help fit three columns */
+    }
+    .card img {
+        height: 200px; /* Reduced height to save vertical space on mobile */
+        width: 100%;
+    }
 }
