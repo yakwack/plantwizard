@@ -17,7 +17,12 @@ body {
     margin: 2rem auto;
     padding: 0 1rem;
 }
-
+.picon-line {
+    font-family: 'Yarndings 20', monospace;
+    font-size: 24px;
+    padding: none;
+    margin: none;
+}
 
 /* Header and Hero Section */
 .navbar {
@@ -181,28 +186,37 @@ body {
     gap: 1rem;
 }
 .card h3 {
-    font-family: 'Homenaje', sans-serif;
+    font-family:'IM Fell French Canon SC', sans-serif;
     margin-top: 0.5rem;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
+    border-top: 1px solid #c0b299;
+    border-bottom: 1px solid #c0b299;
+}
+.card p {
+    /*font-family: 'Homenaje', sans-serif;*/
+    font-size: 0.9rem;
+    color: #212221;
 }
 .card {
     background: white;
     border-radius: 10px;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    box-shadow: 0 5px 6px rgba(0,0,0,0.1);
     text-align: center;
-    padding: 1rem;
+    padding: .5rem;
     text-decoration: none;
     color: inherit;
     transition: transform 0.2s;
 }
 .card:hover {
+    border: 2px solid #c0b299;
     transform: translateY(-4px);
 }
 .card img {
     width: 100%;
     height: 300px;
     object-fit: cover;
-    border-radius: 8px;
+    border: 1px solid #c0b299;
+    border-radius: 4px;
     position: center;
 }
 .tags-container {
@@ -224,7 +238,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    margin: 20px 0;
+    margin: 10px 0;
 }
 #plant-search {
     width: 100%;
@@ -273,7 +287,7 @@ body {
 .profile-header h2 {
     margin: 0;
     font-size: 3rem;
-    font-family: 'Homenaje', sans-serif;
+    font-family: 'IM Fell French Canon SC', sans-serif;
 }
 
 .profile-header img {
@@ -307,6 +321,8 @@ ul {
     list-style-position: inside;
     margin: 0 auto; 	/* center ul in parent div */
     list-style-type: square;
+    font-size: 0.9rem;
+    color: #212221;
 }
 
 /* Styles for Floating Images (Image/Text Layout) */

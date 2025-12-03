@@ -13,7 +13,7 @@
     "images/goldenpothos/pothos1.jpg",
     "images/goldenpothos/pothos2.jpg",
     "images/goldenpothos/pothos3.jpg",
-    "images/golgenpothos/pothos4.jpg",
+    "images/goldenpothos/pothos4.jpg",
     "images/goldenpothos/pothos5.jpg",
     "images/goldenpothos/pothos6.jpg"
   ],
@@ -22,7 +22,8 @@
     "tips": [
       "Does well in a standard potting mix with SOME orchid or cactus mix to create a moist but airy environment.",
       "Dust the leaves occasionally to help them absorb light better, or try and water leaves and soil simultaneously.",
-      "Trim back vines, root them in water and replant in the same pot to create a fuller plant."
+      "Trim back vines, root them in water and replant in the same pot to create a fuller plant.",
+      "Can be rooted in water indefinitely, thus it's easy to occasionally trim it back and keep a plant ready for planting"
     ],
     "issues": [
       "<strong>Yellowing leaves:</strong> Usually a sign of overwatering. Allow the soil to dry out more between waterings.",
@@ -144,6 +145,11 @@
   },
   "toxicity": {
     "description": "The entire plant is toxic to cats, dogs, and humans if ingested. It can cause mouth irritation, vomiting, and difficulty swallowing."
+  },
+
+  "temperature": {
+    "description": "A tropical plant that needs consistent warmth and doesn't do well in cold drafts or temps below 50°F (10°C).",
+    "idealRange": "65-85°F (18-29°C)"
   },
   "tags": [
     "vining",
