@@ -327,7 +327,6 @@ ul {
 
 /* Styles for Floating Images (Image/Text Layout) */
 .content-wrapper {
-    /* REMOVED display: flex to allow floats to work */
     overflow: auto; /* Contains the floats */
     padding-bottom: 20px; /* Space below the content */
     align-items: flex-start;
